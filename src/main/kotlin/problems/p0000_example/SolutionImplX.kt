@@ -1,20 +1,24 @@
-package problems.p0000_Example
+package problems.p0000_example
 
 /**
- * Complexity:
+ * **LeetCode Performance:**
+ * - Runtime: `XX ms` (Beats `YY%` of Kotlin submissions)
+ * - Memory: `ZZ MB` (Beats `WW%` of Kotlin submissions)
+ *
+ * **Complexity:**
  * - Time: `O(?)`
  * - Space: `O(?)`
  *
- * Approach:
+ * **Approach:**
  * - Step 1
  * - ...
  *
- * Techniques:
+ * **Techniques:**
  * - HashMap
  * - Two Pointers
  * - ...
  *
- * Notes:
+ * **Notes:**
  * - Any important remarks about this solution
  */
 class SolutionImplX : Solution {

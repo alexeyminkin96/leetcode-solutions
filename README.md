@@ -10,6 +10,8 @@ The purpose of this repository is:
 - To track my progress over time
 - To compare different solution approaches (brute force vs. optimized)
 - To help others who are trying to understand algorithmic problems by providing clean and well-documented examples
+- **To achieve the best possible performance in LeetCode test runs, even if it comes at the cost of code readability**
+
 
 ---
 
@@ -22,11 +24,11 @@ src/
  └── main/
      └── kotlin/
          └── problems/
-             ├── p0001_Two_Sum/
+             ├── p0001_two_sum/
              │   ├── Solution.kt
              │   ├── SolutionImpl1.kt
              │   └── SolutionImpl2.kt
-             ├── p0002_Add_Two_Numbers/
+             ├── p0002_add_two_numbers/
              │   ├── Solution.kt
              │   └── SolutionImpl1.kt
              └── ...
@@ -40,9 +42,9 @@ Each folder contains:
 
 ## 📝 Documentation style
 
-Instead of inline examples, see the package [p0000_Example](src/main/kotlin/problems/p0000_Example) which contains:
-1. template [Solution.kt](src/main/kotlin/problems/p0000_Example/Solution.kt): problem description, constraints, examples
-2. template [SolutionImplX.kt](src/main/kotlin/problems/p0000_Example/SolutionImplX.kt): approach, complexity, techniques.
+Instead of inline examples, see the package [p0000_Example](src/main/kotlin/problems/p0000_example) which contains:
+1. template [Solution.kt](src/main/kotlin/problems/p0000_example/Solution.kt): problem description, constraints, examples
+2. template [SolutionImplX.kt](src/main/kotlin/problems/p0000_example/SolutionImplX.kt): approach, complexity, techniques.
 
 ---
 

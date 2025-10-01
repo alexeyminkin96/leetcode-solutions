@@ -1,4 +1,4 @@
-package problems.p0000_Example
+package problems.p0000_example
 
 /**
  * **[Problem Title](https://leetcode.com/problems/...)**

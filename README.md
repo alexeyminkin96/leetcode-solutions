@@ -12,7 +12,6 @@ The purpose of this repository is:
 - To help others who are trying to understand algorithmic problems by providing clean and well-documented examples
 - **To achieve the best possible performance in LeetCode test runs, even if it comes at the cost of code readability**
 
-
 ---
 
 ## 📂 Project Structure
@@ -24,11 +23,11 @@ src/
  └── main/
      └── kotlin/
          └── problems/
-             ├── p0001_two_sum/
+             ├── p0001/
              │   ├── Solution.kt
              │   ├── SolutionImpl1.kt
              │   └── SolutionImpl2.kt
-             ├── p0002_add_two_numbers/
+             ├── p0002/
              │   ├── Solution.kt
              │   └── SolutionImpl1.kt
              └── ...
@@ -42,9 +41,16 @@ Each folder contains:
 
 ## 📝 Documentation style
 
-Instead of inline examples, see the package [p0000_Example](src/main/kotlin/problems/p0000_example) which contains:
-1. template [Solution.kt](src/main/kotlin/problems/p0000_example/Solution.kt): problem description, constraints, examples
-2. template [SolutionImplX.kt](src/main/kotlin/problems/p0000_example/SolutionImplX.kt): approach, complexity, techniques.
+Instead of inline examples, see the package [p0000](src/main/kotlin/problems/p0000) which contains:
+1. template [Solution.kt](src/main/kotlin/problems/p0000/Solution.kt): problem description, constraints, examples
+2. template [SolutionImplX.kt](src/main/kotlin/problems/p0000/SolutionImplX.kt): approach, complexity, techniques.
+
+---
+
+## 📂 Navigation
+
+See [NAVIGATION.md](NAVIGATION.md) for the full list of solved problems,  
+with links to implementations and performance metrics.
 
 ---
 
@@ -52,13 +58,6 @@ Instead of inline examples, see the package [p0000_Example](src/main/kotlin/prob
 
 You can run the solutions using your favorite Kotlin environment or IDE (e.g., IntelliJ IDEA).  
 Tests and benchmarks can be added later for validation and performance comparison.
-
----
-
-## 📊 Progress
-
-Number of solved problems: **X**  
-(Will be updated as I continue solving problems)
 
 ---
 

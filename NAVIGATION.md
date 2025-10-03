@@ -1,4 +1,4 @@
-# Solved problems: 4
+# Solved problems: 5
 
 | №    | Problem                                                 | Best runtime   | Best memory      |
 |------|---------------------------------------------------------|----------------|------------------|
@@ -6,3 +6,4 @@
 | 0002 | [Add Two Numbers](src/main/kotlin/problems/p0002)       | 2ms (86.29%)   | 46.12MB (67.64%) |
 | 0014 | [Longest Common Prefix](src/main/kotlin/problems/p0014) | 1ms (99.41%)   | 41.42MB (82.23%) |
 | 0015 | [3Sum](src/main/kotlin/problems/p0015)                  | 32ms (100.00%) | 65.61MB (86.30%) |
+| 0016 | [3sSum Closest](src/main/kotlin/problems/p0016)         | 4ms (100.00%)  | 43.28MB (99.68%) |

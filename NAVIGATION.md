@@ -1,4 +1,4 @@
-# Solved problems: 7
+# Solved problems: 8
 
 | №    | Problem                                                            | Best runtime   | Best memory      |
 |------|--------------------------------------------------------------------|----------------|------------------|
@@ -9,3 +9,4 @@
 | 0015 | [3Sum](src/main/kotlin/problems/p0015)                             | 32ms (100.00%) | 65.61MB (86.30%) |
 | 0016 | [3sSum Closest](src/main/kotlin/problems/p0016)                    | 4ms (100.00%)  | 43.28MB (99.68%) |
 | 0019 | [Remove Nth Node From End of List](src/main/kotlin/problems/p0019) | 0ms (100.00%)  | 41.17MB (95.66%) |
+| 0020 | [Valid Parentheses](src/main/kotlin/problems/p0020)                | 1ms (99.94%)   | 41.34MB (88.14%) |

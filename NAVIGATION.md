@@ -1,4 +1,4 @@
-# Solved problems: 9
+# Solved problems: 10
 
 | №    | Problem                                                            | Best runtime   | Best memory      |
 |------|--------------------------------------------------------------------|----------------|------------------|
@@ -11,3 +11,4 @@
 | 0019 | [Remove Nth Node From End of List](src/main/kotlin/problems/p0019) | 0ms (100.00%)  | 41.17MB (95.66%) |
 | 0020 | [Valid Parentheses](src/main/kotlin/problems/p0020)                | 1ms (99.94%)   | 41.34MB (88.14%) |
 | 0021 | [Merge Two Sorted Lists](src/main/kotlin/problems/p0021)           | 0ms (100.00%)  | 42.80MB (54.41%) |
+| 0023 | [Merge k Sorted Lists](src/main/kotlin/problems/p0023)             | 5ms (91.00%)   | 45.35MB (84.54%) |

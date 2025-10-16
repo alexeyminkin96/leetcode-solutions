@@ -1,4 +1,4 @@
-# Solved problems: 13
+# Solved problems: 14
 
 | №    | Problem                                                              | Best runtime   | Best memory      |
 |------|----------------------------------------------------------------------|----------------|------------------|
@@ -14,4 +14,5 @@
 | 0022 | [Generate Parentheses](src/main/kotlin/problems/p0022)               | 2ms (48.74%)   | 42.06MB (98.74%) |
 | 0023 | [Merge k Sorted Lists](src/main/kotlin/problems/p0023)               | 5ms (91.00%)   | 45.35MB (84.54%) |
 | 0024 | [Swap Nodes in Pairs](src/main/kotlin/problems/p0024)                | 0ms (100.00%)  | 40.57MB (93.55%) |
+| 0025 | [Reverse Nodes in k-Group](src/main/kotlin/problems/p0025)           | 1ms (69.94%)   | 44.13MB (98.27%) |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167) | 2ms (95.87%)   | 50.60MB (62.26%) |

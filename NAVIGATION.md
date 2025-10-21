@@ -1,9 +1,10 @@
-# Solved problems: 16
+# Solved problems: 17
 
 | №    | Problem                                                                               | Best runtime   | Best memory      |
 |------|---------------------------------------------------------------------------------------|----------------|------------------|
 | 0001 | [Two Sum](src/main/kotlin/problems/p0001)                                             | 2ms (98.52%)   | 45.94MB (94.00%) |
 | 0002 | [Add Two Numbers](src/main/kotlin/problems/p0002)                                     | 2ms (86.29%)   | 46.12MB (67.64%) |
+| 0006 | [Zigzag Conversion](src/main/kotlin/problems/p0006)                                   | 3ms (100.00%)  | 46.28MB (79.06%) |
 | 0007 | [Reverse Integer](src/main/kotlin/problems/p0007)                                     | 80ms (98.38%)  | 40.23MB (59.11%) |
 | 0014 | [Longest Common Prefix](src/main/kotlin/problems/p0014)                               | 1ms (99.41%)   | 41.42MB (82.23%) |
 | 0015 | [3Sum](src/main/kotlin/problems/p0015)                                                | 32ms (100.00%) | 65.61MB (86.30%) |

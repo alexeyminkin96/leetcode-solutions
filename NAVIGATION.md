@@ -1,4 +1,4 @@
-# Solved problems: 18
+# Solved problems: 19
 
 | №    | Problem                                                                               | Best runtime   | Best memory      |
 |------|---------------------------------------------------------------------------------------|----------------|------------------|
@@ -18,5 +18,6 @@
 | 0024 | [Swap Nodes in Pairs](src/main/kotlin/problems/p0024)                                 | 0ms (100.00%)  | 40.57MB (93.55%) |
 | 0025 | [Reverse Nodes in k-Group](src/main/kotlin/problems/p0025)                            | 1ms (69.94%)   | 44.13MB (98.27%) |
 | 0026 | [Remove Duplicates from Sorted Array](src/main/kotlin/problems/p0026)                 | 1ms (100.00%)  | 47.21MB (80.90%) |
+| 0027 | [Remove Element](src/main/kotlin/problems/p0027)                                      | 0ms (100.00%)  | 41.15MB (85.95%) |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                  | 2ms (95.87%)   | 50.60MB (62.26%) |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011) | 0ms (100.00%)  | 44.01MB (37.04%) |

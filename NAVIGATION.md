@@ -1,9 +1,10 @@
-# Solved problems: 19
+# Solved problems: 20
 
 | №    | Problem                                                                               | Best runtime   | Best memory      |
 |------|---------------------------------------------------------------------------------------|----------------|------------------|
 | 0001 | [Two Sum](src/main/kotlin/problems/p0001)                                             | 2ms (98.52%)   | 45.94MB (94.00%) |
 | 0002 | [Add Two Numbers](src/main/kotlin/problems/p0002)                                     | 2ms (86.29%)   | 46.12MB (67.64%) |
+| 0003 | [Longest Substring Without Repeating Characters](src/main/kotlin/problems/p0003)      | 6ms (94.01%)   | 44.94MB (90.74%) |
 | 0006 | [Zigzag Conversion](src/main/kotlin/problems/p0006)                                   | 3ms (100.00%)  | 46.28MB (79.06%) |
 | 0007 | [Reverse Integer](src/main/kotlin/problems/p0007)                                     | 80ms (98.38%)  | 40.23MB (59.11%) |
 | 0011 | [Container With Most Water](src/main/kotlin/problems/p0011)                           | 3ms (98.55%)   | 59.93MB (70.70%) |

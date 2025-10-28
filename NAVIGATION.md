@@ -1,4 +1,4 @@
-# Solved problems: 21
+# Solved problems: 22
 
 | №    | Problem                                                                               | Best runtime   | Best memory      |
 |------|---------------------------------------------------------------------------------------|----------------|------------------|
@@ -9,6 +9,7 @@
 | 0007 | [Reverse Integer](src/main/kotlin/problems/p0007)                                     | 80ms (98.38%)  | 40.23MB (59.11%) |
 | 0011 | [Container With Most Water](src/main/kotlin/problems/p0011)                           | 3ms (98.55%)   | 59.93MB (70.70%) |
 | 0012 | [Integer to Roman](src/main/kotlin/problems/p0012)                                    | 4ms (84.77%)   | 44.96MB (97.97%) |
+| 0013 | [Roman to Integer](src/main/kotlin/problems/p0013)                                    | 3ms (99.64%)   | 45.60MB (83.14%) |
 | 0014 | [Longest Common Prefix](src/main/kotlin/problems/p0014)                               | 1ms (99.41%)   | 41.42MB (82.23%) |
 | 0015 | [3Sum](src/main/kotlin/problems/p0015)                                                | 32ms (100.00%) | 65.61MB (86.30%) |
 | 0016 | [3sSum Closest](src/main/kotlin/problems/p0016)                                       | 4ms (100.00%)  | 43.28MB (99.68%) |

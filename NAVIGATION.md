@@ -1,4 +1,4 @@
-# Solved problems: 23
+# Solved problems: 24
 
 | №    | Problem                                                                               | Best runtime   | Best memory      |
 |------|---------------------------------------------------------------------------------------|----------------|------------------|
@@ -24,4 +24,5 @@
 | 0027 | [Remove Element](src/main/kotlin/problems/p0027)                                      | 0ms (100.00%)  | 41.15MB (85.95%) |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                  | 2ms (95.87%)   | 50.60MB (62.26%) |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011) | 0ms (100.00%)  | 44.01MB (37.04%) |
+| 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                | 2ms (88.89%)   | 45.18MB (88.89%) |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                   | 0ms (100.00%)  | 40.84MB (57.14%) |

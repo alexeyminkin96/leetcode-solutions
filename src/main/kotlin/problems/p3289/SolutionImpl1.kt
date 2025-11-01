@@ -2,8 +2,8 @@ package problems.p3289
 
 /**
  * **LeetCode Performance:**
- * - Runtime: `2 ms` (Beats `88.89%` of Kotlin submissions)
- * - Memory: `45.18 MB` (Beats `88.89%` of Kotlin submissions)
+ * - Runtime: `2 ms` (Beats `92.31%` of Kotlin submissions)
+ * - Memory: `45.18 MB` (Beats `88.46%` of Kotlin submissions)
  *
  * **Complexity:**
  * - Time: `O(n)`

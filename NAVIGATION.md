@@ -1,4 +1,4 @@
-# Solved problems: 26
+# Solved problems: 27
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -22,6 +22,7 @@
 | 0025 | [Reverse Nodes in k-Group](src/main/kotlin/problems/p0025)                                         | 1ms (69.94%)   | 44.13MB (98.27%)  |
 | 0026 | [Remove Duplicates from Sorted Array](src/main/kotlin/problems/p0026)                              | 1ms (100.00%)  | 47.21MB (80.90%)  |
 | 0027 | [Remove Element](src/main/kotlin/problems/p0027)                                                   | 0ms (100.00%)  | 41.15MB (85.95%)  |
+| 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)          | 0ms (100.00%)  | 47.38MB (70.43%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)   | 50.60MB (62.26%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)   | 60.58MB (58.33%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%) | 65.12MB (100.00%) |

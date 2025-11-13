@@ -1,4 +1,4 @@
-# Solved problems: 29
+# Solved problems: 30
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -25,6 +25,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)          | 0ms (100.00%)  | 47.38MB (70.43%)  |
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                           | 0ms (100.00%)  | 43.26MB (64.51%)  |
 | 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                         | 0ms (100.00%)  | 41.51MB (67.34%)  |
+| 0067 | [Add Binary](src/main/kotlin/problems/p0067)                                                       | 2ms (98.19%)   | 41.95MB (91.99%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)   | 50.60MB (62.26%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)   | 60.58MB (58.33%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%) | 65.12MB (100.00%) |

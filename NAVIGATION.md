@@ -1,4 +1,4 @@
-# Solved problems: 30
+# Solved problems: 31
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -7,6 +7,7 @@
 | 0003 | [Longest Substring Without Repeating Characters](src/main/kotlin/problems/p0003)                   | 6ms (94.01%)   | 44.94MB (90.74%)  |
 | 0006 | [Zigzag Conversion](src/main/kotlin/problems/p0006)                                                | 3ms (100.00%)  | 46.28MB (79.06%)  |
 | 0007 | [Reverse Integer](src/main/kotlin/problems/p0007)                                                  | 80ms (98.38%)  | 40.23MB (59.11%)  |
+| 0009 | [Palindrome Number](src/main/kotlin/problems/p0009)                                                | 5ms (99.08%)   | 45.48MB (93.25%)  |
 | 0011 | [Container With Most Water](src/main/kotlin/problems/p0011)                                        | 3ms (98.55%)   | 59.93MB (70.70%)  |
 | 0012 | [Integer to Roman](src/main/kotlin/problems/p0012)                                                 | 4ms (84.77%)   | 44.96MB (97.97%)  |
 | 0013 | [Roman to Integer](src/main/kotlin/problems/p0013)                                                 | 3ms (99.64%)   | 45.60MB (83.14%)  |

@@ -23,6 +23,7 @@
 | 0025 | [Reverse Nodes in k-Group](src/main/kotlin/problems/p0025)                                         | 1ms (69.94%)   | 44.13MB (98.27%)  |
 | 0026 | [Remove Duplicates from Sorted Array](src/main/kotlin/problems/p0026)                              | 1ms (100.00%)  | 47.21MB (80.90%)  |
 | 0027 | [Remove Element](src/main/kotlin/problems/p0027)                                                   | 0ms (100.00%)  | 41.15MB (85.95%)  |
+| 0028 | [Find the Index of the First Occurrence in a String](src/main/kotlin/problems/p0028)               | 0ms (100.00%)  | 40.88MB (77.07%)  |
 | 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)          | 0ms (100.00%)  | 47.38MB (70.43%)  |
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                           | 0ms (100.00%)  | 43.26MB (64.51%)  |
 | 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                         | 0ms (100.00%)  | 41.51MB (67.34%)  |

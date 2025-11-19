@@ -1,4 +1,4 @@
-# Solved problems: 34
+# Solved problems: 35
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -34,5 +34,6 @@
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)   | 60.58MB (58.33%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%) | 65.12MB (100.00%) |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)  | 44.01MB (37.04%)  |
+| 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)  | 44.91MB (100.00%) |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                             | 1ms (100.00%)  | 45.18MB (88.46%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                | 0ms (100.00%)  | 40.84MB (57.14%)  |

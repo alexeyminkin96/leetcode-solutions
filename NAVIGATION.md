@@ -1,4 +1,4 @@
-# Solved problems: 39
+# Solved problems: 40
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -31,6 +31,7 @@
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)   | 50.60MB (62.26%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                       | 0ms (100.00%)  | 43.24MB (50.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                               | 16ms (100.00%) | 49.85MB (100.00%) |
+| 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                  | 4ms (100.00%)  | 50.15MB (25.00%)  |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)               | 1ms (100.00%)  | 61.36MB (66.67%)  |
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                | 4ms (98.06%)   | 44.91MB (70.97%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)   | 60.58MB (58.33%)  |

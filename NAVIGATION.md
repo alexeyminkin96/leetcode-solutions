@@ -1,4 +1,4 @@
-# Solved problems: 43
+# Solved problems: 44
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -46,3 +46,4 @@
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)  | 0ms (100.00%)  | 42.18MB (90.00%)  |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                             | 1ms (100.00%)  | 45.18MB (88.46%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                | 0ms (100.00%)  | 40.84MB (57.14%)  |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                  | 8ms (100.00%)  | 82.26MB (100.00%) |

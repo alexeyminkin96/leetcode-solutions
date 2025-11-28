@@ -1,4 +1,4 @@
-# Solved problems: 44
+# Solved problems: 45
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -43,6 +43,7 @@
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)  | 44.01MB (37.04%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)  | 44.91MB (100.00%) |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                      | 50ms (100.00%) | 92.33MB (—%)      |
+| 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                         | 29ms (100.00%) | 83.49MB (100.00%) |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)  | 0ms (100.00%)  | 42.18MB (90.00%)  |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                             | 1ms (100.00%)  | 45.18MB (88.46%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                | 0ms (100.00%)  | 40.84MB (57.14%)  |

@@ -39,6 +39,7 @@
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                | 4ms (98.06%)   | 44.91MB (70.97%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)   | 60.58MB (58.33%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%) | 65.12MB (100.00%) |
+| 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                          | 30ms (80.00%)  | 68.91MB (-%)      |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                         | 6ms (100.00%)  | 45.67MB (100.00%) |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)  | 44.01MB (37.04%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)  | 44.91MB (100.00%) |

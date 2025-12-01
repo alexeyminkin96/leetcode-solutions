@@ -8,6 +8,9 @@ package problems.p1590
  * **Complexity:**
  * - Time: `O(n)`
  * - Space: `O(n)`
+ *
+ * **Notes:**
+ * - [Full explanation](https://leetcode.com/problems/make-sum-divisible-by-p/solutions/7385427/kotlin-on-30ms-on-by-alexeyminkin-qmex)
  */
 class SolutionImpl1 : Solution {
     override fun minSubarray(nums: IntArray, p: Int): Int {

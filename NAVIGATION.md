@@ -1,4 +1,4 @@
-# Solved problems: 46
+# Solved problems: 48
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -42,6 +42,7 @@
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                          | 30ms (80.00%)  | 68.91MB (-%)      |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                         | 6ms (100.00%)  | 45.67MB (100.00%) |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)  | 44.01MB (37.04%)  |
+| 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                              | 17ms (100.00%) | 61.12MB (100.00%) |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)  | 44.91MB (100.00%) |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                      | 50ms (100.00%) | 92.33MB (—%)      |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                         | 29ms (100.00%) | 83.49MB (100.00%) |

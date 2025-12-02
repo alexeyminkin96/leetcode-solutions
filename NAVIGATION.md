@@ -1,4 +1,4 @@
-# Solved problems: 50
+# Solved problems: 51
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -29,6 +29,7 @@
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                           | 0ms (100.00%)  | 43.26MB (64.51%)  |
 | 0041 | [First Missing Positive](src/main/kotlin/problems/p0041)                                           | 2ms (99.32%)   | 62.19MB (66.67%)  |
 | 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                         | 0ms (100.00%)  | 41.51MB (67.34%)  |
+| 0069 | [Sqrt(x)](src/main/kotlin/problems/p0069)                                                          | 1ms (97.35%)   | 40.95MB (72.57%)  |
 | 0067 | [Add Binary](src/main/kotlin/problems/p0067)                                                       | 2ms (98.19%)   | 41.95MB (91.99%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)   | 50.60MB (62.26%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                       | 0ms (100.00%)  | 43.24MB (50.00%)  |

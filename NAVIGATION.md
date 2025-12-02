@@ -1,4 +1,4 @@
-# Solved problems: 53
+# Solved problems: 54
 
 | №    | Problem                                                                                            | Best runtime   | Best memory       |
 |------|----------------------------------------------------------------------------------------------------|----------------|-------------------|
@@ -33,6 +33,7 @@
 | 0069 | [Sqrt(x)](src/main/kotlin/problems/p0069)                                                          | 1ms (97.35%)   | 40.95MB (72.57%)  |
 | 0070 | [Climbing Stairs](src/main/kotlin/problems/p0070)                                                  | 0ms (100.00%)  | 39.71MB (86.99%)  |
 | 0083 | [Remove Duplicates from Sorted List](src/main/kotlin/problems/p0083)                               | 0ms (100.00%)  | 44.45MB (88.10%)  |
+| 0088 | [Merge Sorted Array](src/main/kotlin/problems/p0088)                                               | 0ms (100.00%)  | 41.31MB (93.36%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)   | 50.60MB (62.26%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                       | 0ms (100.00%)  | 43.24MB (50.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                               | 16ms (100.00%) | 49.85MB (100.00%) |

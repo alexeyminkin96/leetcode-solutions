@@ -1,4 +1,4 @@
-# Solved problems: 58
+# Solved problems: 59
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -58,6 +58,7 @@
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                             | 1ms (100.00%)   | 45.18MB (88.46%)   |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                | 0ms (100.00%)   | 40.84MB (57.14%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                  | 8ms (100.00%)   | 82.26MB (100.00%)  |
+| 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                        | 1ms (100.00%)   | 41.41MB (100.00%)  |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)              | 1ms (100.00%)   | 49.50MB (96.30%)   |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                     | 42ms (100.00%)  | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                    | 582ms (100.00%) | 200.59MB (100.00%) |

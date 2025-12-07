@@ -1,4 +1,4 @@
-# Solved problems: 63
+# Solved problems: 64
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -47,6 +47,7 @@
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                  | 4ms (100.00%)   | 50.15MB (25.00%)   |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)               | 1ms (100.00%)   | 61.36MB (66.67%)   |
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                | 4ms (98.06%)    | 44.91MB (70.97%)   |
+| 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                           | 61ms (100.00%)  | 35.60MB (100.00%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)    | 60.58MB (58.33%)   |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%)  | 65.12MB (100.00%)  |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                          | 30ms (80.00%)   | 68.91MB (-%)       |

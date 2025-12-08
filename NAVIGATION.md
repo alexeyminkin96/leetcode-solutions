@@ -1,4 +1,4 @@
-# Solved problems: 64
+# Solved problems: 65
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -51,6 +51,7 @@
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)    | 60.58MB (58.33%)   |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                               | 10ms (100.00%)  | 65.12MB (100.00%)  |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                          | 30ms (80.00%)   | 68.91MB (-%)       |
+| 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                         | 0ms (100.00%)   | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                         | 6ms (100.00%)   | 45.67MB (100.00%)  |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)   | 44.01MB (37.04%)   |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                              | 17ms (100.00%)  | 61.12MB (100.00%)  |

@@ -66,5 +66,6 @@
 | 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                        | 1ms (100.00%)   | 41.41MB (100.00%)  |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)              | 1ms (100.00%)   | 49.50MB (96.30%)   |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](src/main/kotlin/problems/p3578)               | 65ms (100.00%)  | 64.74MB (100.00%)  |
+| 3583 | [Count Special Triplets](src/main/kotlin/problems/p3583)                                           | 129ms (100.00%) | 81.27MB (100.00%)  |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                     | 42ms (100.00%)  | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                    | 582ms (100.00%) | 200.59MB (100.00%) |

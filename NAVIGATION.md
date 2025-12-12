@@ -1,4 +1,4 @@
-# Solved problems: 69
+# Solved problems: 70
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -65,6 +65,7 @@
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                | 0ms (100.00%)   | 40.84MB (57.14%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                  | 8ms (100.00%)   | 82.26MB (100.00%)  |
 | 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                        | 1ms (100.00%)   | 41.41MB (100.00%)  |
+| 3433 | [Count Mentions Per User](src/main/kotlin/problems/p3433)                                          | 11ms (100.00%)  | 48.99MB (100.00%)  |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)              | 1ms (100.00%)   | 49.50MB (96.30%)   |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                          | 23ms (100.00%)  | 117.49MB (66.67%)  |
 | 3577 | [Count the Number of Computer Unlocking Permutations](src/main/kotlin/problems/p3577)              | 2ms (100.00%)   | 67.73MB (50.00%)   |

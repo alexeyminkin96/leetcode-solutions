@@ -1,4 +1,4 @@
-# Solved problems: 70
+# Solved problems: 71
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -71,5 +71,6 @@
 | 3577 | [Count the Number of Computer Unlocking Permutations](src/main/kotlin/problems/p3577)              | 2ms (100.00%)   | 67.73MB (50.00%)   |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](src/main/kotlin/problems/p3578)               | 65ms (100.00%)  | 64.74MB (100.00%)  |
 | 3583 | [Count Special Triplets](src/main/kotlin/problems/p3583)                                           | 129ms (100.00%) | 81.27MB (100.00%)  |
+| 3606 | [Coupon Code Validator](src/main/kotlin/problems/p3606)                                            | 6ms (100.00%)   | 48.80MB (100.00%)  |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                     | 42ms (100.00%)  | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                    | 582ms (100.00%) | 200.59MB (100.00%) |

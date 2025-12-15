@@ -1,4 +1,4 @@
-# Solved problems: 72
+# Solved problems: 73
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -55,6 +55,7 @@
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                         | 0ms (100.00%)   | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                         | 6ms (100.00%)   | 45.67MB (100.00%)  |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)   | 44.01MB (37.04%)   |
+| 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                      | 3ms (100.00%)   | 62.11MB (100.00%)  |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                              | 17ms (100.00%)  | 61.12MB (100.00%)  |
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                         | 18ms (100.00%)  | 49.21MB (100.00%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)   | 44.91MB (100.00%)  |

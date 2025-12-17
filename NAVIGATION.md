@@ -1,4 +1,4 @@
-# Solved problems: 74
+# Solved problems: 75
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -41,6 +41,7 @@
 | 0104 | [Maximum Depth of Binary Tree](src/main/kotlin/problems/p0104)                                     | 0ms (100.00%)   | 42.62MB (83.52%)   |
 | 0108 | [Convert Sorted Array to Binary Search Tree](src/main/kotlin/problems/p0108)                       | 0ms (100.00%)   | 42.55MB (99.44%)   |
 | 0125 | [Valid Palindrome](src/main/kotlin/problems/p0125)                                                 | 3ms (100.00%)   | 44.04MB (78.23%)   |
+| 0136 | [Single Number](src/main/kotlin/problems/p0136)                                                    | 1ms (100.00%)   | 48.84MB (82.21%)   |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)    | 50.60MB (62.26%)   |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                       | 0ms (100.00%)   | 43.24MB (50.00%)   |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                               | 16ms (100.00%)  | 49.85MB (100.00%)  |

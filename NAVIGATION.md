@@ -1,4 +1,4 @@
-# Solved problems: 75
+# Solved problems: 76
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -78,3 +78,4 @@
 | 3606 | [Coupon Code Validator](src/main/kotlin/problems/p3606)                                            | 6ms (100.00%)   | 48.80MB (100.00%)  |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                     | 42ms (100.00%)  | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                    | 582ms (100.00%) | 200.59MB (100.00%) |
+| 3652 | [Best Time to Buy and Sell Stock using Strategy](src/main/kotlin/problems/p3652)                   | 4ms (100.00%)   | 77.04MB (87.50%)   |

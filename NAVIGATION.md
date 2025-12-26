@@ -1,4 +1,4 @@
-# Solved problems: 84
+# Solved problems: 85
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -69,6 +69,7 @@
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)   | 44.91MB (100.00%)  |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                       | 13ms (100.00%)  | 46.60MB (100.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                      | 50ms (100.00%)  | 92.33MB (—%)       |
+| 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                       | 5ms (100.00%)   | 45.60MB (100.00%)  |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                         | 29ms (100.00%)  | 83.49MB (100.00%)  |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                  | 1ms (100.00%)   | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                          | 567ms (50.00%)  | 84.85MB (50.00%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 86
+# Solved problems: 87
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -69,6 +69,7 @@
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                         | 18ms (100.00%)  | 49.21MB (100.00%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                             | 1ms (100.00%)   | 44.91MB (100.00%)  |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                       | 13ms (100.00%)  | 46.60MB (100.00%)  |
+| 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                | 122ms (100.00%) | 119.14MB (80.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                      | 50ms (100.00%)  | 92.33MB (—%)       |
 | 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                       | 5ms (100.00%)   | 45.60MB (100.00%)  |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                         | 29ms (100.00%)  | 83.49MB (100.00%)  |

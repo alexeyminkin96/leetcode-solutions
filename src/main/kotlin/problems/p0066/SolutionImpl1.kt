@@ -3,21 +3,14 @@ package problems.p0066
 /**
  * **LeetCode Performance:**
  * - Runtime: `0 ms` (Beats `100.00%` of Kotlin submissions)
- * - Memory: `41.51 MB` (Beats `67.34%` of Kotlin submissions)
+ * - Memory: `41.18 MB` (Beats `81.60%` of Kotlin submissions)
  *
  * **Complexity:**
  * - Time: `O(n)`
  * - Space: `O(1)`
  *
- * **Approach:**
- * - Go from the end to start.
- * - If digit < 9 → increment and return.
- * - If digit == 9 → set to 0 and continue.
- * - If all 9 → create new array with 1 at start.
- *
- * **Techniques:**
- * - Simple loop
- * - Early return
+ * **Notes:**
+ * - [Full explanation](https://leetcode.com/problems/last-day-where-you-can-still-cross/solutions/7452584/kotlin-orowcol-10ms-orowcol-continuous-r-x46u)
  */
 class SolutionImpl1 : Solution {
     override fun plusOne(digits: IntArray): IntArray {

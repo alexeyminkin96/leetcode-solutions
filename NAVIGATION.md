@@ -30,7 +30,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)          | 0ms (100.00%)   | 47.38MB (70.43%)   |
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                           | 0ms (100.00%)   | 43.26MB (64.51%)   |
 | 0041 | [First Missing Positive](src/main/kotlin/problems/p0041)                                           | 2ms (99.32%)    | 62.19MB (66.67%)   |
-| 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                         | 0ms (100.00%)   | 41.51MB (67.34%)   |
+| 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                         | 0ms (100.00%)   | 41.18MB (81.60%)   |
 | 0067 | [Add Binary](src/main/kotlin/problems/p0067)                                                       | 2ms (98.19%)    | 41.95MB (91.99%)   |
 | 0069 | [Sqrt(x)](src/main/kotlin/problems/p0069)                                                          | 1ms (97.35%)    | 40.95MB (72.57%)   |
 | 0070 | [Climbing Stairs](src/main/kotlin/problems/p0070)                                                  | 0ms (100.00%)   | 39.71MB (86.99%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 93
+# Solved problems: 94
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -57,6 +57,7 @@
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                     | 1ms (100.00%)   | 49.28MB (41.67%)   |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                  | 4ms (100.00%)   | 50.15MB (25.00%)   |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                        | 0ms (100.00%)   | 48.00MB (96.00%)   |
+| 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                    | 9ms (84.62%)    | 48.56MB (46.15%)   |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                               | 1ms (100.00%)   | 40.44MB (33.33%)   |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)               | 1ms (100.00%)   | 61.36MB (66.67%)   |
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                | 4ms (98.06%)    | 44.91MB (70.97%)   |

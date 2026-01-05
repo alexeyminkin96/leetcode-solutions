@@ -1,4 +1,4 @@
-# Solved problems: 94
+# Solved problems: 95
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -68,6 +68,7 @@
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                               | 10ms (100.00%)  | 77.40MB (80.00%)   |
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                         | 0ms (100.00%)   | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                         | 6ms (100.00%)   | 45.67MB (100.00%)  |
+| 1975 | [Maximum Matrix Sum](src/main/kotlin/problems/p1975)                                               | 4ms (100.00%)   | 62.90MB (66.67%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)              | 0ms (100.00%)   | 44.01MB (37.04%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                  | 66ms (100.00%)  | 125.24MB (50.00%)  |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                      | 97ms (100.00%)  | 105.20MB (100.00%) |

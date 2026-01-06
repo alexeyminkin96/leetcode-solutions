@@ -1,4 +1,4 @@
-# Solved problems: 95
+# Solved problems: 96
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -55,6 +55,7 @@
 | 0961 | [N-Repeated Element in Size 2N Array](src/main/kotlin/problems/p0961)                              | 0ms (100.00%)   | 48.42MB (80.00%)   |
 | 1015 | [Smallest Integer Divisible by K](src/main/kotlin/problems/p1015)                                  | 2ms (100.00%)   | 40.26MB (33.33%)   |
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                     | 1ms (100.00%)   | 49.28MB (41.67%)   |
+| 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                               | 4ms (97.92%)    | 51.80MB (58.33%)   |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                  | 4ms (100.00%)   | 50.15MB (25.00%)   |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                        | 0ms (100.00%)   | 48.00MB (96.00%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                    | 9ms (84.62%)    | 48.56MB (46.15%)   |

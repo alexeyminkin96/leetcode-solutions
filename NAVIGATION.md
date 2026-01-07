@@ -1,4 +1,4 @@
-# Solved problems: 98
+# Solved problems: 99
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -28,6 +28,7 @@
 | 0026 | [Remove Duplicates from Sorted Array](src/main/kotlin/problems/p0026)                              | 1ms (100.00%)   | 47.21MB (80.90%)   |
 | 0027 | [Remove Element](src/main/kotlin/problems/p0027)                                                   | 0ms (100.00%)   | 41.15MB (85.95%)   |
 | 0028 | [Find the Index of the First Occurrence in a String](src/main/kotlin/problems/p0028)               | 0ms (100.00%)   | 40.88MB (77.07%)   |
+| 0031 | [Next Permutation](src/main/kotlin/problems/p0031)                                                 | 0ms (100.00%)   | 42.47MB (98.40%)   |
 | 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)          | 0ms (100.00%)   | 47.38MB (70.43%)   |
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                           | 0ms (100.00%)   | 43.26MB (64.51%)   |
 | 0041 | [First Missing Positive](src/main/kotlin/problems/p0041)                                           | 2ms (99.32%)    | 62.19MB (66.67%)   |

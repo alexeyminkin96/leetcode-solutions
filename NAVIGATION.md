@@ -1,4 +1,4 @@
-# Solved problems: 99
+# Solved problems: 100
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -64,6 +64,7 @@
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                    | 9ms (84.62%)    | 48.56MB (46.15%)   |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                               | 1ms (100.00%)   | 40.44MB (33.33%)   |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)               | 1ms (100.00%)   | 61.36MB (66.67%)   |
+| 1458 | [Max Dot Product of Two Subsequences](src/main/kotlin/problems/p1458)                              | 20ms (60.00%)   | 46.42MB (80.00%)   |
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                | 4ms (98.06%)    | 44.91MB (70.97%)   |
 | 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                           | 61ms (100.00%)  | 35.60MB (100.00%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526) | 4ms (94.32%)    | 60.58MB (58.33%)   |

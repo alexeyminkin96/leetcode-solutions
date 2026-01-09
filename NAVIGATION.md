@@ -1,4 +1,4 @@
-# Solved problems: 101
+# Solved problems: 102
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -52,6 +52,7 @@
 | 0756 | [Pyramid Transition Matrix](src/main/kotlin/problems/p0756)                                        | 53ms (100.00%)  | 52.88MB (100.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                               | 16ms (100.00%)  | 49.85MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                            | 0ms (100.00%)   | 41.13MB (100.00%)  |
+| 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                      | 0ms (100.00%)   | 41.25MB (100.00%)  |
 | 0944 | [Delete Columns to Make Sorted](src/main/kotlin/problems/p0944)                                    | 8ms (100.00%)   | 46.59MB (100.00%)  |
 | 0955 | [Delete Columns to Make Sorted II](src/main/kotlin/problems/p0955)                                 | 1ms (100.00%)   | 42.32MB (100.00%)  |
 | 0960 | [Delete Columns to Make Sorted III](src/main/kotlin/problems/p0960)                                | 10ms (100.00%)  | 43.57MB (100.00%)  |

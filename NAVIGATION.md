@@ -1,4 +1,4 @@
-# Solved problems: 102
+# Solved problems: 103
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -48,6 +48,7 @@
 | 0136 | [Single Number](src/main/kotlin/problems/p0136)                                                    | 1ms (100.00%)   | 48.84MB (82.21%)   |
 | 0137 | [Single Number II](src/main/kotlin/problems/p0137)                                                 | 1ms (93.44%)    | 45.66MB (100.00%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                               | 2ms (95.87%)    | 50.60MB (62.26%)   |
+| 0712 | [Minimum ASCII Delete Sum for Two Strings](src/main/kotlin/problems/p0712)                         | 21ms (91.67%)   | 46.48MB (100.00%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                       | 0ms (100.00%)   | 43.24MB (50.00%)   |
 | 0756 | [Pyramid Transition Matrix](src/main/kotlin/problems/p0756)                                        | 53ms (100.00%)  | 52.88MB (100.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                               | 16ms (100.00%)  | 49.85MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 103
+# Solved problems: 104
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -38,6 +38,7 @@
 | 0069 | [Sqrt(x)](src/main/kotlin/problems/p0069)                                                          | 1ms (97.35%)    | 40.95MB (72.57%)   |
 | 0070 | [Climbing Stairs](src/main/kotlin/problems/p0070)                                                  | 0ms (100.00%)   | 39.71MB (86.99%)   |
 | 0083 | [Remove Duplicates from Sorted List](src/main/kotlin/problems/p0083)                               | 0ms (100.00%)   | 44.45MB (88.10%)   |
+| 0085 | [Maximal Rectangle](src/main/kotlin/problems/p0085)                                                | 6ms (100.00%)   | 47.74MB (100.00%)  |
 | 0088 | [Merge Sorted Array](src/main/kotlin/problems/p0088)                                               | 0ms (100.00%)   | 41.31MB (93.36%)   |
 | 0094 | [Binary Tree Inorder Traversal](src/main/kotlin/problems/p0094)                                    | 0ms (100.00%)   | 40.92MB (76.71%)   |
 | 0100 | [Same Tree](src/main/kotlin/problems/p0100)                                                        | 0ms (100.00%)   | 40.54MB (88.95%)   |

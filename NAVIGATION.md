@@ -1,4 +1,4 @@
-# Solved problems: 105
+# Solved problems: 106
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -10,6 +10,7 @@
 | 0007 | [Reverse Integer](src/main/kotlin/problems/p0007)                                                  | 80ms (98.38%)   | 40.23MB (59.11%)   |
 | 0008 | [String to Integer (atoi)](src/main/kotlin/problems/p0008)                                         | 2ms (95.31%)    | 41.94MB (97.50%)   |
 | 0009 | [Palindrome Number](src/main/kotlin/problems/p0009)                                                | 5ms (99.08%)    | 45.48MB (93.25%)   |
+| 0010 | [Regular Expression Matching](src/main/kotlin/problems/p0010)                                      | 2ms (99.08%)    | 42.76MB (86.24%)   |
 | 0011 | [Container With Most Water](src/main/kotlin/problems/p0011)                                        | 3ms (98.55%)    | 59.93MB (70.70%)   |
 | 0012 | [Integer to Roman](src/main/kotlin/problems/p0012)                                                 | 4ms (84.77%)    | 44.96MB (97.97%)   |
 | 0013 | [Roman to Integer](src/main/kotlin/problems/p0013)                                                 | 3ms (99.64%)    | 45.60MB (83.14%)   |

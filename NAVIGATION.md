@@ -1,4 +1,4 @@
-# Solved problems: 108
+# Solved problems: 109
 
 | №    | Problem                                                                                            | Best runtime    | Best memory        |
 |------|----------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -92,6 +92,7 @@
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                      | 50ms (100.00%)  | 92.33MB (—%)       |
 | 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                       | 5ms (100.00%)   | 45.60MB (100.00%)  |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                         | 29ms (100.00%)  | 83.49MB (100.00%)  |
+| 2943 | [Maximize Area of Square Hole in Grid](src/main/kotlin/problems/p2943)                             | 3ms (100.00%)   | 44.28MB (100.00%)  |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                  | 1ms (100.00%)   | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                          | 567ms (50.00%)  | 84.85MB (50.00%)   |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)  | 0ms (100.00%)   | 42.18MB (90.00%)   |

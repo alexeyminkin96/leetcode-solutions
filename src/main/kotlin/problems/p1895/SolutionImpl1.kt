@@ -6,7 +6,7 @@ package problems.p1895
  * - Memory: `47.26 MB` (Beats `62.50%` of Kotlin submissions)
  *
  * **Complexity:**
- * - Time: `O((m * n) ^ 2)`
+ * - Time: `O(m * n * min(n,m)^2)`
  * - Space: `O(m * n)`
  *
  * **Notes:**

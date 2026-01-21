@@ -1,4 +1,4 @@
-# Solved problems: 114
+# Solved problems: 115
 
 | №    | Problem                                                                                                    | Best runtime    | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -102,6 +102,7 @@
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)          | 0ms (100.00%)   | 42.18MB (90.00%)   |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                                     | 1ms (100.00%)   | 45.18MB (88.46%)   |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)   | 44.70MB (100.00%)  |
+| 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)   | 46.75MB (100.00%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)   | 40.84MB (57.14%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                          | 8ms (100.00%)   | 82.26MB (100.00%)  |
 | 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                                | 1ms (100.00%)   | 41.41MB (100.00%)  |

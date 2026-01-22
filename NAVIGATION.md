@@ -1,4 +1,4 @@
-# Solved problems: 115
+# Solved problems: 116
 
 | №    | Problem                                                                                                    | Best runtime    | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -109,6 +109,7 @@
 | 3433 | [Count Mentions Per User](src/main/kotlin/problems/p3433)                                                  | 11ms (100.00%)  | 48.99MB (100.00%)  |
 | 3453 | [Separate Squares I](src/main/kotlin/problems/p3453)                                                       | 193ms (100.00%) | 113.33MB (100.00%) |
 | 3454 | [Separate Squares II](src/main/kotlin/problems/p3454)                                                      | 263ms (100.00%) | 87.25MB (100.00%)  |
+| 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)   | 43.67MB (85.71%)   |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)   | 49.50MB (96.30%)   |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)  | 117.49MB (66.67%)  |
 | 3577 | [Count the Number of Computer Unlocking Permutations](src/main/kotlin/problems/p3577)                      | 2ms (100.00%)   | 67.73MB (50.00%)   |

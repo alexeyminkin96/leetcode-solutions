@@ -1,4 +1,4 @@
-# Solved problems: 118
+# Solved problems: 119
 
 | №    | Problem                                                                                                    | Best runtime    | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -77,11 +77,13 @@
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)    | 60.58MB (58.33%)   |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)  | 65.12MB (100.00%)  |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)   | 68.91MB (-%)       |
-| 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%) | 60.92MB (100.00%)  || 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)    | 47.26MB (62.50%)   |
+| 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%) | 60.92MB (100.00%)  |
+| 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)    | 47.26MB (62.50%)   |
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)  | 77.40MB (80.00%)   |
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                                 | 0ms (100.00%)   | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                                 | 6ms (100.00%)   | 45.67MB (100.00%)  |
 | 1975 | [Maximum Matrix Sum](src/main/kotlin/problems/p1975)                                                       | 4ms (100.00%)   | 62.90MB (66.67%)   |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)   | 47.12MB (96.77%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)                      | 0ms (100.00%)   | 44.01MB (37.04%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)  | 125.24MB (50.00%)  |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)  | 105.20MB (100.00%) |

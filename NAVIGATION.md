@@ -1,4 +1,4 @@
-# Solved problems: 119
+# Solved problems: 120
 
 | №    | Problem                                                                                                    | Best runtime    | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
@@ -63,6 +63,7 @@
 | 1015 | [Smallest Integer Divisible by K](src/main/kotlin/problems/p1015)                                          | 2ms (100.00%)   | 40.26MB (33.33%)   |
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                             | 1ms (100.00%)   | 49.28MB (41.67%)   |
 | 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                                       | 4ms (97.92%)    | 51.80MB (58.33%)   |
+| 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)   | 59.88MB (97.01%)   |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)   | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)   | 43.08MB (100.00%)  |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](src/main/kotlin/problems/p1292) | 9ms (100.00%)   | 60.61MB (100.00%)  |

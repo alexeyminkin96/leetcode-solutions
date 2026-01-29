@@ -1,4 +1,4 @@
-# Solved problems: 122
+# Solved problems: 123
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -99,6 +99,7 @@
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                                 | 29ms (100.00%)   | 83.49MB (100.00%)  |
 | 2943 | [Maximize Area of Square Hole in Grid](src/main/kotlin/problems/p2943)                                     | 3ms (100.00%)    | 44.28MB (100.00%)  |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](src/main/kotlin/problems/p2975)                      | 347ms (100.00%)  | 116.33MB (100.00%) |
+| 2976 | [Minimum Cost to Convert String I](src/main/kotlin/problems/p2976)                                         | 17ms (100.00%)   | 51.45MB (100.00%)  |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](src/main/kotlin/problems/p3047)                    | 189ms (100.00%)  | 68.04MB (100.00%)  |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                          | 1ms (100.00%)    | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                                  | 567ms (50.00%)   | 84.85MB (50.00%)   |

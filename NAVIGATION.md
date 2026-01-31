@@ -1,4 +1,4 @@
-# Solved problems: 124
+# Solved problems: 125
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -52,6 +52,7 @@
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                                       | 2ms (95.87%)     | 50.60MB (62.26%)   |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](src/main/kotlin/problems/p0712)                                 | 21ms (91.67%)    | 46.48MB (100.00%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                               | 0ms (100.00%)    | 43.24MB (50.00%)   |
+| 0744 | [Find Smallest Letter Greater Than Target](src/main/kotlin/problems/p0744)                                 | 0ms (100.00%)    | 45.62MB (79.55%)   |
 | 0756 | [Pyramid Transition Matrix](src/main/kotlin/problems/p0756)                                                | 53ms (100.00%)   | 52.88MB (100.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                                       | 16ms (100.00%)   | 49.85MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |

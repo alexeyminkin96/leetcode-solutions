@@ -1,4 +1,4 @@
-# Solved problems: 126
+# Solved problems: 127
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -103,6 +103,7 @@
 | 2976 | [Minimum Cost to Convert String I](src/main/kotlin/problems/p2976)                                         | 17ms (100.00%)   | 51.45MB (100.00%)  |
 | 2977 | [Minimum Cost to Convert String II](src/main/kotlin/problems/p2977)                                        | 220ms (100.00%)  | 67.35MB (100.00%)  |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](src/main/kotlin/problems/p3010)                       | 1ms (100.00%)    | 44.49MB (100.00%)  |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](src/main/kotlin/problems/p3013)                      | 177ms (100.00%)  | 70.40MB (100.00%)  |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](src/main/kotlin/problems/p3047)                    | 189ms (100.00%)  | 68.04MB (100.00%)  |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                          | 1ms (100.00%)    | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                                  | 567ms (50.00%)   | 84.85MB (50.00%)   |

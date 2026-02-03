@@ -10,6 +10,9 @@ import java.util.TreeSet
  * **Complexity:**
  * - Time: `O(n log(dist))`
  * - Space: `O(dist)`
+ *
+ * **Notes:**
+ * - [Full explanation](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/solutions/7545203/kotlin-onlogd-177ms-od-not-pq-only-one-t-duvf)
  */
 class SolutionImpl2 : Solution {
     private val base = 1_000_000L

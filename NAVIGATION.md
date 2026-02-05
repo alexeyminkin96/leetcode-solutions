@@ -1,4 +1,4 @@
-# Solved problems: 129
+# Solved problems: 130
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -112,6 +112,7 @@
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |
 | 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)    | 46.75MB (100.00%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)    | 40.84MB (57.14%)   |
+| 3379 | [Transformed Array](src/main/kotlin/problems/p3379)                                                        | 143ms (100.00%)  | 44.86MB (33.33%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                          | 8ms (100.00%)    | 82.26MB (100.00%)  |
 | 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                                | 1ms (100.00%)    | 41.41MB (100.00%)  |
 | 3433 | [Count Mentions Per User](src/main/kotlin/problems/p3433)                                                  | 11ms (100.00%)   | 48.99MB (100.00%)  |

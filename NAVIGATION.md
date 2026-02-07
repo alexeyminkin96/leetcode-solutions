@@ -1,4 +1,4 @@
-# Solved problems: 131
+# Solved problems: 132
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -79,6 +79,7 @@
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)   | 65.12MB (100.00%)  |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |
+| 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)     | 47.26MB (62.50%)   |
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)   | 77.40MB (80.00%)   |

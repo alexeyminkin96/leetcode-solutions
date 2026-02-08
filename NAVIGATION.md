@@ -1,4 +1,4 @@
-# Solved problems: 132
+# Solved problems: 133
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -46,6 +46,7 @@
 | 0101 | [Symmetric Tree](src/main/kotlin/problems/p0101)                                                           | 0ms (100.00%)    | 41.15MB (98.26%)   |
 | 0104 | [Maximum Depth of Binary Tree](src/main/kotlin/problems/p0104)                                             | 0ms (100.00%)    | 42.62MB (83.52%)   |
 | 0108 | [Convert Sorted Array to Binary Search Tree](src/main/kotlin/problems/p0108)                               | 0ms (100.00%)    | 42.55MB (99.44%)   |
+| 0110 | [Balanced Binary Tree](src/main/kotlin/problems/p0110)                                                     | 0ms (100.00%)    | 44.84MB (81.27%)   |
 | 0125 | [Valid Palindrome](src/main/kotlin/problems/p0125)                                                         | 3ms (100.00%)    | 44.04MB (78.23%)   |
 | 0136 | [Single Number](src/main/kotlin/problems/p0136)                                                            | 1ms (100.00%)    | 48.84MB (82.21%)   |
 | 0137 | [Single Number II](src/main/kotlin/problems/p0137)                                                         | 1ms (93.44%)     | 45.66MB (100.00%)  |

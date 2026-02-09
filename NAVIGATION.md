@@ -1,4 +1,4 @@
-# Solved problems: 133
+# Solved problems: 134
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -71,6 +71,7 @@
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](src/main/kotlin/problems/p1292) | 9ms (100.00%)    | 60.61MB (100.00%)  |
 | 1339 | [Maximum Product of Splitted Binary Tree](src/main/kotlin/problems/p1339)                                  | 7ms (100.00%)    | 63.01MB (100.00%)  |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                                | 0ms (100.00%)    | 48.00MB (96.00%)   |
+| 1382 | [Balance a Binary Search Tree](src/main/kotlin/problems/p1382)                                             | 2ms (100.00%)    | 49.69MB (84.62%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                                       | 1ms (100.00%)    | 40.44MB (33.33%)   |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)                       | 1ms (100.00%)    | 61.36MB (66.67%)   |

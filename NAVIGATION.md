@@ -1,4 +1,4 @@
-# Solved problems: 134
+# Solved problems: 135
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -137,3 +137,4 @@
 | 3650 | [Minimum Cost Path with Edge Reversals](src/main/kotlin/problems/p3650)                                    | 73ms (100.00%)   | 133.27MB (100.00%) |
 | 3651 | [Minimum Cost Path with Teleportations](src/main/kotlin/problems/p3651)                                    | 1542ms (100.00%) | 78.82MB (100.00%)  |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](src/main/kotlin/problems/p3652)                           | 4ms (100.00%)    | 77.04MB (87.50%)   |
+| 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |

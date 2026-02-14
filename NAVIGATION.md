@@ -1,4 +1,4 @@
-# Solved problems: 138
+# Solved problems: 139
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -56,6 +56,7 @@
 | 0744 | [Find Smallest Letter Greater Than Target](src/main/kotlin/problems/p0744)                                 | 0ms (100.00%)    | 45.62MB (79.55%)   |
 | 0756 | [Pyramid Transition Matrix](src/main/kotlin/problems/p0756)                                                | 53ms (100.00%)   | 52.88MB (100.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                                       | 16ms (100.00%)   | 49.85MB (100.00%)  |
+| 0799 | [Champagne Tower](src/main/kotlin/problems/p0799)                                                          | 91ms (100.00%)   | 41.60MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                              | 0ms (100.00%)    | 41.25MB (100.00%)  |
 | 0944 | [Delete Columns to Make Sorted](src/main/kotlin/problems/p0944)                                            | 8ms (100.00%)    | 46.59MB (100.00%)  |

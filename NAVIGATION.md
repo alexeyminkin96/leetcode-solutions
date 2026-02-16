@@ -1,4 +1,4 @@
-# Solved problems: 139
+# Solved problems: 140
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -51,6 +51,7 @@
 | 0136 | [Single Number](src/main/kotlin/problems/p0136)                                                            | 1ms (100.00%)    | 48.84MB (82.21%)   |
 | 0137 | [Single Number II](src/main/kotlin/problems/p0137)                                                         | 1ms (93.44%)     | 45.66MB (100.00%)  |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                                       | 2ms (95.87%)     | 50.60MB (62.26%)   |
+| 0190 | [Reverse Bits](src/main/kotlin/problems/p0190)                                                             | 85ms (87.50%)    | 39.73MB (69.74%)   |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](src/main/kotlin/problems/p0712)                                 | 21ms (91.67%)    | 46.48MB (100.00%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                               | 0ms (100.00%)    | 43.24MB (50.00%)   |
 | 0744 | [Find Smallest Letter Greater Than Target](src/main/kotlin/problems/p0744)                                 | 0ms (100.00%)    | 45.62MB (79.55%)   |

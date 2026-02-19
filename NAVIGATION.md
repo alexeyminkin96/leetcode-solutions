@@ -1,4 +1,4 @@
-# Solved problems: 142
+# Solved problems: 143
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -54,6 +54,7 @@
 | 0190 | [Reverse Bits](src/main/kotlin/problems/p0190)                                                             | 85ms (87.50%)    | 39.73MB (69.74%)   |
 | 0401 | [Binary Watch](src/main/kotlin/problems/p0401)                                                             | 1ms (100.00%)    | 40.73MB (97.56%)   |
 | 0693 | [Binary Number with Alternating Bits](src/main/kotlin/problems/p0693)                                      | 0ms (100.00%)    | 39.90MB (81.25%)   |
+| 0696 | [Count Binary Substrings](src/main/kotlin/problems/p0696)                                                  | 7ms (100.00%)    | 45.87MB (100.00%)  |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](src/main/kotlin/problems/p0712)                                 | 21ms (91.67%)    | 46.48MB (100.00%)  |
 | 0717 | [1-bit and 2-bit Characters](src/main/kotlin/problems/p0717)                                               | 0ms (100.00%)    | 43.24MB (50.00%)   |
 | 0744 | [Find Smallest Letter Greater Than Target](src/main/kotlin/problems/p0744)                                 | 0ms (100.00%)    | 45.62MB (79.55%)   |

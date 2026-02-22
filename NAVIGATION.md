@@ -60,7 +60,7 @@
 | 0744 | [Find Smallest Letter Greater Than Target](src/main/kotlin/problems/p0744)                                 | 0ms (100.00%)    | 45.62MB (79.55%)   |
 | 0756 | [Pyramid Transition Matrix](src/main/kotlin/problems/p0756)                                                | 53ms (100.00%)   | 52.88MB (100.00%)  |
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                                       | 16ms (100.00%)   | 49.85MB (100.00%)  |
-| 0761 | [Special Binary String](src/main/kotlin/problems/p0761)                                                    | 14ms (100.00%)   | 43.25MB (100.00%)  |
+| 0761 | [Special Binary String](src/main/kotlin/problems/p0761)                                                    | 1ms (100.00%)    | 41.07MB (97.78%)   |
 | 0762 | [Prime Number of Set Bits in Binary Representation](src/main/kotlin/problems/p0762)                        | 2ms (100.00%)    | 40.35MB (88.89%)   |
 | 0799 | [Champagne Tower](src/main/kotlin/problems/p0799)                                                          | 91ms (100.00%)   | 41.60MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |

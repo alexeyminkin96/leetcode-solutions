@@ -1,4 +1,4 @@
-# Solved problems: 145
+# Solved problems: 146
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -65,6 +65,7 @@
 | 0799 | [Champagne Tower](src/main/kotlin/problems/p0799)                                                          | 91ms (100.00%)   | 41.60MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                              | 0ms (100.00%)    | 41.25MB (100.00%)  |
+| 0868 | [Binary Gap](src/main/kotlin/problems/p0868)                                                               | 0ms (100.00%)    | 39.26MB (100.00%)  |
 | 0944 | [Delete Columns to Make Sorted](src/main/kotlin/problems/p0944)                                            | 8ms (100.00%)    | 46.59MB (100.00%)  |
 | 0955 | [Delete Columns to Make Sorted II](src/main/kotlin/problems/p0955)                                         | 1ms (100.00%)    | 42.32MB (100.00%)  |
 | 0960 | [Delete Columns to Make Sorted III](src/main/kotlin/problems/p0960)                                        | 10ms (100.00%)   | 43.57MB (100.00%)  |

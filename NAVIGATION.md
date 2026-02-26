@@ -1,4 +1,4 @@
-# Solved problems: 149
+# Solved problems: 150
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -83,6 +83,7 @@
 | 1356 | [Sort Integers by The Number of 1 Bits](src/main/kotlin/problems/p1356)                                    | 3ms (100.00%)    | 45.36MB (100.00%)  |
 | 1382 | [Balance a Binary Search Tree](src/main/kotlin/problems/p1382)                                             | 2ms (100.00%)    | 49.69MB (84.62%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](src/main/kotlin/problems/p1404)       | 0ms (100.00%)    | 40.33MB (83.33%)   |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                                       | 1ms (100.00%)    | 40.44MB (33.33%)   |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)                       | 1ms (100.00%)    | 61.36MB (66.67%)   |
 | 1458 | [Max Dot Product of Two Subsequences](src/main/kotlin/problems/p1458)                                      | 20ms (60.00%)    | 46.42MB (80.00%)   |

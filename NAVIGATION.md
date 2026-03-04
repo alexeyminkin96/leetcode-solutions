@@ -1,4 +1,4 @@
-# Solved problems: 155
+# Solved problems: 156
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -94,6 +94,7 @@
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |
 | 1545 | [Find Kth Bit in Nth Binary String](src/main/kotlin/problems/p1545)                                        | 0ms (100.00%)    | 39.86MB (100.00%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)   | 65.12MB (100.00%)  |
+| 1582 | [Special Positions in a Binary Matrix](src/main/kotlin/problems/p1582)                                     | 2ms (100.00%)    | 50.85MB (80.00%)   |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |
 | 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |
 | 1680 | [Concatenation of Consecutive Binary Numbers](src/main/kotlin/problems/p1680)                              | 94ms (100.00%)   | 40.59MB (20.00%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 156
+# Solved problems: 157
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -142,6 +142,7 @@
 | 3510 | [Minimum Pair Removal to Sort Array II](src/main/kotlin/problems/p3510)                                    | 387ms (100.00%)  | 108.96MB (100.00%) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)   | 117.49MB (66.67%)  |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](src/main/kotlin/problems/p3562)                        | 118ms (100.00%)  | 50.86MB (100.00%)  |
 | 3577 | [Count the Number of Computer Unlocking Permutations](src/main/kotlin/problems/p3577)                      | 2ms (100.00%)    | 67.73MB (50.00%)   |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](src/main/kotlin/problems/p3578)                       | 65ms (100.00%)   | 64.74MB (100.00%)  |
 | 3583 | [Count Special Triplets](src/main/kotlin/problems/p3583)                                                   | 129ms (100.00%)  | 81.27MB (100.00%)  |

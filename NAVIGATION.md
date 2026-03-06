@@ -1,4 +1,4 @@
-# Solved problems: 158
+# Solved problems: 159
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -100,6 +100,7 @@
 | 1680 | [Concatenation of Consecutive Binary Numbers](src/main/kotlin/problems/p1680)                              | 94ms (100.00%)   | 40.59MB (20.00%)   |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/main/kotlin/problems/p1689)                  | 4ms (100.00%)    | 45.71MB (100.00%)  |
 | 1758 | [Minimum Changes To Make Alternating Binary String](src/main/kotlin/problems/p1758)                        | 2ms (100.00%)    | 42.47MB (46.15%)   |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)     | 47.26MB (62.50%)   |
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)   | 77.40MB (80.00%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 161
+# Solved problems: 162
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -108,6 +108,7 @@
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                                 | 0ms (100.00%)    | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                                 | 6ms (100.00%)    | 45.67MB (100.00%)  |
 | 1975 | [Maximum Matrix Sum](src/main/kotlin/problems/p1975)                                                       | 4ms (100.00%)    | 62.90MB (66.67%)   |
+| 1980 | [Find Unique Binary String](src/main/kotlin/problems/p1980)                                                | 0ms (100.00%)    | 41.40MB (100.00%)  |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)    | 47.12MB (96.77%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)                      | 0ms (100.00%)    | 44.01MB (37.04%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)   | 125.24MB (50.00%)  |

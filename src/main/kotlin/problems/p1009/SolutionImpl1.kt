@@ -10,7 +10,7 @@ package problems.p1009
  * - Space: `O(1)`
  *
  * **Notes:**
- * - [Full explanation](https://leetcode.com/problems/complement-of-base-10-integer/solutions/7640766/kotlin-o1-0ms-o1-by-alexeyminkin-2gky)
+ * - [Full explanation](https://leetcode.com/problems/complement-of-base-10-integer/solutions/7640880/kotlin-o1-0ms-o1-by-alexeyminkin-54wx)
  */
 class SolutionImpl1 : Solution {
     override fun bitwiseComplement(n: Int): Int {

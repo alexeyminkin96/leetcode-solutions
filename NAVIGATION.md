@@ -1,4 +1,4 @@
-# Solved problems: 164
+# Solved problems: 165
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -70,6 +70,7 @@
 | 0955 | [Delete Columns to Make Sorted II](src/main/kotlin/problems/p0955)                                         | 1ms (100.00%)    | 42.32MB (100.00%)  |
 | 0960 | [Delete Columns to Make Sorted III](src/main/kotlin/problems/p0960)                                        | 10ms (100.00%)   | 43.57MB (100.00%)  |
 | 0961 | [N-Repeated Element in Size 2N Array](src/main/kotlin/problems/p0961)                                      | 0ms (100.00%)    | 48.42MB (80.00%)   |
+| 1009 | [Complement of Base 10 Integer](src/main/kotlin/problems/p1009)                                            | 0ms (100.00%)    | 40.14MB (100.00%)  |
 | 1015 | [Smallest Integer Divisible by K](src/main/kotlin/problems/p1015)                                          | 2ms (100.00%)    | 40.26MB (33.33%)   |
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                             | 1ms (100.00%)    | 49.28MB (41.67%)   |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/main/kotlin/problems/p1022)                                       | 0ms (100.00%)    | 42.14MB (75.00%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 166
+# Solved problems: 167
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -136,6 +136,7 @@
 | 3130 | [Find All Possible Stable Binary Arrays II](src/main/kotlin/problems/p3130)                                | 65ms (100.00%)   | 65.58MB (100.00%)  |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)          | 0ms (100.00%)    | 42.18MB (90.00%)   |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                                     | 1ms (100.00%)    | 45.18MB (88.46%)   |
+| 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](src/main/kotlin/problems/p3296)                   | 13ms (100.00%)   | 49.80MB (100.00%)  |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |
 | 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)    | 46.75MB (100.00%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)    | 40.84MB (57.14%)   |

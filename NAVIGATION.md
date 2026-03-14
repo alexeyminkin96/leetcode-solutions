@@ -1,4 +1,4 @@
-# Solved problems: 167
+# Solved problems: 168
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -86,6 +86,7 @@
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](src/main/kotlin/problems/p1404)       | 0ms (100.00%)    | 40.33MB (83.33%)   |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                                       | 1ms (100.00%)    | 40.44MB (33.33%)   |
+| 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](src/main/kotlin/problems/p1415)         | 0ms (100.00%)    | 41.43MB (100.00%)  |
 | 1437 | [Check If All 1's Are at Least Length K Places Away](src/main/kotlin/problems/p1437)                       | 1ms (100.00%)    | 61.36MB (66.67%)   |
 | 1458 | [Max Dot Product of Two Subsequences](src/main/kotlin/problems/p1458)                                      | 20ms (60.00%)    | 46.42MB (80.00%)   |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](src/main/kotlin/problems/p1461)                    | 5ms (100.00%)    | 48.28MB (100.00%)  |

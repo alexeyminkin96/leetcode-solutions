@@ -1,4 +1,4 @@
-# Solved problems: 175
+# Solved problems: 176
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -107,6 +107,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](src/main/kotlin/problems/p1878)                                 | 14ms (100.00%)   | 47.98MB (100.00%)  |
+| 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/problems/p1886)                     | 0ms (100.00%)    | 41.68MB (100.00%)  |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](src/main/kotlin/problems/p1888)            | 5ms (100.00%)    | 45.26MB (100.00%)  |
 | 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)     | 47.26MB (62.50%)   |
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)   | 77.40MB (80.00%)   |

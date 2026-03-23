@@ -1,4 +1,4 @@
-# Solved problems: 176
+# Solved problems: 177
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -98,6 +98,7 @@
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)   | 65.12MB (100.00%)  |
 | 1582 | [Special Positions in a Binary Matrix](src/main/kotlin/problems/p1582)                                     | 2ms (100.00%)    | 50.85MB (80.00%)   |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |
+| 1594 | [Maximum Non Negative Product in a Matrix](src/main/kotlin/problems/p1594)                                 | 2ms (100.00%)    | 42.36MB (100.00%)  |
 | 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |
 | 1622 | [Fancy Sequence](src/main/kotlin/problems/p1622)                                                           | 132ms (100.00%)  | 134.26MB (100.00%) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](src/main/kotlin/problems/p1680)                              | 94ms (100.00%)   | 40.59MB (20.00%)   |

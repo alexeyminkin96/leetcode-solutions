@@ -1,4 +1,4 @@
-# Solved problems: 178
+# Solved problems: 179
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -159,6 +159,7 @@
 | 3510 | [Minimum Pair Removal to Sort Array II](src/main/kotlin/problems/p3510)                                    | 387ms (100.00%)  | 108.96MB (100.00%) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)   | 117.49MB (66.67%)  |
+| 3546 | [Equal Sum Grid Partition I](src/main/kotlin/problems/p3546)                                               | 4ms (100.00%)    | 80.32MB (83.33%)   |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](src/main/kotlin/problems/p3562)                        | 118ms (100.00%)  | 50.86MB (100.00%)  |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](src/main/kotlin/problems/p3567)                         | 11ms (100.00%)   | 49.25MB (100.00%)  |
 | 3573 | [Best Time to Buy and Sell Stock V](src/main/kotlin/problems/p3573)                                        | 34ms (66.67%)    | 50.12MB (66.67%)   |

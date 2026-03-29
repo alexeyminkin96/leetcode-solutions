@@ -1,0 +1,17 @@
+package problems.p2839
+
+/**
+ * **LeetCode Performance:**
+ * - Runtime: `1 ms` (Beats `100.00%` of Kotlin submissions)
+ * - Memory: `42.48 MB` (Beats `100.00%` of Kotlin submissions)
+ *
+ * **Complexity:**
+ * - Time: `O(1)`
+ * - Space: `O(1)`
+ */
+class SolutionImpl1 : Solution {
+    override fun canBeEqual(s1: String, s2: String): Boolean {
+        return (s1[0] == s2[0] && s1[2] == s2[2] || s1[0] == s2[2] && s1[2] == s2[0])
+            && (s1[1] == s2[1] && s1[3] == s2[3] || s1[1] == s2[3] && s1[3] == s2[1])
+    }
+}

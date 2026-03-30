@@ -10,7 +10,7 @@ package problems.p2839
  * - Space: `O(1)`
  *
  * **Notes:**
- * - Any important remarks about this solution
+ * - [Full explanation](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/solutions/7713501/kotlin-o1-1ms-o1-compare-minmax-by-alexe-2jhs)
  */
 class SolutionImpl2 : Solution {
     override fun canBeEqual(s1: String, s2: String): Boolean {

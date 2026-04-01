@@ -1,4 +1,4 @@
-# Solved problems: 185
+# Solved problems: 186
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -129,6 +129,7 @@
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
 | 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                               | 5ms (100.00%)    | 45.60MB (100.00%)  |
 | 2573 | [Find the String with LCP](src/main/kotlin/problems/p2573)                                                 | 12ms (100.00%)   | 154.65MB (100.00%) |
+| 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](src/main/kotlin/problems/p2839)                     | 1ms (100.00%)    | 42.48MB (100.00%)  |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](src/main/kotlin/problems/p2840)                    | 5ms (100.00%)    | 47.27MB (100.00%)  |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                                 | 29ms (100.00%)   | 83.49MB (100.00%)  |

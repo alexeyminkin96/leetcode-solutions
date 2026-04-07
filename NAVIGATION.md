@@ -1,4 +1,4 @@
-# Solved problems: 191
+# Solved problems: 192
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -121,6 +121,7 @@
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)    | 47.12MB (96.77%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)                      | 0ms (100.00%)    | 44.01MB (37.04%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)   | 125.24MB (50.00%)  |
+| 2069 | [Walking Robot Simulation II](src/main/kotlin/problems/p2069)                                              | 118ms (100.00%)  | 78.62MB (100.00%)  |
 | 2075 | [Decode the Slanted Ciphertext](src/main/kotlin/problems/p2075)                                            | 8ms (100.00%)    | 59.72MB (11.11%)   |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |

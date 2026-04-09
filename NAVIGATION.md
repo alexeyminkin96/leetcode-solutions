@@ -1,4 +1,4 @@
-# Solved problems: 194
+# Solved problems: 195
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -190,6 +190,7 @@
 | 3651 | [Minimum Cost Path with Teleportations](src/main/kotlin/problems/p3651)                                    | 1542ms (100.00%) | 78.82MB (100.00%)  |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](src/main/kotlin/problems/p3652)                           | 4ms (100.00%)    | 77.04MB (87.50%)   |
 | 3653 | [XOR After Range Multiplication Queries I](src/main/kotlin/problems/p3653)                                 | 47ms (100.00%)   | 70.04MB (80.00%)   |
+| 3655 | [XOR After Range Multiplication Queries II](src/main/kotlin/problems/p3655)                                | 224ms (100.00%)  | 119.01MB (100.00%) |
 | 3661 | [Maximum Walls Destroyed by Robots](src/main/kotlin/problems/p3661)                                        | 92ms (100.00%)   | 88.26MB (100.00%)  |
 | 3666 | [Minimum Operations to Equalize Binary String](src/main/kotlin/problems/p3666)                             | 6ms (100.00%)    | 47.84MB (100.00%)  |
 | 3713 | [Longest Balanced Substring I](src/main/kotlin/problems/p3713)                                             | 49ms (100.00%)   | 47.18MB (100.00%)  |

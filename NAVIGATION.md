@@ -1,4 +1,4 @@
-# Solved problems: 195
+# Solved problems: 196
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -197,4 +197,5 @@
 | 3714 | [Longest Balanced Substring II](src/main/kotlin/problems/p3714)                                            | 218ms (100.00%)  | 62.99MB (100.00%)  |
 | 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |
 | 3721 | [Longest Balanced Subarray II](src/main/kotlin/problems/p3721)                                             | 160ms (100.00%)  | 76.15MB (88.89%)   |
+| 3740 | [Minimum Distance Between Three Equal Elements I](src/main/kotlin/problems/p3740)                          | 1ms (100.00%)    | 42.38MB (100.00%)  |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |

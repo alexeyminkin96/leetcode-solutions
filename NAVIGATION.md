@@ -1,4 +1,4 @@
-# Solved problems: 198
+# Solved problems: 199
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -201,3 +201,4 @@
 | 3741 | [Minimum Distance Between Three Equal Elements II](src/main/kotlin/problems/p3741)                         | 4ms (100.00%)    | 87.52MB (100.00%)  |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |
 | 3894 | [Traffic Signal Color](src/main/kotlin/problems/p3894)                                                     | 0ms (100.00%)    | 41.98MB (76.92%)   |
+| 3895 | [Count Digit Appearances](src/main/kotlin/problems/p3895)                                                  | 4ms (80.77%)     | 49.07MB (100.00%)  |

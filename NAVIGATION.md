@@ -1,4 +1,4 @@
-# Solved problems: 200
+# Solved problems: 201
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -203,3 +203,4 @@
 | 3894 | [Traffic Signal Color](src/main/kotlin/problems/p3894)                                                     | 0ms (100.00%)    | 41.98MB (76.92%)   |
 | 3895 | [Count Digit Appearances](src/main/kotlin/problems/p3895)                                                  | 4ms (80.77%)     | 49.07MB (100.00%)  |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](src/main/kotlin/problems/p3896)             | 26ms (100.00%)   | 68.23MB (95.00%)   |
+| 3898 | [Find the Degree of Each Vertex](src/main/kotlin/problems/p3898)                                           | 2ms (100.00%)    | 67.42MB (100.00%)  |

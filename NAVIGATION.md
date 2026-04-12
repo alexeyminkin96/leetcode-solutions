@@ -1,4 +1,4 @@
-# Solved problems: 201
+# Solved problems: 202
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -204,3 +204,4 @@
 | 3895 | [Count Digit Appearances](src/main/kotlin/problems/p3895)                                                  | 4ms (80.77%)     | 49.07MB (100.00%)  |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](src/main/kotlin/problems/p3896)             | 26ms (100.00%)   | 68.23MB (95.00%)   |
 | 3898 | [Find the Degree of Each Vertex](src/main/kotlin/problems/p3898)                                           | 2ms (100.00%)    | 67.42MB (100.00%)  |
+| 3899 | [Angles of a Triangle](src/main/kotlin/problems/p3899)                                                     | 3ms (100.00%)    | 48.04MB (100.00%)  |

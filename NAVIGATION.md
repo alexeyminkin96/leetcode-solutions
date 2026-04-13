@@ -1,4 +1,4 @@
-# Solved problems: 203
+# Solved problems: 204
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -109,6 +109,7 @@
 | 1727 | [Largest Submatrix With Rearrangements](src/main/kotlin/problems/p1727)                                    | 16ms (100.00%)   | 91.53MB (-%)       |
 | 1758 | [Minimum Changes To Make Alternating Binary String](src/main/kotlin/problems/p1758)                        | 2ms (100.00%)    | 42.47MB (46.15%)   |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
+| 1848 | [Minimum Distance to the Target Element](src/main/kotlin/problems/p1848)                                   | 0ms (100.00%)    | 42.73MB (100.00%)  |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](src/main/kotlin/problems/p1878)                                 | 14ms (100.00%)   | 47.98MB (100.00%)  |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/problems/p1886)                     | 0ms (100.00%)    | 41.68MB (100.00%)  |

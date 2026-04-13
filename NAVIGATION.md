@@ -1,4 +1,4 @@
-# Solved problems: 202
+# Solved problems: 203
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -81,6 +81,7 @@
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)    | 43.08MB (100.00%)  |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](src/main/kotlin/problems/p1292) | 9ms (100.00%)    | 60.61MB (100.00%)  |
+| 1320 | [Minimum Distance to Type a Word Using Two Fingers](src/main/kotlin/problems/p1320)                        | 37ms (66.67%)    | 48.03MB (100.00%)  |
 | 1339 | [Maximum Product of Splitted Binary Tree](src/main/kotlin/problems/p1339)                                  | 7ms (100.00%)    | 63.01MB (100.00%)  |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                                | 0ms (100.00%)    | 48.00MB (96.00%)   |
 | 1356 | [Sort Integers by The Number of 1 Bits](src/main/kotlin/problems/p1356)                                    | 3ms (100.00%)    | 45.36MB (100.00%)  |

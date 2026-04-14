@@ -1,4 +1,4 @@
-# Solved problems: 204
+# Solved problems: 205
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -133,6 +133,7 @@
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                               | 13ms (100.00%)   | 46.60MB (100.00%)  |
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
+| 2463 | [Minimum Total Distance Traveled](src/main/kotlin/problems/p2463)                                          | 19ms (100.00%)   | 43.86MB (100.00%)  |
 | 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                               | 5ms (100.00%)    | 45.60MB (100.00%)  |
 | 2573 | [Find the String with LCP](src/main/kotlin/problems/p2573)                                                 | 12ms (100.00%)   | 154.65MB (100.00%) |
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |

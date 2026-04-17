@@ -1,4 +1,4 @@
-# Solved problems: 210
+# Solved problems: 211
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -208,6 +208,7 @@
 | 3741 | [Minimum Distance Between Three Equal Elements II](src/main/kotlin/problems/p3741)                         | 4ms (100.00%)    | 87.52MB (100.00%)  |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](src/main/kotlin/problems/p3761)                           | 28ms (100.00%)   | 65.80MB (100.00%)  |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |
+| 3890 | [Integers With Multiple Sum of Two Cubes](src/main/kotlin/problems/p3890)                                  | 47ms (96.88%)    | 76.99MB (90.63%)   |
 | 3894 | [Traffic Signal Color](src/main/kotlin/problems/p3894)                                                     | 0ms (100.00%)    | 41.98MB (76.92%)   |
 | 3895 | [Count Digit Appearances](src/main/kotlin/problems/p3895)                                                  | 4ms (80.77%)     | 49.07MB (100.00%)  |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](src/main/kotlin/problems/p3896)             | 26ms (100.00%)   | 68.23MB (95.00%)   |

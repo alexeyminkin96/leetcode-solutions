@@ -1,4 +1,4 @@
-# Solved problems: 209
+# Solved problems: 210
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -51,6 +51,7 @@
 | 0125 | [Valid Palindrome](src/main/kotlin/problems/p0125)                                                         | 3ms (100.00%)    | 44.04MB (78.23%)   |
 | 0136 | [Single Number](src/main/kotlin/problems/p0136)                                                            | 1ms (100.00%)    | 48.84MB (82.21%)   |
 | 0137 | [Single Number II](src/main/kotlin/problems/p0137)                                                         | 1ms (93.44%)     | 45.66MB (100.00%)  |
+| 0141 | [Linked List Cycle](src/main/kotlin/problems/p0141)                                                        | 125ms (96.67%)   | 46.73MB (31.60%)   |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                                       | 2ms (95.87%)     | 50.60MB (62.26%)   |
 | 0190 | [Reverse Bits](src/main/kotlin/problems/p0190)                                                             | 85ms (87.50%)    | 39.73MB (69.74%)   |
 | 0401 | [Binary Watch](src/main/kotlin/problems/p0401)                                                             | 1ms (100.00%)    | 40.73MB (97.56%)   |

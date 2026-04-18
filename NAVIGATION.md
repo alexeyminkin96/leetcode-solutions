@@ -1,4 +1,4 @@
-# Solved problems: 212
+# Solved problems: 213
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -210,6 +210,7 @@
 | 3783 | [Mirror Distance of an Integer](src/main/kotlin/problems/p3783)                                            | 1ms (100.00%)    | 40.73MB (100.00%)  |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |
 | 3890 | [Integers With Multiple Sum of Two Cubes](src/main/kotlin/problems/p3890)                                  | 47ms (96.88%)    | 76.99MB (90.63%)   |
+| 3891 | [Minimum Increase to Maximize Special Indices](src/main/kotlin/problems/p3891)                             | 6ms (100.00%)    | 77.85MB (54.29%)   |
 | 3894 | [Traffic Signal Color](src/main/kotlin/problems/p3894)                                                     | 0ms (100.00%)    | 41.98MB (76.92%)   |
 | 3895 | [Count Digit Appearances](src/main/kotlin/problems/p3895)                                                  | 4ms (80.77%)     | 49.07MB (100.00%)  |
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](src/main/kotlin/problems/p3896)             | 26ms (100.00%)   | 68.23MB (95.00%)   |

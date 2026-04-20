@@ -1,4 +1,4 @@
-# Solved problems: 214
+# Solved problems: 215
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -128,6 +128,7 @@
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)   | 125.24MB (50.00%)  |
 | 2069 | [Walking Robot Simulation II](src/main/kotlin/problems/p2069)                                              | 118ms (100.00%)  | 78.62MB (100.00%)  |
 | 2075 | [Decode the Slanted Ciphertext](src/main/kotlin/problems/p2075)                                            | 8ms (100.00%)    | 59.72MB (11.11%)   |
+| 2078 | [Two Furthest Houses With Different Colors](src/main/kotlin/problems/p2078)                                | 0ms (100.00%)    | 41.34MB (81.25%)   |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                                      | 17ms (100.00%)   | 61.12MB (100.00%)  |

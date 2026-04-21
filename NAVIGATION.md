@@ -1,4 +1,4 @@
-# Solved problems: 215
+# Solved problems: 216
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -108,6 +108,7 @@
 | 1622 | [Fancy Sequence](src/main/kotlin/problems/p1622)                                                           | 132ms (100.00%)  | 134.26MB (100.00%) |
 | 1680 | [Concatenation of Consecutive Binary Numbers](src/main/kotlin/problems/p1680)                              | 94ms (100.00%)   | 40.59MB (20.00%)   |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/main/kotlin/problems/p1689)                  | 4ms (100.00%)    | 45.71MB (100.00%)  |
+| 1722 | [Minimize Hamming Distance After Swap Operations](src/main/kotlin/problems/p1722)                          | 40ms (100.00%)   | 102.14MB (100.00%) |
 | 1727 | [Largest Submatrix With Rearrangements](src/main/kotlin/problems/p1727)                                    | 16ms (100.00%)   | 91.53MB (-%)       |
 | 1758 | [Minimum Changes To Make Alternating Binary String](src/main/kotlin/problems/p1758)                        | 2ms (100.00%)    | 42.47MB (46.15%)   |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |

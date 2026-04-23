@@ -1,4 +1,4 @@
-# Solved problems: 217
+# Solved problems: 218
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -143,6 +143,7 @@
 | 2452 | [Words Within Two Edits of Dictionary](src/main/kotlin/problems/p2452)                                     | 2ms (100.00%)    | 43.76MB (-%)       |
 | 2515 | [Shortest Distance to Target String in a Circular Array](src/main/kotlin/problems/p2515)                   | 0ms (100.00%)    | 47.05MB (40.00%)   |
 | 2573 | [Find the String with LCP](src/main/kotlin/problems/p2573)                                                 | 12ms (100.00%)   | 154.65MB (100.00%) |
+| 2615 | [Sum of Distances](src/main/kotlin/problems/p2615)                                                         | 17ms (100.00%)   | 78.84MB (100.00%)  |
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](src/main/kotlin/problems/p2839)                     | 1ms (100.00%)    | 42.48MB (100.00%)  |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](src/main/kotlin/problems/p2840)                    | 5ms (100.00%)    | 47.27MB (100.00%)  |

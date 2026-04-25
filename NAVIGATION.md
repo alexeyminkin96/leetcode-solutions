@@ -1,4 +1,4 @@
-# Solved problems: 219
+# Solved problems: 220
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -177,6 +177,7 @@
 | 3433 | [Count Mentions Per User](src/main/kotlin/problems/p3433)                                                  | 11ms (100.00%)   | 48.99MB (100.00%)  |
 | 3453 | [Separate Squares I](src/main/kotlin/problems/p3453)                                                       | 193ms (100.00%)  | 113.33MB (100.00%) |
 | 3454 | [Separate Squares II](src/main/kotlin/problems/p3454)                                                      | 263ms (100.00%)  | 87.25MB (100.00%)  |
+| 3464 | [Maximize the Distance Between Points on a Square](src/main/kotlin/problems/p3464)                         | 15ms (99.03%)    | 54.84MB (99.03%)   |
 | 3474 | [Lexicographically Smallest Generated String](src/main/kotlin/problems/p3474)                              | 19ms (100.00%)   | 46.68MB (100.00%)  |
 | 3488 | [Closest Equal Element Queries](src/main/kotlin/problems/p3488)                                            | 55ms (100.00%)   | 93.58MB (100.00%)  |
 | 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)    | 43.67MB (85.71%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 220
+# Solved problems: 221
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -100,6 +100,7 @@
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |
 | 1545 | [Find Kth Bit in Nth Binary String](src/main/kotlin/problems/p1545)                                        | 0ms (100.00%)    | 39.86MB (100.00%)  |
+| 1559 | [Detect Cycles in 2D Grid](src/main/kotlin/problems/p1559)                                                 | 6ms (100.00%)    | 83.20MB (100.00%)  |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)   | 65.12MB (100.00%)  |
 | 1582 | [Special Positions in a Binary Matrix](src/main/kotlin/problems/p1582)                                     | 2ms (100.00%)    | 50.85MB (80.00%)   |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |

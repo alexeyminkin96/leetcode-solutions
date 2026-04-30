@@ -1,4 +1,4 @@
-# Solved problems: 224
+# Solved problems: 225
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -217,6 +217,7 @@
 | 3721 | [Longest Balanced Subarray II](src/main/kotlin/problems/p3721)                                             | 160ms (100.00%)  | 76.15MB (88.89%)   |
 | 3740 | [Minimum Distance Between Three Equal Elements I](src/main/kotlin/problems/p3740)                          | 1ms (100.00%)    | 42.38MB (100.00%)  |
 | 3741 | [Minimum Distance Between Three Equal Elements II](src/main/kotlin/problems/p3741)                         | 4ms (100.00%)    | 87.52MB (100.00%)  |
+| 3742 | [Maximum Path Score in a Grid](src/main/kotlin/problems/p3742)                                             | 103ms (100.00%)  | 75.95MB (100.00%)  |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](src/main/kotlin/problems/p3761)                           | 28ms (100.00%)   | 65.80MB (100.00%)  |
 | 3783 | [Mirror Distance of an Integer](src/main/kotlin/problems/p3783)                                            | 1ms (100.00%)    | 40.73MB (100.00%)  |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |

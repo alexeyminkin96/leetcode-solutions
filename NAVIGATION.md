@@ -1,4 +1,4 @@
-# Solved problems: 226
+# Solved problems: 227
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -66,6 +66,7 @@
 | 0757 | [Set Intersection Size At Least Two](src/main/kotlin/problems/p0757)                                       | 16ms (100.00%)   | 49.85MB (100.00%)  |
 | 0761 | [Special Binary String](src/main/kotlin/problems/p0761)                                                    | 1ms (100.00%)    | 41.07MB (97.78%)   |
 | 0762 | [Prime Number of Set Bits in Binary Representation](src/main/kotlin/problems/p0762)                        | 2ms (100.00%)    | 40.35MB (88.89%)   |
+| 0788 | [Rotated Digits](src/main/kotlin/problems/p0788)                                                           | 2ms (100.00%)    | 40.14MB (83.33%)   |
 | 0799 | [Champagne Tower](src/main/kotlin/problems/p0799)                                                          | 91ms (100.00%)   | 41.60MB (100.00%)  |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                              | 0ms (100.00%)    | 41.25MB (100.00%)  |

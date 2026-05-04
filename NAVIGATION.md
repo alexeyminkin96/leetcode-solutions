@@ -1,4 +1,4 @@
-# Solved problems: 228
+# Solved problems: 229
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -34,6 +34,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](src/main/kotlin/problems/p0034)                  | 0ms (100.00%)    | 47.38MB (70.43%)   |
 | 0035 | [Search Insert Position](src/main/kotlin/problems/p0035)                                                   | 0ms (100.00%)    | 43.26MB (64.51%)   |
 | 0041 | [First Missing Positive](src/main/kotlin/problems/p0041)                                                   | 2ms (99.32%)     | 62.19MB (66.67%)   |
+| 0048 | [Rotate Image](src/main/kotlin/problems/p0048)                                                             | 0ms (100.00%)    | 40.66MB (100.00%)  |
 | 0058 | [Length of Last Word](src/main/kotlin/problems/p0058)                                                      | 0ms (100.00%)    | 40.70MB (97.20%)   |
 | 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                                 | 0ms (100.00%)    | 41.18MB (81.60%)   |
 | 0067 | [Add Binary](src/main/kotlin/problems/p0067)                                                               | 1ms (100.00%)    | 41.75MB (96.12%)   |

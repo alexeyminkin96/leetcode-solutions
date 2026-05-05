@@ -1,4 +1,4 @@
-# Solved problems: 229
+# Solved problems: 230
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -36,6 +36,7 @@
 | 0041 | [First Missing Positive](src/main/kotlin/problems/p0041)                                                   | 2ms (99.32%)     | 62.19MB (66.67%)   |
 | 0048 | [Rotate Image](src/main/kotlin/problems/p0048)                                                             | 0ms (100.00%)    | 40.66MB (100.00%)  |
 | 0058 | [Length of Last Word](src/main/kotlin/problems/p0058)                                                      | 0ms (100.00%)    | 40.70MB (97.20%)   |
+| 0061 | [Rotate List](src/main/kotlin/problems/p0061)                                                              | 0ms (100.00%)    | 42.36MB (88.24%)   |
 | 0066 | [Plus One](src/main/kotlin/problems/p0066)                                                                 | 0ms (100.00%)    | 41.18MB (81.60%)   |
 | 0067 | [Add Binary](src/main/kotlin/problems/p0067)                                                               | 1ms (100.00%)    | 41.75MB (96.12%)   |
 | 0069 | [Sqrt(x)](src/main/kotlin/problems/p0069)                                                                  | 1ms (97.35%)     | 40.95MB (72.57%)   |

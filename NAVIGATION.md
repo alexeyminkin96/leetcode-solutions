@@ -1,4 +1,4 @@
-# Solved problems: 233
+# Solved problems: 234
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -127,6 +127,7 @@
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/problems/p1886)                     | 0ms (100.00%)    | 41.68MB (100.00%)  |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](src/main/kotlin/problems/p1888)            | 5ms (100.00%)    | 45.26MB (100.00%)  |
 | 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)     | 47.26MB (62.50%)   |
+| 1914 | [Cyclically Rotating a Grid](src/main/kotlin/problems/p1914)                                               | 210ms (91.83%)   | 48.77MB (51.92%)   |
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)   | 77.40MB (80.00%)   |
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                                 | 0ms (100.00%)    | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                                 | 6ms (100.00%)    | 45.67MB (100.00%)  |

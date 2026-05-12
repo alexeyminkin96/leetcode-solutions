@@ -1,4 +1,4 @@
-# Solved problems: 236
+# Solved problems: 237
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -113,6 +113,7 @@
 | 1594 | [Maximum Non Negative Product in a Matrix](src/main/kotlin/problems/p1594)                                 | 2ms (100.00%)    | 42.36MB (100.00%)  |
 | 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |
 | 1622 | [Fancy Sequence](src/main/kotlin/problems/p1622)                                                           | 132ms (100.00%)  | 134.26MB (100.00%) |
+| 1665 | [Minimum Initial Energy to Finish Tasks](src/main/kotlin/problems/p1665)                                   | 14ms (100.00%)   | 105.38MB (50.00%)  |
 | 1680 | [Concatenation of Consecutive Binary Numbers](src/main/kotlin/problems/p1680)                              | 94ms (100.00%)   | 40.59MB (20.00%)   |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](src/main/kotlin/problems/p1689)                  | 4ms (100.00%)    | 45.71MB (100.00%)  |
 | 1722 | [Minimize Hamming Distance After Swap Operations](src/main/kotlin/problems/p1722)                          | 40ms (100.00%)   | 102.14MB (100.00%) |

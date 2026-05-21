@@ -1,4 +1,4 @@
-# Solved problems: 245
+# Solved problems: 246
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -178,6 +178,7 @@
 | 2977 | [Minimum Cost to Convert String II](src/main/kotlin/problems/p2977)                                        | 220ms (100.00%)  | 67.35MB (100.00%)  |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](src/main/kotlin/problems/p3010)                       | 1ms (100.00%)    | 44.49MB (100.00%)  |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](src/main/kotlin/problems/p3013)                      | 177ms (100.00%)  | 70.40MB (100.00%)  |
+| 3043 | [Find the Length of the Longest Common Prefix](src/main/kotlin/problems/p3043)                             | 34ms (100.00%)   | 80.49MB (9.09%)    |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](src/main/kotlin/problems/p3047)                    | 189ms (100.00%)  | 68.04MB (100.00%)  |
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](src/main/kotlin/problems/p3070)              | 3ms (100.00%)    | 141.13MB (100.00%) |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                          | 1ms (100.00%)    | 42.14MB (100.00%)  |

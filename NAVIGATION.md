@@ -1,4 +1,4 @@
-# Solved problems: 249
+# Solved problems: 250
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -131,6 +131,7 @@
 | 1848 | [Minimum Distance to the Target Element](src/main/kotlin/problems/p1848)                                   | 0ms (100.00%)    | 42.73MB (100.00%)  |
 | 1855 | [Maximum Distance Between a Pair of Values](src/main/kotlin/problems/p1855)                                | 4ms (100.00%)    | 64.13MB (54.55%)   |
 | 1861 | [Rotating the Box](src/main/kotlin/problems/p1861)                                                         | 6ms (100.00%)    | 96.17MB (100.00%)  |
+| 1871 | [Jump Game VII](src/main/kotlin/problems/p1871)                                                            | 11ms (100.00%)   | 48.80MB (100.00%)  |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](src/main/kotlin/problems/p1878)                                 | 14ms (100.00%)   | 47.98MB (100.00%)  |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/problems/p1886)                     | 0ms (100.00%)    | 41.68MB (100.00%)  |

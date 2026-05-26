@@ -1,4 +1,4 @@
-# Solved problems: 250
+# Solved problems: 251
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -187,6 +187,7 @@
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](src/main/kotlin/problems/p3070)              | 3ms (100.00%)    | 141.13MB (100.00%) |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                          | 1ms (100.00%)    | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                                  | 567ms (50.00%)   | 84.85MB (50.00%)   |
+| 3120 | [Count the Number of Special Characters I](src/main/kotlin/problems/p3120)                                 | 1ms (100.00%)    | 41.72MB (100.00%)  |
 | 3129 | [Find All Possible Stable Binary Arrays I](src/main/kotlin/problems/p3129)                                 | 330ms (100.00%)  | 250.03MB (100.00%) |
 | 3130 | [Find All Possible Stable Binary Arrays II](src/main/kotlin/problems/p3130)                                | 65ms (100.00%)   | 65.58MB (100.00%)  |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)          | 0ms (100.00%)    | 42.18MB (90.00%)   |

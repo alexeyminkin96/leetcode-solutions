@@ -1,4 +1,4 @@
-# Solved problems: 252
+# Solved problems: 253
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -187,6 +187,7 @@
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](src/main/kotlin/problems/p3070)              | 3ms (100.00%)    | 141.13MB (100.00%) |
 | 3074 | [Apple Redistribution into Boxes](src/main/kotlin/problems/p3074)                                          | 1ms (100.00%)    | 42.14MB (100.00%)  |
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                                  | 567ms (50.00%)   | 84.85MB (50.00%)   |
+| 3093 | [Longest Common Suffix Queries](src/main/kotlin/problems/p3093)                                            | 53ms (100.00%)   | 144.75MB (100.00%) |
 | 3120 | [Count the Number of Special Characters I](src/main/kotlin/problems/p3120)                                 | 1ms (100.00%)    | 41.72MB (100.00%)  |
 | 3121 | [Count the Number of Special Characters II](src/main/kotlin/problems/p3121)                                | 232ms (100.00%)  | 48.06MB (33.33%)   |
 | 3129 | [Find All Possible Stable Binary Arrays I](src/main/kotlin/problems/p3129)                                 | 330ms (100.00%)  | 250.03MB (100.00%) |

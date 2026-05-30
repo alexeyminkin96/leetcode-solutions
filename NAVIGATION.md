@@ -1,4 +1,4 @@
-# Solved problems: 254
+# Solved problems: 255
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -192,6 +192,7 @@
 | 3121 | [Count the Number of Special Characters II](src/main/kotlin/problems/p3121)                                | 232ms (100.00%)  | 48.06MB (33.33%)   |
 | 3129 | [Find All Possible Stable Binary Arrays I](src/main/kotlin/problems/p3129)                                 | 330ms (100.00%)  | 250.03MB (100.00%) |
 | 3130 | [Find All Possible Stable Binary Arrays II](src/main/kotlin/problems/p3130)                                | 65ms (100.00%)   | 65.58MB (100.00%)  |
+| 3161 | [Block Placement Queries](src/main/kotlin/problems/p3161)                                                  | 407ms (38.13%)   | 148.50MB (91.88%)  |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)          | 0ms (100.00%)    | 42.18MB (90.00%)   |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](src/main/kotlin/problems/p3212)                        | 21ms (100.00%)   | 172.37MB (-%)      |
 | 3225 | [Maximum Score From Grid Operations](src/main/kotlin/problems/p3225)                                       | 1115ms (100.00%) | 64.22MB (100.00%)  |

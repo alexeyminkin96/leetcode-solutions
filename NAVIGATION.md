@@ -1,4 +1,4 @@
-# Solved problems: 255
+# Solved problems: 256
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -152,6 +152,7 @@
 | 2078 | [Two Furthest Houses With Different Colors](src/main/kotlin/problems/p2078)                                | 0ms (100.00%)    | 41.34MB (81.25%)   |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
+| 2126 | [Destroying Asteroids](src/main/kotlin/problems/p2126)                                                     | 34ms (100.00%)   | 62.36MB (100.00%)  |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                                      | 17ms (100.00%)   | 61.12MB (100.00%)  |
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                                 | 18ms (100.00%)   | 49.21MB (100.00%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                                     | 1ms (100.00%)    | 44.91MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 256
+# Solved problems: 257
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -154,6 +154,7 @@
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
 | 2126 | [Destroying Asteroids](src/main/kotlin/problems/p2126)                                                     | 34ms (100.00%)   | 62.36MB (100.00%)  |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                                      | 17ms (100.00%)   | 61.12MB (100.00%)  |
+| 2144 | [Minimum Cost of Buying Candies With Discount](src/main/kotlin/problems/p2144)                             | 1ms (100.00%)    | 42.23MB (100.00%)  |
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                                 | 18ms (100.00%)   | 49.21MB (100.00%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                                     | 1ms (100.00%)    | 44.91MB (100.00%)  |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                               | 13ms (100.00%)   | 46.60MB (100.00%)  |

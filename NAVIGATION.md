@@ -1,4 +1,4 @@
-# Solved problems: 257
+# Solved problems: 258
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -231,6 +231,7 @@
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                             | 42ms (100.00%)   | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                            | 582ms (100.00%)  | 200.59MB (100.00%) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](src/main/kotlin/problems/p3629)                       | 110ms (100.00%)  | 87.36MB (100.00%)  |
+| 3633 | [Earliest Finish Time for Land and Water Rides I](src/main/kotlin/problems/p3633)                          | 2ms (100.00%)    | 47.42MB (100.00%)  |
 | 3634 | [Minimum Removals to Balance Array](src/main/kotlin/problems/p3634)                                        | 31ms (100.00%)   | 82.35MB (100.00%)  |
 | 3637 | [Trionic Array I](src/main/kotlin/problems/p3637)                                                          | 1ms (100.00%)    | 43.07MB (100.00%)  |
 | 3640 | [Trionic Array II](src/main/kotlin/problems/p3640)                                                         | 5ms (100.00%)    | 76.24MB (84.62%)   |

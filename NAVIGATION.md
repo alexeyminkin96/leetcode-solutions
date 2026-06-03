@@ -1,4 +1,4 @@
-# Solved problems: 258
+# Solved problems: 259
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -233,6 +233,7 @@
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](src/main/kotlin/problems/p3629)                       | 110ms (100.00%)  | 87.36MB (100.00%)  |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](src/main/kotlin/problems/p3633)                          | 2ms (100.00%)    | 47.42MB (100.00%)  |
 | 3634 | [Minimum Removals to Balance Array](src/main/kotlin/problems/p3634)                                        | 31ms (100.00%)   | 82.35MB (100.00%)  |
+| 3635 | [Earliest Finish Time for Land and Water Rides II](src/main/kotlin/problems/p3635)                         | 3ms (100.00%)    | 75.12MB (40.91%)   |
 | 3637 | [Trionic Array I](src/main/kotlin/problems/p3637)                                                          | 1ms (100.00%)    | 43.07MB (100.00%)  |
 | 3640 | [Trionic Array II](src/main/kotlin/problems/p3640)                                                         | 5ms (100.00%)    | 76.24MB (84.62%)   |
 | 3643 | [Flip Square Submatrix Vertically](src/main/kotlin/problems/p3643)                                         | 1ms (100.00%)    | 56.27MB (50.00%)   |

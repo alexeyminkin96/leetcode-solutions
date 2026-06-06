@@ -1,4 +1,4 @@
-# Solved problems: 261
+# Solved problems: 262
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -167,6 +167,7 @@
 | 2540 | [Minimum Common Value](src/main/kotlin/problems/p2540)                                                     | 1ms (100.00%)    | 61.42MB (100.00%)  |
 | 2553 | [Separate the Digits in an Array](src/main/kotlin/problems/p2553)                                          | 1ms (100.00%)    | 45.73MB (96.63%)   |
 | 2573 | [Find the String with LCP](src/main/kotlin/problems/p2573)                                                 | 12ms (100.00%)   | 154.65MB (100.00%) |
+| 2574 | [Left and Right Sum Differences](src/main/kotlin/problems/p2574)                                           | 2ms (97.81%)     | 46.53MB (94.26%)   |
 | 2615 | [Sum of Distances](src/main/kotlin/problems/p2615)                                                         | 17ms (100.00%)   | 78.84MB (100.00%)  |
 | 2657 | [Find the Prefix Common Array of Two Arrays](src/main/kotlin/problems/p2657)                               | 2ms (100.00%)    | 49.56MB (87.50%)   |
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |

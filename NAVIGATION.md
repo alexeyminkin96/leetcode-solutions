@@ -1,4 +1,4 @@
-# Solved problems: 263
+# Solved problems: 264
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -157,6 +157,7 @@
 | 2144 | [Minimum Cost of Buying Candies With Discount](src/main/kotlin/problems/p2144)                             | 1ms (100.00%)    | 42.23MB (100.00%)  |
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                                 | 18ms (100.00%)   | 49.21MB (100.00%)  |
 | 2154 | [Keep Multiplying Found Values by Two](src/main/kotlin/problems/p2154)                                     | 1ms (100.00%)    | 44.91MB (100.00%)  |
+| 2161 | [Partition Array According to Given Pivot](src/main/kotlin/problems/p2161)                                 | 5ms (92.75%)     | 64.90MB (80.00%)   |
 | 2196 | [Create Binary Tree From Descriptions](src/main/kotlin/problems/p2196)                                     | 14ms (100.00%)   | 76.73MB (47.67%)   |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                               | 13ms (100.00%)   | 46.60MB (100.00%)  |
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |

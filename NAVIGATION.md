@@ -1,4 +1,4 @@
-# Solved problems: 265
+# Solved problems: 266
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -249,6 +249,7 @@
 | 3661 | [Maximum Walls Destroyed by Robots](src/main/kotlin/problems/p3661)                                        | 92ms (100.00%)   | 88.26MB (100.00%)  |
 | 3666 | [Minimum Operations to Equalize Binary String](src/main/kotlin/problems/p3666)                             | 6ms (100.00%)    | 47.84MB (100.00%)  |
 | 3689 | [Maximum Total Subarray Value I](src/main/kotlin/problems/p3689)                                           | 3ms (98.79%)     | 61.99MB (98.79%)   |
+| 3691 | [Maximum Total Subarray Value II](src/main/kotlin/problems/p3691)                                          | 154ms (72.44%)   | 77.68MB (63.46%)   |
 | 3713 | [Longest Balanced Substring I](src/main/kotlin/problems/p3713)                                             | 49ms (100.00%)   | 47.18MB (100.00%)  |
 | 3714 | [Longest Balanced Substring II](src/main/kotlin/problems/p3714)                                            | 218ms (100.00%)  | 62.99MB (100.00%)  |
 | 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |

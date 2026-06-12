@@ -1,4 +1,4 @@
-# Solved problems: 267
+# Solved problems: 268
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -224,6 +224,7 @@
 | 3546 | [Equal Sum Grid Partition I](src/main/kotlin/problems/p3546)                                               | 4ms (100.00%)    | 80.32MB (83.33%)   |
 | 3548 | [Equal Sum Grid Partition II](src/main/kotlin/problems/p3548)                                              | 42ms (100.00%)   | 85.42MB (100.00%)  |
 | 3558 | [Number of Ways to Assign Edge Weights I](src/main/kotlin/problems/p3558)                                  | 103ms (79.18%)   | 133.96MB (55.20%)  |
+| 3559 | [Number of Ways to Assign Edge Weights II](src/main/kotlin/problems/p3559)                                 | 75ms (100.00%)   | 118.42MB (98.48%)  |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](src/main/kotlin/problems/p3562)                        | 118ms (100.00%)  | 50.86MB (100.00%)  |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](src/main/kotlin/problems/p3567)                         | 11ms (100.00%)   | 49.25MB (100.00%)  |
 | 3573 | [Best Time to Buy and Sell Stock V](src/main/kotlin/problems/p3573)                                        | 34ms (66.67%)    | 50.12MB (66.67%)   |

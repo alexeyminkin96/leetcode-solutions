@@ -1,4 +1,4 @@
-# Solved problems: 268
+# Solved problems: 269
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -263,6 +263,7 @@
 | 3753 | [Total Waviness of Numbers in Range II](src/main/kotlin/problems/p3753)                                    | 1ms (100.00%)    | 40.74MB (99.37%)   |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](src/main/kotlin/problems/p3761)                           | 28ms (100.00%)   | 65.80MB (100.00%)  |
 | 3783 | [Mirror Distance of an Integer](src/main/kotlin/problems/p3783)                                            | 1ms (100.00%)    | 40.73MB (100.00%)  |
+| 3838 | [Weighted Word Mapping](src/main/kotlin/problems/p3838)                                                    | 2ms (100.00%)    | 48.92MB (78.06%)   |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |
 | 3890 | [Integers With Multiple Sum of Two Cubes](src/main/kotlin/problems/p3890)                                  | 47ms (96.88%)    | 76.99MB (90.63%)   |
 | 3891 | [Minimum Increase to Maximize Special Indices](src/main/kotlin/problems/p3891)                             | 6ms (100.00%)    | 77.85MB (54.29%)   |

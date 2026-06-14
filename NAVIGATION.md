@@ -1,4 +1,4 @@
-# Solved problems: 269
+# Solved problems: 270
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -153,6 +153,7 @@
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
 | 2126 | [Destroying Asteroids](src/main/kotlin/problems/p2126)                                                     | 34ms (100.00%)   | 62.36MB (100.00%)  |
+| 2130 | [Maximum Twin Sum of a Linked List](src/main/kotlin/problems/p2130)                                        | 6ms (85.87%)     | 60.65MB (79.20%)   |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                                      | 17ms (100.00%)   | 61.12MB (100.00%)  |
 | 2144 | [Minimum Cost of Buying Candies With Discount](src/main/kotlin/problems/p2144)                             | 1ms (100.00%)    | 42.23MB (100.00%)  |
 | 2147 | [Number of Ways to Divide a Long Corridor](src/main/kotlin/problems/p2147)                                 | 18ms (100.00%)   | 49.21MB (100.00%)  |

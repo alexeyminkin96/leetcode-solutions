@@ -1,4 +1,4 @@
-# Solved problems: 270
+# Solved problems: 2711
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -151,6 +151,7 @@
 | 2075 | [Decode the Slanted Ciphertext](src/main/kotlin/problems/p2075)                                            | 8ms (100.00%)    | 59.72MB (11.11%)   |
 | 2078 | [Two Furthest Houses With Different Colors](src/main/kotlin/problems/p2078)                                | 0ms (100.00%)    | 41.34MB (81.25%)   |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
+| 2095 | [Delete the Middle Node of a Linked List](src/main/kotlin/problems/p2095)                                  | 5ms (43.46%)     | 67.35MB (87.14%)   |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
 | 2126 | [Destroying Asteroids](src/main/kotlin/problems/p2126)                                                     | 34ms (100.00%)   | 62.36MB (100.00%)  |
 | 2130 | [Maximum Twin Sum of a Linked List](src/main/kotlin/problems/p2130)                                        | 6ms (85.87%)     | 60.65MB (79.20%)   |

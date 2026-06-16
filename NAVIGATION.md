@@ -1,4 +1,4 @@
-# Solved problems: 2711
+# Solved problems: 272
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -235,6 +235,7 @@
 | 3583 | [Count Special Triplets](src/main/kotlin/problems/p3583)                                                   | 129ms (100.00%)  | 81.27MB (100.00%)  |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](src/main/kotlin/problems/p3600)                           | 43ms (100.00%)   | 145.82MB (100.00%) |
 | 3606 | [Coupon Code Validator](src/main/kotlin/problems/p3606)                                                    | 6ms (100.00%)    | 48.80MB (100.00%)  |
+| 3612 | [Process String with Special Operations I](src/main/kotlin/problems/p3612)                                 | 4ms (97.20%)     | 53.94MB (88.24%)   |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                             | 42ms (100.00%)   | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                            | 582ms (100.00%)  | 200.59MB (100.00%) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](src/main/kotlin/problems/p3629)                       | 110ms (100.00%)  | 87.36MB (100.00%)  |

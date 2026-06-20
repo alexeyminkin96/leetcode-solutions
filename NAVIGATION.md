@@ -1,4 +1,4 @@
-# Solved problems: 275
+# Solved problems: 276
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -130,6 +130,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](src/main/kotlin/problems/p1752)                                     | 0ms (100.00%)    | 40.73MB (84.62%)   |
 | 1758 | [Minimum Changes To Make Alternating Binary String](src/main/kotlin/problems/p1758)                        | 2ms (100.00%)    | 42.47MB (46.15%)   |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
+| 1840 | [Maximum Building Height](src/main/kotlin/problems/p1840)                                                  | 65ms (100.00%)   | 115.67MB (100.00%) |
 | 1848 | [Minimum Distance to the Target Element](src/main/kotlin/problems/p1848)                                   | 0ms (100.00%)    | 42.73MB (100.00%)  |
 | 1855 | [Maximum Distance Between a Pair of Values](src/main/kotlin/problems/p1855)                                | 4ms (100.00%)    | 64.13MB (54.55%)   |
 | 1861 | [Rotating the Box](src/main/kotlin/problems/p1861)                                                         | 6ms (100.00%)    | 96.17MB (100.00%)  |

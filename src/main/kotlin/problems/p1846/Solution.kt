@@ -1,0 +1,8 @@
+package problems.p1846
+
+/**
+ * **[Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)**
+ */
+interface Solution {
+    fun maximumElementAfterDecrementingAndRearranging(arr: IntArray): Int
+}

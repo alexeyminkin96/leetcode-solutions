@@ -1,4 +1,4 @@
-# Solved problems: 283
+# Solved problems: 284
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -133,6 +133,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
 | 1833 | [Maximum Ice Cream Bars](src/main/kotlin/problems/p1833)                                                   | 5ms (100.00%)    | 60.75MB (100.00%)  |
 | 1840 | [Maximum Building Height](src/main/kotlin/problems/p1840)                                                  | 65ms (100.00%)   | 115.67MB (100.00%) |
+| 1846 | [Maximum Element After Decreasing and Rearranging](src/main/kotlin/problems/p1846)                         | 4ms (100.00%)    | 61.60MB (100.00%)  |
 | 1848 | [Minimum Distance to the Target Element](src/main/kotlin/problems/p1848)                                   | 0ms (100.00%)    | 42.73MB (100.00%)  |
 | 1855 | [Maximum Distance Between a Pair of Values](src/main/kotlin/problems/p1855)                                | 4ms (100.00%)    | 64.13MB (54.55%)   |
 | 1861 | [Rotating the Box](src/main/kotlin/problems/p1861)                                                         | 6ms (100.00%)    | 96.17MB (100.00%)  |

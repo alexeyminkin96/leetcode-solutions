@@ -1,4 +1,4 @@
-# Solved problems: 284
+# Solved problems: 285
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -147,6 +147,7 @@
 | 1970 | [Last Day Where You Can Still Cross](src/main/kotlin/problems/p1970)                                       | 10ms (100.00%)   | 77.40MB (80.00%)   |
 | 1925 | [Count Square Sum Triples](src/main/kotlin/problems/p1925)                                                 | 0ms (100.00%)    | 40.40MB (100.00%)  |
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                                 | 6ms (100.00%)    | 45.67MB (100.00%)  |
+| 1967 | [Number of Strings That Appear as Substrings in Word](src/main/kotlin/problems/p1967)                      | 7ms (100.00%)    | 43.76MB (33.33%)   |
 | 1975 | [Maximum Matrix Sum](src/main/kotlin/problems/p1975)                                                       | 4ms (100.00%)    | 62.90MB (66.67%)   |
 | 1980 | [Find Unique Binary String](src/main/kotlin/problems/p1980)                                                | 0ms (100.00%)    | 41.40MB (100.00%)  |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)    | 47.12MB (96.77%)   |

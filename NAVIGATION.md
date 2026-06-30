@@ -1,4 +1,4 @@
-# Solved problems: 285
+# Solved problems: 286
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -100,6 +100,7 @@
 | 1345 | [Jump Game IV](src/main/kotlin/problems/p1345)                                                             | 46ms (100.00%)   | 60.39MB (100.00%)  |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                                | 0ms (100.00%)    | 48.00MB (96.00%)   |
 | 1356 | [Sort Integers by The Number of 1 Bits](src/main/kotlin/problems/p1356)                                    | 3ms (100.00%)    | 45.36MB (100.00%)  |
+| 1358 | [Number of Substrings Containing All Three Characters](src/main/kotlin/problems/p1358)                     | 9ms (100.00%)    | 44.86MB (72.22%)   |
 | 1382 | [Balance a Binary Search Tree](src/main/kotlin/problems/p1382)                                             | 2ms (100.00%)    | 49.69MB (84.62%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
 | 1391 | [Check if There is a Valid Path in a Grid](src/main/kotlin/problems/p1391)                                 | 8ms (100.00%)    | 77.31MB (100.00%)  |

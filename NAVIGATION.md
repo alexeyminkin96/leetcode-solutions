@@ -1,4 +1,4 @@
-# Solved problems: 286
+# Solved problems: 287
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -185,6 +185,7 @@
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](src/main/kotlin/problems/p2770)                          | 21ms (100.00%)   | 48.83MB (100.00%)  |
 | 2784 | [Check if Array is Good](src/main/kotlin/problems/p2784)                                                   | 1ms (100.00%)    | 42.66MB (100.00%)  |
+| 2812 | [Find the Safest Path in a Grid](src/main/kotlin/problems/p2812)                                           | 911ms (100.00%)  | 82.62MB (100.00%)  |
 | 2833 | [Furthest Point From Origin](src/main/kotlin/problems/p2833)                                               | 1ms (100.00%)    | 42.20MB (66.67%)   |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](src/main/kotlin/problems/p2839)                     | 1ms (100.00%)    | 42.48MB (100.00%)  |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](src/main/kotlin/problems/p2840)                    | 5ms (100.00%)    | 47.27MB (100.00%)  |

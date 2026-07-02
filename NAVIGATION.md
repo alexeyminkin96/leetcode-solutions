@@ -1,4 +1,4 @@
-# Solved problems: 287
+# Solved problems: 288
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -213,6 +213,7 @@
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](src/main/kotlin/problems/p3190)          | 0ms (100.00%)    | 42.18MB (90.00%)   |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](src/main/kotlin/problems/p3212)                        | 21ms (100.00%)   | 172.37MB (-%)      |
 | 3225 | [Maximum Score From Grid Operations](src/main/kotlin/problems/p3225)                                       | 1115ms (100.00%) | 64.22MB (100.00%)  |
+| 3286 | [Find a Safe Walk Through a Grid](src/main/kotlin/problems/p3286)                                          | 14ms (98.51%)    | 49.80MB (95.90%)   |
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                                     | 1ms (100.00%)    | 45.18MB (88.46%)   |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](src/main/kotlin/problems/p3296)                   | 13ms (100.00%)   | 49.80MB (100.00%)  |
 | 3300 | [Minimum Element After Replacement With Digit Sum](src/main/kotlin/problems/p3300)                         | 1ms (100.00%)    | 43.24MB (100.00%)  |

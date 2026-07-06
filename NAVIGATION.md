@@ -1,4 +1,4 @@
-# Solved problems: 291
+# Solved problems: 292
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -91,6 +91,7 @@
 | 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)    | 59.88MB (97.01%)   |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)    | 43.08MB (100.00%)  |
+| 1288 | [Remove Covered Intervals](src/main/kotlin/problems/p1288)                                                 | 3ms (100.00%)    | 48.07MB (75.00%)   |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](src/main/kotlin/problems/p1292) | 9ms (100.00%)    | 60.61MB (100.00%)  |
 | 1301 | [Number of Paths with Max Score](src/main/kotlin/problems/p1301)                                           | 117ms (100.00%)  | 41.62MB (100.00%)  |
 | 1306 | [Jump Game III](src/main/kotlin/problems/p1306)                                                            | 1ms (100.00%)    | 62.02MB (44.93%)   |

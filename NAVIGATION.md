@@ -1,4 +1,4 @@
-# Solved problems: 295
+# Solved problems: 296
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -238,6 +238,7 @@
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)   | 117.49MB (66.67%)  |
 | 3532 | [Path Existence Queries in a Graph I](src/main/kotlin/problems/p3532)                                      | 3ms (100.00%)    | 115.51MB (50.00%)  |
+| 3534 | [Path Existence Queries in a Graph II](src/main/kotlin/problems/p3534)                                     | 60ms (100.00%)   | 112.64MB (100.00%) |
 | 3546 | [Equal Sum Grid Partition I](src/main/kotlin/problems/p3546)                                               | 4ms (100.00%)    | 80.32MB (83.33%)   |
 | 3548 | [Equal Sum Grid Partition II](src/main/kotlin/problems/p3548)                                              | 42ms (100.00%)   | 85.42MB (100.00%)  |
 | 3558 | [Number of Ways to Assign Edge Weights I](src/main/kotlin/problems/p3558)                                  | 103ms (79.18%)   | 133.96MB (55.20%)  |

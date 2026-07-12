@@ -1,4 +1,4 @@
-# Solved problems: 297
+# Solved problems: 298
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -96,6 +96,7 @@
 | 1301 | [Number of Paths with Max Score](src/main/kotlin/problems/p1301)                                           | 117ms (100.00%)  | 41.62MB (100.00%)  |
 | 1306 | [Jump Game III](src/main/kotlin/problems/p1306)                                                            | 1ms (100.00%)    | 62.02MB (44.93%)   |
 | 1320 | [Minimum Distance to Type a Word Using Two Fingers](src/main/kotlin/problems/p1320)                        | 37ms (66.67%)    | 48.03MB (100.00%)  |
+| 1331 | [Rank Transform of an Array](src/main/kotlin/problems/p1331)                                               | 20ms (100.00%)   | 66.42MB (68.75%)   |
 | 1339 | [Maximum Product of Splitted Binary Tree](src/main/kotlin/problems/p1339)                                  | 7ms (100.00%)    | 63.01MB (100.00%)  |
 | 1340 | [Jump Game V](src/main/kotlin/problems/p1340)                                                              | 6ms (100.00%)    | 47.10MB (86.67%)   |
 | 1344 | [Angle Between Hands of a Clock](src/main/kotlin/problems/p1344)                                           | 0ms (100.00%)    | 39.79MB (89.66%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 299
+# Solved problems: 300
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -225,6 +225,7 @@
 | 3300 | [Minimum Element After Replacement With Digit Sum](src/main/kotlin/problems/p3300)                         | 1ms (100.00%)    | 43.24MB (100.00%)  |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |
 | 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)    | 46.75MB (100.00%)  |
+| 3336 | [Find the Number of Subsequences With Equal GCD](src/main/kotlin/problems/p3336)                           | 105ms (100.00%)  | 49.36MB (100.00%)  |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)    | 40.84MB (57.14%)   |
 | 3379 | [Transformed Array](src/main/kotlin/problems/p3379)                                                        | 143ms (100.00%)  | 44.86MB (33.33%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                          | 8ms (100.00%)    | 82.26MB (100.00%)  |

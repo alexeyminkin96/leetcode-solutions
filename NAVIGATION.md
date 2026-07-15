@@ -1,4 +1,4 @@
-# Solved problems: 300
+# Solved problems: 301
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -272,6 +272,7 @@
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](src/main/kotlin/problems/p3652)                           | 4ms (100.00%)    | 77.04MB (87.50%)   |
 | 3653 | [XOR After Range Multiplication Queries I](src/main/kotlin/problems/p3653)                                 | 47ms (100.00%)   | 70.04MB (80.00%)   |
 | 3655 | [XOR After Range Multiplication Queries II](src/main/kotlin/problems/p3655)                                | 224ms (100.00%)  | 119.01MB (100.00%) |
+| 3658 | [GCD of Odd and Even Sums](src/main/kotlin/problems/p3658)                                                 | 0ms (100.00%)    | 40.20MB (100.00%)  |
 | 3660 | [Jump Game IX](src/main/kotlin/problems/p3660)                                                             | 5ms (100.00%)    | 86.30MB (100.00%)  |
 | 3661 | [Maximum Walls Destroyed by Robots](src/main/kotlin/problems/p3661)                                        | 92ms (100.00%)   | 88.26MB (100.00%)  |
 | 3666 | [Minimum Operations to Equalize Binary String](src/main/kotlin/problems/p3666)                             | 6ms (100.00%)    | 47.84MB (100.00%)  |

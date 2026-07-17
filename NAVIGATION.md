@@ -1,4 +1,4 @@
-# Solved problems: 302
+# Solved problems: 303
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -223,6 +223,7 @@
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                                     | 1ms (100.00%)    | 45.18MB (88.46%)   |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](src/main/kotlin/problems/p3296)                   | 13ms (100.00%)   | 49.80MB (100.00%)  |
 | 3300 | [Minimum Element After Replacement With Digit Sum](src/main/kotlin/problems/p3300)                         | 1ms (100.00%)    | 43.24MB (100.00%)  |
+| 3312 | [Sorted GCD Pair Queries](src/main/kotlin/problems/p3312)                                                  | 22ms (100.00%)   | 75.71MB (50.00%)   |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |
 | 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)    | 46.75MB (100.00%)  |
 | 3336 | [Find the Number of Subsequences With Equal GCD](src/main/kotlin/problems/p3336)                           | 105ms (100.00%)  | 49.36MB (100.00%)  |

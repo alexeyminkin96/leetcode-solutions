@@ -1,4 +1,4 @@
-# Solved problems: 303
+# Solved problems: 304
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -154,6 +154,7 @@
 | 1930 | [Unique Length-3 Palindromic Subsequences](src/main/kotlin/problems/p1930)                                 | 6ms (100.00%)    | 45.67MB (100.00%)  |
 | 1967 | [Number of Strings That Appear as Substrings in Word](src/main/kotlin/problems/p1967)                      | 7ms (100.00%)    | 43.76MB (33.33%)   |
 | 1975 | [Maximum Matrix Sum](src/main/kotlin/problems/p1975)                                                       | 4ms (100.00%)    | 62.90MB (66.67%)   |
+| 1979 | [Find Greatest Common Divisor of Array](src/main/kotlin/problems/p1979)                                    | 0ms (100.00%)    | 43.86MB (52.38%)   |
 | 1980 | [Find Unique Binary String](src/main/kotlin/problems/p1980)                                                | 0ms (100.00%)    | 41.40MB (100.00%)  |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)    | 47.12MB (96.77%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)                      | 0ms (100.00%)    | 44.01MB (37.04%)   |

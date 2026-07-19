@@ -1,4 +1,4 @@
-# Solved problems: 304
+# Solved problems: 305
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -86,6 +86,7 @@
 | 1015 | [Smallest Integer Divisible by K](src/main/kotlin/problems/p1015)                                          | 2ms (100.00%)    | 40.26MB (33.33%)   |
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                             | 1ms (100.00%)    | 49.28MB (41.67%)   |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/main/kotlin/problems/p1022)                                       | 0ms (100.00%)    | 42.14MB (75.00%)   |
+| 1081 | [Smallest Subsequence of Distinct Characters](src/main/kotlin/problems/p1081)                              | 1ms (100.00%)    | 40.36MB (100.00%)  |
 | 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                                       | 4ms (97.92%)     | 51.80MB (58.33%)   |
 | 1189 | [Maximum Number of Balloons](src/main/kotlin/problems/p1189)                                               | 3ms (100.00%)    | 41.59MB (91.30%)   |
 | 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)    | 59.88MB (97.01%)   |

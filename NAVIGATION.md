@@ -1,4 +1,4 @@
-# Solved problems: 305
+# Solved problems: 306
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -90,6 +90,7 @@
 | 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                                       | 4ms (97.92%)     | 51.80MB (58.33%)   |
 | 1189 | [Maximum Number of Balloons](src/main/kotlin/problems/p1189)                                               | 3ms (100.00%)    | 41.59MB (91.30%)   |
 | 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)    | 59.88MB (97.01%)   |
+| 1260 | [Shift 2D Grid](src/main/kotlin/problems/p1260)                                                            | 2ms (100.00%)    | 48.63MB (100.00%)  |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)    | 43.08MB (100.00%)  |
 | 1288 | [Remove Covered Intervals](src/main/kotlin/problems/p1288)                                                 | 3ms (100.00%)    | 48.07MB (75.00%)   |

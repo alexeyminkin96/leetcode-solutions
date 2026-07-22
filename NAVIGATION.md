@@ -1,4 +1,4 @@
-# Solved problems: 307
+# Solved problems: 308
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -242,6 +242,7 @@
 | 3474 | [Lexicographically Smallest Generated String](src/main/kotlin/problems/p3474)                              | 19ms (100.00%)   | 46.68MB (100.00%)  |
 | 3488 | [Closest Equal Element Queries](src/main/kotlin/problems/p3488)                                            | 55ms (100.00%)   | 93.58MB (100.00%)  |
 | 3499 | [Maximize Active Section with Trade I](src/main/kotlin/problems/p3499)                                     | 32ms (100.00%)   | 50.46MB (21.89%)   |
+| 3501 | [Maximize Active Section with Trade II](src/main/kotlin/problems/p3501)                                    | 141ms (86.89%)   | 132.29MB (44.26%)  |
 | 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)    | 43.67MB (85.71%)   |
 | 3510 | [Minimum Pair Removal to Sort Array II](src/main/kotlin/problems/p3510)                                    | 387ms (100.00%)  | 108.96MB (100.00%) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 308
+# Solved problems: 309
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -246,6 +246,7 @@
 | 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)    | 43.67MB (85.71%)   |
 | 3510 | [Minimum Pair Removal to Sort Array II](src/main/kotlin/problems/p3510)                                    | 387ms (100.00%)  | 108.96MB (100.00%) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |
+| 3513 | [Number of Unique XOR Triplets I](src/main/kotlin/problems/p3513)                                          | 1ms (100.00%)    | 69.70MB (100.00%)  |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)   | 117.49MB (66.67%)  |
 | 3532 | [Path Existence Queries in a Graph I](src/main/kotlin/problems/p3532)                                      | 3ms (100.00%)    | 115.51MB (50.00%)  |
 | 3534 | [Path Existence Queries in a Graph II](src/main/kotlin/problems/p3534)                                     | 60ms (100.00%)   | 112.64MB (100.00%) |

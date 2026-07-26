@@ -1,4 +1,4 @@
-# Solved problems: 311
+# Solved problems: 312
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -61,6 +61,7 @@
 | 0190 | [Reverse Bits](src/main/kotlin/problems/p0190)                                                             | 85ms (87.50%)    | 39.73MB (69.74%)   |
 | 0396 | [Rotate Function](src/main/kotlin/problems/p0396)                                                          | 4ms (100.00%)    | 61.07MB (100.00%)  |
 | 0401 | [Binary Watch](src/main/kotlin/problems/p0401)                                                             | 1ms (100.00%)    | 40.73MB (97.56%)   |
+| 0628 | [Maximum Product of Three Numbers](src/main/kotlin/problems/p0628)                                         | 1ms (100.00%)    | 50.89MB (55.17%)   |
 | 0657 | [Robot Return to Origin](src/main/kotlin/problems/p0657)                                                   | 4ms (100.00%)    | 44.08MB (100.00%)  |
 | 0693 | [Binary Number with Alternating Bits](src/main/kotlin/problems/p0693)                                      | 0ms (100.00%)    | 39.90MB (81.25%)   |
 | 0696 | [Count Binary Substrings](src/main/kotlin/problems/p0696)                                                  | 7ms (100.00%)    | 45.87MB (100.00%)  |

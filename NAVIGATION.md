@@ -1,4 +1,4 @@
-# Solved problems: 324
+# Solved problems: 325
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -233,6 +233,7 @@
 | 3289 | [The Two Sneaky Numbers of Digitville](src/main/kotlin/problems/p3289)                                     | 1ms (100.00%)    | 45.18MB (88.46%)   |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](src/main/kotlin/problems/p3296)                   | 13ms (100.00%)   | 49.80MB (100.00%)  |
 | 3300 | [Minimum Element After Replacement With Digit Sum](src/main/kotlin/problems/p3300)                         | 1ms (100.00%)    | 43.24MB (100.00%)  |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](src/main/kotlin/problems/p3302)                       | 15ms (100.00%)   | 84.09MB (100.00%)  |
 | 3310 | [Remove Methods From Project](src/main/kotlin/problems/p3310)                                              | 21ms (100.00%)   | 180.15MB (-%)      |
 | 3312 | [Sorted GCD Pair Queries](src/main/kotlin/problems/p3312)                                                  | 22ms (100.00%)   | 75.71MB (50.00%)   |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |

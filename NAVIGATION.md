@@ -1,4 +1,4 @@
-# Solved problems: 326
+# Solved problems: 327
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -122,7 +122,7 @@
 | 1458 | [Max Dot Product of Two Subsequences](src/main/kotlin/problems/p1458)                                      | 20ms (60.00%)    | 46.42MB (80.00%)   |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](src/main/kotlin/problems/p1461)                    | 5ms (100.00%)    | 48.28MB (100.00%)  |
 | 1464 | [Maximum Product of Two Elements in an Array](src/main/kotlin/problems/p1464)                              | 0ms (100.00%)    | 42.46MB (100.00%)  |
-| 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                        | 4ms (98.06%)     | 44.91MB (70.97%)   |
+| 1510 | [Stone Game IV](src/main/kotlin/problems/p1510)                                                            | 0ms (100.00%)    | 39.70MB (100.00%)  || 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                        | 4ms (98.06%)     | 44.91MB (70.97%)   |
 | 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                                   | 61ms (100.00%)   | 35.60MB (100.00%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |

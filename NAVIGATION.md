@@ -1,4 +1,4 @@
-# Solved problems: 328
+# Solved problems: 329
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -209,6 +209,7 @@
 | 2906 | [Construct Product Matrix](src/main/kotlin/problems/p2906)                                                 | 8ms (100.00%)    | 103.74MB (100.00%) |
 | 2943 | [Maximize Area of Square Hole in Grid](src/main/kotlin/problems/p2943)                                     | 3ms (100.00%)    | 44.28MB (100.00%)  |
 | 2946 | [Matrix Similarity After Cyclic Shifts](src/main/kotlin/problems/p2946)                                    | 1ms (100.00%)    | 48.59MB (100.00%)  |
+| 2958 | [Length of Longest Subarray With at Most K Frequency](src/main/kotlin/problems/p2958)                      | 17ms (100.00%)   | 66.45MB (100.00%)  |
 | 2975 | [Maximum Square Area by Removing Fences From a Field](src/main/kotlin/problems/p2975)                      | 347ms (100.00%)  | 116.33MB (100.00%) |
 | 2976 | [Minimum Cost to Convert String I](src/main/kotlin/problems/p2976)                                         | 17ms (100.00%)   | 51.45MB (100.00%)  |
 | 2977 | [Minimum Cost to Convert String II](src/main/kotlin/problems/p2977)                                        | 220ms (100.00%)  | 67.35MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 332
+# Solved problems: 333
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -167,6 +167,7 @@
 | 1980 | [Find Unique Binary String](src/main/kotlin/problems/p1980)                                                | 0ms (100.00%)    | 41.40MB (100.00%)  |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](src/main/kotlin/problems/p1984)                | 6ms (100.00%)    | 47.12MB (96.77%)   |
 | 2011 | [Final Value of Variable After Performing Operations](src/main/kotlin/problems/p2011)                      | 0ms (100.00%)    | 44.01MB (37.04%)   |
+| 2029 | [Stone Game IX](src/main/kotlin/problems/p2029)                                                            | 3ms (100.00%)    | 64.40MB (50.00%)   |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](src/main/kotlin/problems/p2033)                              | 5ms (100.00%)    | 81.47MB (50.00%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)   | 125.24MB (50.00%)  |
 | 2069 | [Walking Robot Simulation II](src/main/kotlin/problems/p2069)                                              | 118ms (100.00%)  | 78.62MB (100.00%)  |

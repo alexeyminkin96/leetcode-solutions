@@ -1,4 +1,4 @@
-# Solved problems: 333
+# Solved problems: 334
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -310,6 +310,7 @@
 | 3699 | [Number of ZigZag Arrays I](src/main/kotlin/problems/p3699)                                                | 121ms (97.73%)   | 46.57MB (62.50%)   |
 | 3700 | [Number of ZigZag Arrays II](src/main/kotlin/problems/p3700)                                               | 160ms (54.84%)   | 48.34MB (59.68%)   |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](src/main/kotlin/problems/p3702)                            | 3ms (100.00%)    | 72.24MB (100.00%)  |
+| 3713 | [Longest Balanced Substring I](src/main/kotlin/problems/p3713)                                             | 49ms (100.00%)   | 47.18MB (100.00%)  |
 | 3714 | [Longest Balanced Substring II](src/main/kotlin/problems/p3714)                                            | 218ms (100.00%)  | 62.99MB (100.00%)  |
 | 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |
 | 3721 | [Longest Balanced Subarray II](src/main/kotlin/problems/p3721)                                             | 160ms (100.00%)  | 76.15MB (88.89%)   |
@@ -335,3 +336,4 @@
 | 3896 | [Minimum Operations to Transform Array into Alternating Prime](src/main/kotlin/problems/p3896)             | 26ms (100.00%)   | 68.23MB (95.00%)   |
 | 3898 | [Find the Degree of Each Vertex](src/main/kotlin/problems/p3898)                                           | 2ms (100.00%)    | 67.42MB (100.00%)  |
 | 3899 | [Angles of a Triangle](src/main/kotlin/problems/p3899)                                                     | 3ms (100.00%)    | 48.04MB (100.00%)  |
+| 4020 | [Elevator Requests I](src/main/kotlin/problems/p4020)                                                      | 1ms (100.00%)    | 43.08MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 335
+# Solved problems: 336
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -338,3 +338,4 @@
 | 3899 | [Angles of a Triangle](src/main/kotlin/problems/p3899)                                                     | 3ms (100.00%)    | 48.04MB (100.00%)  |
 | 4020 | [Elevator Requests I](src/main/kotlin/problems/p4020)                                                      | 1ms (100.00%)    | 43.08MB (100.00%)  |
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](src/main/kotlin/problems/p4021)                        | 48ms (100.00%)   | 45.12MB (100.00%)  |
+| 4022 | [K-th Digit in Infinite String](src/main/kotlin/problems/p4022)                                            | 1ms (100.00%)    | 40.46MB (100.00%)  |

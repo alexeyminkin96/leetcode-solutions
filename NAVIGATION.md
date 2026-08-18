@@ -1,4 +1,4 @@
-# Solved problems: 338
+# Solved problems: 339
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -258,6 +258,7 @@
 | 3453 | [Separate Squares I](src/main/kotlin/problems/p3453)                                                       | 193ms (100.00%)  | 113.33MB (100.00%) |
 | 3454 | [Separate Squares II](src/main/kotlin/problems/p3454)                                                      | 263ms (100.00%)  | 87.25MB (100.00%)  |
 | 3464 | [Maximize the Distance Between Points on a Square](src/main/kotlin/problems/p3464)                         | 15ms (99.03%)    | 54.84MB (99.03%)   |
+| 3471 | [Find the Largest Almost Missing Integer](src/main/kotlin/problems/p3471)                                  | 1ms (100.00%)    | 43.06MB (100.00%)  |
 | 3474 | [Lexicographically Smallest Generated String](src/main/kotlin/problems/p3474)                              | 19ms (100.00%)   | 46.68MB (100.00%)  |
 | 3488 | [Closest Equal Element Queries](src/main/kotlin/problems/p3488)                                            | 55ms (100.00%)   | 93.58MB (100.00%)  |
 | 3499 | [Maximize Active Section with Trade I](src/main/kotlin/problems/p3499)                                     | 32ms (100.00%)   | 50.46MB (21.89%)   |

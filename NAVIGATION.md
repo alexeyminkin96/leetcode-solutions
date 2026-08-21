@@ -1,4 +1,4 @@
-# Solved problems: 341
+# Solved problems: 342
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -231,6 +231,7 @@
 | 3075 | [Maximize Happiness of Selected Children](src/main/kotlin/problems/p3075)                                  | 567ms (50.00%)   | 84.85MB (50.00%)   |
 | 3090 | [Maximum Length Substring With Two Occurrences](src/main/kotlin/problems/p3090)                            | 1ms (100.00%)    | 41.81MB (60.00%)   |
 | 3093 | [Longest Common Suffix Queries](src/main/kotlin/problems/p3093)                                            | 53ms (100.00%)   | 144.75MB (100.00%) |
+| 3116 | [Kth Smallest Amount With Single Denomination Combination](src/main/kotlin/problems/p3116)                 | 3ms (100.00%)    | 41.48MB (100.00%)  |
 | 3120 | [Count the Number of Special Characters I](src/main/kotlin/problems/p3120)                                 | 1ms (100.00%)    | 41.72MB (100.00%)  |
 | 3121 | [Count the Number of Special Characters II](src/main/kotlin/problems/p3121)                                | 232ms (100.00%)  | 48.06MB (33.33%)   |
 | 3129 | [Find All Possible Stable Binary Arrays I](src/main/kotlin/problems/p3129)                                 | 330ms (100.00%)  | 250.03MB (100.00%) |

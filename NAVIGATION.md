@@ -1,4 +1,4 @@
-# Solved problems: 342
+# Solved problems: 343
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -292,6 +292,7 @@
 | 3612 | [Process String with Special Operations I](src/main/kotlin/problems/p3612)                                 | 4ms (97.20%)     | 53.94MB (88.24%)   |
 | 3614 | [Process String with Special Operations II](src/main/kotlin/problems/p3614)                                | 18ms (100.00%)   | 51.14MB (10.00%)   |
 | 3620 | [Network Recovery Pathways](src/main/kotlin/problems/p3620)                                                | 42ms (100.00%)   | 125.94MB (81.82%)  |
+| 3622 | [Check Divisibility by Digit Sum and Product](src/main/kotlin/problems/p3622)                              | 0ms (100.00%)    | 39.99MB (100.00%)  |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                             | 42ms (100.00%)   | 127.41MB (62.50%)  |
 | 3625 | [Count Number of Trapezoids II](src/main/kotlin/problems/p3625)                                            | 582ms (100.00%)  | 200.59MB (100.00%) |
 | 3629 | [Minimum Jumps to Reach End via Prime Teleportation](src/main/kotlin/problems/p3629)                       | 110ms (100.00%)  | 87.36MB (100.00%)  |

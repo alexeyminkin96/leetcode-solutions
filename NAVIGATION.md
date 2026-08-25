@@ -1,4 +1,4 @@
-# Solved problems: 345
+# Solved problems: 346
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -320,6 +320,7 @@
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](src/main/kotlin/problems/p3702)                            | 3ms (100.00%)    | 72.24MB (100.00%)  |
 | 3713 | [Longest Balanced Substring I](src/main/kotlin/problems/p3713)                                             | 49ms (100.00%)   | 47.18MB (100.00%)  |
 | 3714 | [Longest Balanced Substring II](src/main/kotlin/problems/p3714)                                            | 218ms (100.00%)  | 62.99MB (100.00%)  |
+| 3718 | [Smallest Missing Multiple of K](src/main/kotlin/problems/p3718)                                           | 1ms (100.00%)    | 42.66MB (99.72%)   |
 | 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |
 | 3721 | [Longest Balanced Subarray II](src/main/kotlin/problems/p3721)                                             | 160ms (100.00%)  | 76.15MB (88.89%)   |
 | 3731 | [Find Missing Elements](src/main/kotlin/problems/p3731)                                                    | 1ms (100.00%)    | 45.80MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 351
+# Solved problems: 352
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -174,6 +174,7 @@
 | 2029 | [Stone Game IX](src/main/kotlin/problems/p2029)                                                            | 3ms (100.00%)    | 64.40MB (50.00%)   |
 | 2033 | [Minimum Operations to Make a Uni-Value Grid](src/main/kotlin/problems/p2033)                              | 5ms (100.00%)    | 81.47MB (50.00%)   |
 | 2054 | [Two Best Non-Overlapping Events](src/main/kotlin/problems/p2054)                                          | 66ms (100.00%)   | 125.24MB (50.00%)  |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](src/main/kotlin/problems/p2058)     | 6ms (100.00%)    | 70.72MB (66.67%)   |
 | 2069 | [Walking Robot Simulation II](src/main/kotlin/problems/p2069)                                              | 118ms (100.00%)  | 78.62MB (100.00%)  |
 | 2075 | [Decode the Slanted Ciphertext](src/main/kotlin/problems/p2075)                                            | 8ms (100.00%)    | 59.72MB (11.11%)   |
 | 2078 | [Two Furthest Houses With Different Colors](src/main/kotlin/problems/p2078)                                | 0ms (100.00%)    | 41.34MB (81.25%)   |

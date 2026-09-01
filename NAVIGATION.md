@@ -1,4 +1,4 @@
-# Solved problems: 352
+# Solved problems: 353
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -289,6 +289,7 @@
 | 3559 | [Number of Ways to Assign Edge Weights II](src/main/kotlin/problems/p3559)                                 | 75ms (100.00%)   | 118.42MB (98.48%)  |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](src/main/kotlin/problems/p3562)                        | 118ms (100.00%)  | 50.86MB (100.00%)  |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](src/main/kotlin/problems/p3567)                         | 11ms (100.00%)   | 49.25MB (100.00%)  |
+| 3568 | [Minimum Moves to Clean the Classroom](src/main/kotlin/problems/p3568)                                     | 51ms (100.00%)   | 57.72MB (97.78%)   |
 | 3573 | [Best Time to Buy and Sell Stock V](src/main/kotlin/problems/p3573)                                        | 34ms (66.67%)    | 50.12MB (66.67%)   |
 | 3577 | [Count the Number of Computer Unlocking Permutations](src/main/kotlin/problems/p3577)                      | 2ms (100.00%)    | 67.73MB (50.00%)   |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](src/main/kotlin/problems/p3578)                       | 65ms (100.00%)   | 64.74MB (100.00%)  |

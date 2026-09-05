@@ -1,4 +1,4 @@
-# Solved problems: 356
+# Solved problems: 357
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -355,6 +355,7 @@
 | 3898 | [Find the Degree of Each Vertex](src/main/kotlin/problems/p3898)                                           | 2ms (100.00%)    | 67.42MB (100.00%)  |
 | 3899 | [Angles of a Triangle](src/main/kotlin/problems/p3899)                                                     | 3ms (100.00%)    | 48.04MB (100.00%)  |
 | 3903 | [Smallest Stable Index I](src/main/kotlin/problems/p3903)                                                  | 1ms (100.00%)    | 44.76MB (100.00%)  |
+| 3904 | [Smallest Stable Index II](src/main/kotlin/problems/p3904)                                                 | 4ms (100.00%)    | 72.41MB (100.00%)  |
 | 4020 | [Elevator Requests I](src/main/kotlin/problems/p4020)                                                      | 1ms (100.00%)    | 43.08MB (100.00%)  |
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](src/main/kotlin/problems/p4021)                        | 48ms (100.00%)   | 45.12MB (100.00%)  |
 | 4022 | [K-th Digit in Infinite String](src/main/kotlin/problems/p4022)                                            | 1ms (100.00%)    | 40.46MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 358
+# Solved problems: 359
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -82,6 +82,7 @@
 | 0868 | [Binary Gap](src/main/kotlin/problems/p0868)                                                               | 0ms (100.00%)    | 39.26MB (100.00%)  |
 | 0874 | [Walking Robot Simulation](src/main/kotlin/problems/p0874)                                                 | 12ms (100.00%)   | 69.75MB (83.33%)   |
 | 0877 | [Stone Game](src/main/kotlin/problems/p0877)                                                               | 0ms (100.00%)    | 40.71MB (89.47%)   |
+| 0940 | [Distinct Subsequences II](src/main/kotlin/problems/p0940)                                                 | 2ms (100.00%)    | 40.61MB (100.00%)  |
 | 0944 | [Delete Columns to Make Sorted](src/main/kotlin/problems/p0944)                                            | 8ms (100.00%)    | 46.59MB (100.00%)  |
 | 0955 | [Delete Columns to Make Sorted II](src/main/kotlin/problems/p0955)                                         | 1ms (100.00%)    | 42.32MB (100.00%)  |
 | 0960 | [Delete Columns to Make Sorted III](src/main/kotlin/problems/p0960)                                        | 10ms (100.00%)   | 43.57MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 361
+# Solved problems: 362
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -194,6 +194,7 @@
 | 2196 | [Create Binary Tree From Descriptions](src/main/kotlin/problems/p2196)                                     | 14ms (100.00%)   | 76.73MB (47.67%)   |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                               | 13ms (100.00%)   | 46.60MB (100.00%)  |
 | 2213 | [Longest Substring of One Repeating Character](src/main/kotlin/problems/p2213)                             | 76ms (100.00%)   | 65.99MB (100.00%)  |
+| 2265 | [Count Nodes Equal to Average of Subtree](src/main/kotlin/problems/p2265)                                  | 109ms (100.00%)  | 42.40MB (100.00%)  |
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
 | 2463 | [Minimum Total Distance Traveled](src/main/kotlin/problems/p2463)                                          | 19ms (100.00%)   | 43.86MB (100.00%)  |

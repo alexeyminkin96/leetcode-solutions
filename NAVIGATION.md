@@ -1,4 +1,4 @@
-# Solved problems: 365
+# Solved problems: 366
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -78,6 +78,7 @@
 | 0796 | [Rotate String](src/main/kotlin/problems/p0796)                                                            | 0ms (100.00%)    | 39.84MB (100.00%)  |
 | 0799 | [Champagne Tower](src/main/kotlin/problems/p0799)                                                          | 91ms (100.00%)   | 41.60MB (100.00%)  |
 | 0835 | [Image Overlap](src/main/kotlin/problems/p0835)                                                            | 5ms (100.00%)    | 47.45MB (100.00%)  |
+| 0836 | [Rectangle Overlap](src/main/kotlin/problems/p0836)                                                        | 0ms (100.00%)    | 40.28MB (87.50%)   |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                              | 0ms (100.00%)    | 41.25MB (100.00%)  |
 | 0868 | [Binary Gap](src/main/kotlin/problems/p0868)                                                               | 0ms (100.00%)    | 39.26MB (100.00%)  |

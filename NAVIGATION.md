@@ -1,4 +1,4 @@
-# Solved problems: 366
+# Solved problems: 367
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -200,6 +200,7 @@
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
 | 2463 | [Minimum Total Distance Traveled](src/main/kotlin/problems/p2463)                                          | 19ms (100.00%)   | 43.86MB (100.00%)  |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](src/main/kotlin/problems/p2472)                  | 1ms (100.00%)    | 40.51MB (100.00%)  |
 | 2483 | [Minimum Penalty for a Shop](src/main/kotlin/problems/p2483)                                               | 5ms (100.00%)    | 45.60MB (100.00%)  |
 | 2452 | [Words Within Two Edits of Dictionary](src/main/kotlin/problems/p2452)                                     | 2ms (100.00%)    | 43.76MB (-%)       |
 | 2492 | [Minimum Score of a Path Between Two Cities](src/main/kotlin/problems/p2492)                               | 10ms (100.00%)   | 131.44MB (14.29%)  |

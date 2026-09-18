@@ -1,4 +1,4 @@
-# Solved problems: 369
+# Solved problems: 370
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -130,6 +130,7 @@
 | 1477 | [Find Two Non-overlapping Sub-arrays Each With Target Sum](src/main/kotlin/problems/p1477)                 | 10ms (100.00%)   | 59.94MB (100.00%)  |
 | 1510 | [Stone Game IV](src/main/kotlin/problems/p1510)                                                            | 0ms (100.00%)    | 39.70MB (100.00%)  |
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                        | 4ms (98.06%)     | 44.91MB (70.97%)   |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](src/main/kotlin/problems/p1520)                             | 8ms (100.00%)    | 47.61MB (100.00%)  |
 | 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                                   | 61ms (100.00%)   | 35.60MB (100.00%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |

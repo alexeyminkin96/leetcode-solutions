@@ -1,4 +1,4 @@
-# Solved problems: 370
+# Solved problems: 371
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -119,6 +119,7 @@
 | 1386 | [Cinema Seat Allocation](src/main/kotlin/problems/p1386)                                                   | 7ms (100.00%)    | 58.89MB (71.43%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
 | 1391 | [Check if There is a Valid Path in a Grid](src/main/kotlin/problems/p1391)                                 | 8ms (100.00%)    | 77.31MB (100.00%)  |
+| 1401 | [Circle and Rectangle Overlapping](src/main/kotlin/problems/p1401)                                         | 0ms (100.00%)    | 39.82MB (75.00%)   |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](src/main/kotlin/problems/p1404)       | 0ms (100.00%)    | 40.33MB (83.33%)   |
 | 1406 | [Stone Game III](src/main/kotlin/problems/p1406)                                                           | 6ms (100.00%)    | 63.98MB (100.00%)  |
 | 1411 | [Number of Ways to Paint N × 3 Grid](src/main/kotlin/problems/p1411)                                       | 1ms (100.00%)    | 40.44MB (33.33%)   |

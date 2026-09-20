@@ -1,4 +1,4 @@
-# Solved problems: 371
+# Solved problems: 372
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -282,6 +282,7 @@
 | 3474 | [Lexicographically Smallest Generated String](src/main/kotlin/problems/p3474)                              | 19ms (100.00%)   | 46.68MB (100.00%)  |
 | 3483 | [Unique 3-Digit Even Numbers](src/main/kotlin/problems/p3483)                                              | 2ms (100.00%)    | 41.82MB (100.00%)  |
 | 3488 | [Closest Equal Element Queries](src/main/kotlin/problems/p3488)                                            | 55ms (100.00%)   | 93.58MB (100.00%)  |
+| 3498 | [Reverse Degree of a String](src/main/kotlin/problems/p3498)                                               | 1ms (100.00%)    | 42.43MB (75.00%)   |
 | 3499 | [Maximize Active Section with Trade I](src/main/kotlin/problems/p3499)                                     | 32ms (100.00%)   | 50.46MB (21.89%)   |
 | 3501 | [Maximize Active Section with Trade II](src/main/kotlin/problems/p3501)                                    | 141ms (86.89%)   | 132.29MB (44.26%)  |
 | 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)    | 43.67MB (85.71%)   |

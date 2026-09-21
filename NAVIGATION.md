@@ -1,4 +1,4 @@
-# Solved problems: 372
+# Solved problems: 373
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -292,6 +292,7 @@
 | 3514 | [Number of Unique XOR Triplets II](src/main/kotlin/problems/p3514)                                         | 117ms (84.88%)   | 59.55MB (87.21%)   |
 | 3517 | [Smallest Palindromic Rearrangement I](src/main/kotlin/problems/p3517)                                     | 9ms (100.00%)    | 51.10MB (100.00%)  |
 | 3518 | [Smallest Palindromic Rearrangement II](src/main/kotlin/problems/p3518)                                    | 13ms (100.00%)   | 47.87MB (100.00%)  |
+| 3524 | [Find X Value of Array I](src/main/kotlin/problems/p3524)                                                  | 17ms (100.00%)   | 65.85MB (100.00%)  |
 | 3531 | [Count Covered Buildings](src/main/kotlin/problems/p3531)                                                  | 23ms (100.00%)   | 117.49MB (66.67%)  |
 | 3532 | [Path Existence Queries in a Graph I](src/main/kotlin/problems/p3532)                                      | 3ms (100.00%)    | 115.51MB (50.00%)  |
 | 3534 | [Path Existence Queries in a Graph II](src/main/kotlin/problems/p3534)                                     | 60ms (100.00%)   | 112.64MB (100.00%) |

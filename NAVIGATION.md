@@ -1,4 +1,4 @@
-# Solved problems: 374
+# Solved problems: 375
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -144,6 +144,7 @@
 | 1594 | [Maximum Non Negative Product in a Matrix](src/main/kotlin/problems/p1594)                                 | 2ms (100.00%)    | 42.36MB (100.00%)  |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](src/main/kotlin/problems/p1621)                        | 0ms (100.00%)    | 52.14MB (100.00%)  |
 | 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |
+| 1658 | [Minimum Operations to Reduce X to Zero](src/main/kotlin/problems/p1658)                                   | 5ms (100.00%)    | 63.26MB (87.50%)   |
 | 1622 | [Fancy Sequence](src/main/kotlin/problems/p1622)                                                           | 132ms (100.00%)  | 134.26MB (100.00%) |
 | 1665 | [Minimum Initial Energy to Finish Tasks](src/main/kotlin/problems/p1665)                                   | 14ms (100.00%)   | 105.38MB (50.00%)  |
 | 1674 | [Minimum Moves to Make Array Complementary](src/main/kotlin/problems/p1674)                                | 14ms (33.33%)    | 64.51MB (0.00%)    |

@@ -1,4 +1,4 @@
-# Solved problems: 375
+# Solved problems: 376
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -301,6 +301,7 @@
 | 3536 | [Maximum Product of Two Digits](src/main/kotlin/problems/p3536)                                            | 0ms (100.00%)    | 40.51MB (91.67%)   |
 | 3546 | [Equal Sum Grid Partition I](src/main/kotlin/problems/p3546)                                               | 4ms (100.00%)    | 80.32MB (83.33%)   |
 | 3548 | [Equal Sum Grid Partition II](src/main/kotlin/problems/p3548)                                              | 42ms (100.00%)   | 85.42MB (100.00%)  |
+| 3550 | [Smallest Index With Digit Sum Equal to Index](src/main/kotlin/problems/p3550)                             | 1ms (100.00%)    | 44.85MB (100.00%)  |
 | 3558 | [Number of Ways to Assign Edge Weights I](src/main/kotlin/problems/p3558)                                  | 103ms (79.18%)   | 133.96MB (55.20%)  |
 | 3559 | [Number of Ways to Assign Edge Weights II](src/main/kotlin/problems/p3559)                                 | 75ms (100.00%)   | 118.42MB (98.48%)  |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](src/main/kotlin/problems/p3562)                        | 118ms (100.00%)  | 50.86MB (100.00%)  |

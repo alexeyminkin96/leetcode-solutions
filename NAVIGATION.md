@@ -1,4 +1,4 @@
-# Solved problems: 377
+# Solved problems: 378
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -157,6 +157,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](src/main/kotlin/problems/p1752)                                     | 0ms (100.00%)    | 40.73MB (84.62%)   |
 | 1758 | [Minimum Changes To Make Alternating Binary String](src/main/kotlin/problems/p1758)                        | 2ms (100.00%)    | 42.47MB (46.15%)   |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](src/main/kotlin/problems/p1784)                   | 0ms (100.00%)    | 40.39MB (100.00%)  |
+| 1807 | [Evaluate the Bracket Pairs of a String](src/main/kotlin/problems/p1807)                                   | 24ms (100.00%)   | 92.64MB (100.00%)  |
 | 1833 | [Maximum Ice Cream Bars](src/main/kotlin/problems/p1833)                                                   | 5ms (100.00%)    | 60.75MB (100.00%)  |
 | 1840 | [Maximum Building Height](src/main/kotlin/problems/p1840)                                                  | 65ms (100.00%)   | 115.67MB (100.00%) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](src/main/kotlin/problems/p1846)                         | 4ms (100.00%)    | 61.60MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 378
+# Solved problems: 379
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -98,6 +98,7 @@
 | 1140 | [Stone Game II](src/main/kotlin/problems/p1140)                                                            | 10ms (75.00%)    | 42.87MB (100.00%)  |
 | 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                                       | 4ms (97.92%)     | 51.80MB (58.33%)   |
 | 1189 | [Maximum Number of Balloons](src/main/kotlin/problems/p1189)                                               | 3ms (100.00%)    | 41.59MB (91.30%)   |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](src/main/kotlin/problems/p1190)                      | 0ms (100.00%)    | 40.80MB (100.00%)  |
 | 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)    | 59.88MB (97.01%)   |
 | 1260 | [Shift 2D Grid](src/main/kotlin/problems/p1260)                                                            | 2ms (100.00%)    | 48.63MB (100.00%)  |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |

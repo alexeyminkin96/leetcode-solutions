@@ -1,4 +1,4 @@
-# Solved problems: 381
+# Solved problems: 382
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -95,6 +95,7 @@
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/main/kotlin/problems/p1022)                                       | 0ms (100.00%)    | 42.14MB (75.00%)   |
 | 1081 | [Smallest Subsequence of Distinct Characters](src/main/kotlin/problems/p1081)                              | 1ms (100.00%)    | 40.36MB (100.00%)  |
 | 1096 | [Brace Expansion II](src/main/kotlin/problems/p1096)                                                       | 23ms (100.00%)   | 47.47MB (100.00%)  |
+| 1111 | [Maximum Nesting Depth of Two Valid Parentheses Strings](src/main/kotlin/problems/p1111)                   | 1 ms (100.00%)   | 44.78 MB (100.00%) |
 | 1140 | [Stone Game II](src/main/kotlin/problems/p1140)                                                            | 10ms (75.00%)    | 42.87MB (100.00%)  |
 | 1161 | [Maximum Level Sum of a Binary Tree](src/main/kotlin/problems/p1161)                                       | 4ms (97.92%)     | 51.80MB (58.33%)   |
 | 1189 | [Maximum Number of Balloons](src/main/kotlin/problems/p1189)                                               | 3ms (100.00%)    | 41.59MB (91.30%)   |

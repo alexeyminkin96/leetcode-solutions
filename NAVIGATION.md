@@ -21,7 +21,7 @@
 | 0017 | [Letter Combinations of a Phone Number](src/main/kotlin/problems/p0017)                                    | 0ms (100.00%)    | 40.71MB (99.73%)   |
 | 0018 | [4Sum](src/main/kotlin/problems/p0018)                                                                     | 21ms (94.74%)    | 46.26MB (100.00%)  |
 | 0019 | [Remove Nth Node From End of List](src/main/kotlin/problems/p0019)                                         | 0ms (100.00%)    | 41.17MB (95.66%)   |
-| 0020 | [Valid Parentheses](src/main/kotlin/problems/p0020)                                                        | 1ms (99.94%)     | 41.34MB (88.14%)   |
+| 0020 | [Valid Parentheses](src/main/kotlin/problems/p0020)                                                        | 1 ms (100.00%)   | 40.62 MB (99.13%)  |
 | 0021 | [Merge Two Sorted Lists](src/main/kotlin/problems/p0021)                                                   | 0ms (100.00%)    | 42.80MB (54.41%)   |
 | 0022 | [Generate Parentheses](src/main/kotlin/problems/p0022)                                                     | 2ms (48.74%)     | 42.06MB (98.74%)   |
 | 0023 | [Merge k Sorted Lists](src/main/kotlin/problems/p0023)                                                     | 5ms (91.00%)     | 45.35MB (84.54%)   |

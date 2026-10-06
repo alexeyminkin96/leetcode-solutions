@@ -1,4 +1,4 @@
-# Solved problems: 384
+# Solved problems: 385
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -82,6 +82,7 @@
 | 0835 | [Image Overlap](src/main/kotlin/problems/p0835)                                                            | 5ms (100.00%)    | 47.45MB (100.00%)  |
 | 0836 | [Rectangle Overlap](src/main/kotlin/problems/p0836)                                                        | 0ms (100.00%)    | 40.28MB (87.50%)   |
 | 0840 | [Magic Squares In Grid](src/main/kotlin/problems/p0840)                                                    | 0ms (100.00%)    | 41.13MB (100.00%)  |
+| 0856 | [Score of Parentheses](src/main/kotlin/problems/p0856)                                                     | 0ms (100.00%)    | 40.17MB (100.00%)  |
 | 0865 | [Smallest Subtree with all the Deepest Nodes](src/main/kotlin/problems/p0865)                              | 0ms (100.00%)    | 41.25MB (100.00%)  |
 | 0868 | [Binary Gap](src/main/kotlin/problems/p0868)                                                               | 0ms (100.00%)    | 39.26MB (100.00%)  |
 | 0874 | [Walking Robot Simulation](src/main/kotlin/problems/p0874)                                                 | 12ms (100.00%)   | 69.75MB (83.33%)   |

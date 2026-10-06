@@ -1,4 +1,4 @@
-# Solved problems: 383
+# Solved problems: 384
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -66,6 +66,7 @@
 | 0486 | [Predict the Winner](src/main/kotlin/problems/p0486)                                                       | 0ms (100.00%)    | 40.22MB (100.00%)  |
 | 0628 | [Maximum Product of Three Numbers](src/main/kotlin/problems/p0628)                                         | 1ms (100.00%)    | 50.89MB (55.17%)   |
 | 0657 | [Robot Return to Origin](src/main/kotlin/problems/p0657)                                                   | 4ms (100.00%)    | 44.08MB (100.00%)  |
+| 0678 | [Valid Parenthesis String](src/main/kotlin/problems/p0678)                                                 | 0ms (100.00%)    | 39.99MB (98.17%)   |
 | 0693 | [Binary Number with Alternating Bits](src/main/kotlin/problems/p0693)                                      | 0ms (100.00%)    | 39.90MB (81.25%)   |
 | 0696 | [Count Binary Substrings](src/main/kotlin/problems/p0696)                                                  | 7ms (100.00%)    | 45.87MB (100.00%)  |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](src/main/kotlin/problems/p0712)                                 | 21ms (91.67%)    | 46.48MB (100.00%)  |

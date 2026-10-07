@@ -1,4 +1,4 @@
-# Solved problems: 386
+# Solved problems: 387
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -61,6 +61,7 @@
 | 0154 | [Find Minimum in Rotated Sorted Array II](src/main/kotlin/problems/p0154)                                  | 0ms (100.00%)    | 42.62MB (97.77%)   |
 | 0167 | [Two Sum II - Input Array Is Sorted](src/main/kotlin/problems/p0167)                                       | 2ms (95.87%)     | 50.60MB (62.26%)   |
 | 0190 | [Reverse Bits](src/main/kotlin/problems/p0190)                                                             | 85ms (87.50%)    | 39.73MB (69.74%)   |
+| 0301 | [Remove Invalid Parentheses](src/main/kotlin/problems/p0301)                                               | 7ms (100.00%)    | 43.29MB (100.00%)  |
 | 0396 | [Rotate Function](src/main/kotlin/problems/p0396)                                                          | 4ms (100.00%)    | 61.07MB (100.00%)  |
 | 0401 | [Binary Watch](src/main/kotlin/problems/p0401)                                                             | 1ms (100.00%)    | 40.73MB (97.56%)   |
 | 0486 | [Predict the Winner](src/main/kotlin/problems/p0486)                                                       | 0ms (100.00%)    | 40.22MB (100.00%)  |

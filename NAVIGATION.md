@@ -1,4 +1,4 @@
-# Solved problems: 387
+# Solved problems: 388
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -97,6 +97,7 @@
 | 1009 | [Complement of Base 10 Integer](src/main/kotlin/problems/p1009)                                            | 0ms (100.00%)    | 40.14MB (100.00%)  |
 | 1015 | [Smallest Integer Divisible by K](src/main/kotlin/problems/p1015)                                          | 2ms (100.00%)    | 40.26MB (33.33%)   |
 | 1018 | [Binary Prefix Divisible By 5](src/main/kotlin/problems/p1018)                                             | 1ms (100.00%)    | 49.28MB (41.67%)   |
+| 1021 | [Remove Outermost Parentheses](src/main/kotlin/problems/p1021)                                             | 2ms (100.00%)    | 41.44MB (91.49%)   |
 | 1022 | [Sum of Root To Leaf Binary Numbers](src/main/kotlin/problems/p1022)                                       | 0ms (100.00%)    | 42.14MB (75.00%)   |
 | 1081 | [Smallest Subsequence of Distinct Characters](src/main/kotlin/problems/p1081)                              | 1ms (100.00%)    | 40.36MB (100.00%)  |
 | 1096 | [Brace Expansion II](src/main/kotlin/problems/p1096)                                                       | 23ms (100.00%)   | 47.47MB (100.00%)  |

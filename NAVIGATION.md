@@ -1,4 +1,4 @@
-# Solved problems: 388
+# Solved problems: 389
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -144,6 +144,7 @@
 | 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                                   | 61ms (100.00%)   | 35.60MB (100.00%)  |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |
+| 1541 | [Minimum Insertions to Balance a Parentheses String](src/main/kotlin/problems/p1541)                       | 7ms (100.00%)    | 46.82MB (25.00%)   |
 | 1545 | [Find Kth Bit in Nth Binary String](src/main/kotlin/problems/p1545)                                        | 0ms (100.00%)    | 39.86MB (100.00%)  |
 | 1559 | [Detect Cycles in 2D Grid](src/main/kotlin/problems/p1559)                                                 | 6ms (100.00%)    | 83.20MB (100.00%)  |
 | 1563 | [Stone Game V](src/main/kotlin/problems/p1563)                                                             | 223ms (0.00%)    | 48.08MB (100.00%)  |

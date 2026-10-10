@@ -1,4 +1,4 @@
-# Solved problems: 389
+# Solved problems: 390
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -215,6 +215,7 @@
 | 2213 | [Longest Substring of One Repeating Character](src/main/kotlin/problems/p2213)                             | 76ms (100.00%)   | 65.99MB (100.00%)  |
 | 2265 | [Count Nodes Equal to Average of Subtree](src/main/kotlin/problems/p2265)                                  | 109ms (100.00%)  | 42.40MB (100.00%)  |
 | 2267 | [Check if There Is a Valid Parentheses String Path](src/main/kotlin/problems/p2267)                        | 16ms (100.00%)   | 47.87MB (100.00%)  |
+| 2333 | [Minimum Sum of Squared Difference](src/main/kotlin/problems/p2333)                                        | 6ms (100.00%)    | 61.74MB (87.50%)   |
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
 | 2463 | [Minimum Total Distance Traveled](src/main/kotlin/problems/p2463)                                          | 19ms (100.00%)   | 43.86MB (100.00%)  |

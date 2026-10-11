@@ -1,4 +1,4 @@
-# Solved problems: 390
+# Solved problems: 391
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -233,6 +233,7 @@
 | 2685 | [Count the Number of Complete Components](src/main/kotlin/problems/p2685)                                  | 6ms (100.00%)    | 64.68MB (92.31%)   |
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](src/main/kotlin/problems/p2770)                          | 21ms (100.00%)   | 48.83MB (100.00%)  |
+| 2778 | [Sum of Squares of Special Elements](src/main/kotlin/problems/p2778)                                       | 1ms (100.00%)    | 45.38MB (100.00%)  |
 | 2784 | [Check if Array is Good](src/main/kotlin/problems/p2784)                                                   | 1ms (100.00%)    | 42.66MB (100.00%)  |
 | 2812 | [Find the Safest Path in a Grid](src/main/kotlin/problems/p2812)                                           | 911ms (100.00%)  | 82.62MB (100.00%)  |
 | 2833 | [Furthest Point From Origin](src/main/kotlin/problems/p2833)                                               | 1ms (100.00%)    | 42.20MB (66.67%)   |

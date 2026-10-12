@@ -1,4 +1,4 @@
-# Solved problems: 391
+# Solved problems: 392
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -240,6 +240,7 @@
 | 2839 | [Check if Strings Can be Made Equal With Operations I](src/main/kotlin/problems/p2839)                     | 1ms (100.00%)    | 42.48MB (100.00%)  |
 | 2840 | [Check if Strings Can be Made Equal With Operations II](src/main/kotlin/problems/p2840)                    | 5ms (100.00%)    | 47.27MB (100.00%)  |
 | 2872 | [Maximum Number of K-Divisible Components](src/main/kotlin/problems/p2872)                                 | 29ms (100.00%)   | 83.49MB (100.00%)  |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](src/main/kotlin/problems/p2897)                     | 18ms (100.00%)   | 71.40MB (100.00%)  |
 | 2904 | [Shortest and Lexicographically Smallest Beautiful String](src/main/kotlin/problems/p2904)                 | 1ms (100.00%)    | 42.58MB (100.00%)  |
 | 2906 | [Construct Product Matrix](src/main/kotlin/problems/p2906)                                                 | 8ms (100.00%)    | 103.74MB (100.00%) |
 | 2943 | [Maximize Area of Square Hole in Grid](src/main/kotlin/problems/p2943)                                     | 3ms (100.00%)    | 44.28MB (100.00%)  |

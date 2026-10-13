@@ -1,4 +1,4 @@
-# Solved problems: 392
+# Solved problems: 393
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -362,6 +362,7 @@
 | 3719 | [Longest Balanced Subarray I](src/main/kotlin/problems/p3719)                                              | 20ms (100.00%)   | 48.92MB (100.00%)  |
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](src/main/kotlin/problems/p3720)               | 2ms (100.00%)    | 43.67MB (100.00%)  |
 | 3721 | [Longest Balanced Subarray II](src/main/kotlin/problems/p3721)                                             | 160ms (100.00%)  | 76.15MB (88.89%)   |
+| 3727 | [Maximum Alternating Sum of Squares](src/main/kotlin/problems/p3727)                                       | 16ms (100.00%)   | 80.46MB (58.33%)   |
 | 3731 | [Find Missing Elements](src/main/kotlin/problems/p3731)                                                    | 1ms (100.00%)    | 45.80MB (100.00%)  |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](src/main/kotlin/problems/p3734)   | 2ms (100.00%)    | 45.47MB (96.90%)   |
 | 3737 | [Count Subarrays With Majority Element I](src/main/kotlin/problems/p3737)                                  | 25ms (68.20%)    | 50.46MB (30.65%)   |

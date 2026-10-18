@@ -1,4 +1,4 @@
-# Solved problems: 397
+# Solved problems: 398
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -148,6 +148,7 @@
 | 1545 | [Find Kth Bit in Nth Binary String](src/main/kotlin/problems/p1545)                                        | 0ms (100.00%)    | 39.86MB (100.00%)  |
 | 1559 | [Detect Cycles in 2D Grid](src/main/kotlin/problems/p1559)                                                 | 6ms (100.00%)    | 83.20MB (100.00%)  |
 | 1563 | [Stone Game V](src/main/kotlin/problems/p1563)                                                             | 223ms (0.00%)    | 48.08MB (100.00%)  |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](src/main/kotlin/problems/p1569)                          | 8ms (100.00%)    | 61.73MB (66.67%)   |
 | 1578 | [Minimum Time to Make Rope Colorful](src/main/kotlin/problems/p1578)                                       | 10ms (100.00%)   | 65.12MB (100.00%)  |
 | 1582 | [Special Positions in a Binary Matrix](src/main/kotlin/problems/p1582)                                     | 2ms (100.00%)    | 50.85MB (80.00%)   |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |

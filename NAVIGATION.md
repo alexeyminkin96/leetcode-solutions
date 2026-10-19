@@ -1,4 +1,4 @@
-# Solved problems: 398
+# Solved problems: 399
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -200,6 +200,7 @@
 | 2069 | [Walking Robot Simulation II](src/main/kotlin/problems/p2069)                                              | 118ms (100.00%)  | 78.62MB (100.00%)  |
 | 2075 | [Decode the Slanted Ciphertext](src/main/kotlin/problems/p2075)                                            | 8ms (100.00%)    | 59.72MB (11.11%)   |
 | 2078 | [Two Furthest Houses With Different Colors](src/main/kotlin/problems/p2078)                                | 0ms (100.00%)    | 41.34MB (81.25%)   |
+| 2089 | [Find Target Indices After Sorting Array](src/main/kotlin/problems/p2089)                                  | 0ms (100.00%)    | 49.00MB (25.00%)   |
 | 2091 | [Removing Minimum and Maximum From Array](src/main/kotlin/problems/p2091)                                  | 2ms (100.00%)    | 63.35MB (83.33%)   |
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2095 | [Delete the Middle Node of a Linked List](src/main/kotlin/problems/p2095)                                  | 5ms (43.46%)     | 67.35MB (87.14%)   |

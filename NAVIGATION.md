@@ -1,4 +1,4 @@
-# Solved problems: 400
+# Solved problems: 401
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -383,6 +383,7 @@
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](src/main/kotlin/problems/p3761)                           | 28ms (100.00%)   | 65.80MB (100.00%)  |
 | 3783 | [Mirror Distance of an Integer](src/main/kotlin/problems/p3783)                                            | 1ms (100.00%)    | 40.73MB (100.00%)  |
 | 3838 | [Weighted Word Mapping](src/main/kotlin/problems/p3838)                                                    | 2ms (100.00%)    | 48.92MB (78.06%)   |
+| 3863 | [Minimum Operations to Sort a String](src/main/kotlin/problems/p3863)                                      | 12ms (100.00%)   | 72.63MB (-%)       |
 | 3867 | [Sum of GCD of Formed Pairs](src/main/kotlin/problems/p3867)                                               | 57ms (100.00%)   | 76.54MB (100.00%)  |
 | 3870 | [Count Commas in Range](src/main/kotlin/problems/p3870)                                                    | 0ms (100.00%)    | 40.70MB (66.67%)   |
 | 3871 | [Count Commas in Range II](src/main/kotlin/problems/p3871)                                                 | 0ms (100.00%)    | 41.08MB (66.67%)   |

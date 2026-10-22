@@ -1,4 +1,4 @@
-# Solved problems: 402
+# Solved problems: 403
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -405,3 +405,4 @@
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](src/main/kotlin/problems/p4021)                        | 48ms (100.00%)   | 45.12MB (100.00%)  |
 | 4022 | [K-th Digit in Infinite String](src/main/kotlin/problems/p4022)                                            | 1ms (100.00%)    | 40.46MB (100.00%)  |
 | 4023 | [Elevator Requests II](src/main/kotlin/problems/p4023)                                                     | 59ms (100.00%)   | 139.40MB (100.00%) |
+| 4083 | [Minimum Deletions to Make Array Sharp](src/main/kotlin/problems/p4083)                                    | 2ms (100.00%)    | 48.12MB (75.86%)   |

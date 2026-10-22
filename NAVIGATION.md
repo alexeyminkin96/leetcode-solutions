@@ -1,4 +1,4 @@
-# Solved problems: 405
+# Solved problems: 406
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -405,6 +405,7 @@
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](src/main/kotlin/problems/p4021)                        | 48ms (100.00%)   | 45.12MB (100.00%)  |
 | 4022 | [K-th Digit in Infinite String](src/main/kotlin/problems/p4022)                                            | 1ms (100.00%)    | 40.46MB (100.00%)  |
 | 4023 | [Elevator Requests II](src/main/kotlin/problems/p4023)                                                     | 59ms (100.00%)   | 139.40MB (100.00%) |
+| 4078 | [Three Fibonacci Sum](src/main/kotlin/problems/p4078)                                                      | 1ms (87.80%)     | 43.04MB (34.15%)   |
 | 4083 | [Minimum Deletions to Make Array Sharp](src/main/kotlin/problems/p4083)                                    | 2ms (100.00%)    | 48.12MB (75.86%)   |
 | 4084 | [Last Visited Cell in a Directional Grid](src/main/kotlin/problems/p4084)                                  | 6ms (100.00%)    | 246.36MB (50.00%)  |
 | 4085 | [Find Root of a Colored Tree](src/main/kotlin/problems/p4085)                                              | 10ms (100.00%)   | 248.61MB (100.00%) |

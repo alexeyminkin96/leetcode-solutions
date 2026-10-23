@@ -1,4 +1,4 @@
-# Solved problems: 406
+# Solved problems: 407
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -347,6 +347,7 @@
 | 3637 | [Trionic Array I](src/main/kotlin/problems/p3637)                                                          | 1ms (100.00%)    | 43.07MB (100.00%)  |
 | 3640 | [Trionic Array II](src/main/kotlin/problems/p3640)                                                         | 5ms (100.00%)    | 76.24MB (84.62%)   |
 | 3643 | [Flip Square Submatrix Vertically](src/main/kotlin/problems/p3643)                                         | 1ms (100.00%)    | 56.27MB (50.00%)   |
+| 3644 | [Maximum K to Sort a Permutation](src/main/kotlin/problems/p3644)                                          | 2ms (100.00%)    | 185.78MB (-%)      |
 | 3650 | [Minimum Cost Path with Edge Reversals](src/main/kotlin/problems/p3650)                                    | 73ms (100.00%)   | 133.27MB (100.00%) |
 | 3651 | [Minimum Cost Path with Teleportations](src/main/kotlin/problems/p3651)                                    | 1542ms (100.00%) | 78.82MB (100.00%)  |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](src/main/kotlin/problems/p3652)                           | 4ms (100.00%)    | 77.04MB (87.50%)   |

@@ -1,4 +1,4 @@
-# Solved problems: 407
+# Solved problems: 408
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -219,6 +219,7 @@
 | 2267 | [Check if There Is a Valid Parentheses String Path](src/main/kotlin/problems/p2267)                        | 16ms (100.00%)   | 47.87MB (100.00%)  |
 | 2333 | [Minimum Sum of Squared Difference](src/main/kotlin/problems/p2333)                                        | 6ms (100.00%)    | 61.74MB (87.50%)   |
 | 2402 | [Meeting Rooms III](src/main/kotlin/problems/p2402)                                                        | 122ms (100.00%)  | 119.14MB (80.00%)  |
+| 2409 | [Count Days Spent Together](src/main/kotlin/problems/p2409)                                                | 0ms (100.00%)    | 42.90MB (44.44%)   |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](src/main/kotlin/problems/p2435)                              | 50ms (100.00%)   | 92.33MB (—%)       |
 | 2463 | [Minimum Total Distance Traveled](src/main/kotlin/problems/p2463)                                          | 19ms (100.00%)   | 43.86MB (100.00%)  |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](src/main/kotlin/problems/p2472)                  | 1ms (100.00%)    | 40.51MB (100.00%)  |

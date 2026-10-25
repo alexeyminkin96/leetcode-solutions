@@ -1,4 +1,4 @@
-# Solved problems: 408
+# Solved problems: 409
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -107,6 +107,7 @@
 | 1189 | [Maximum Number of Balloons](src/main/kotlin/problems/p1189)                                               | 3ms (100.00%)    | 41.59MB (91.30%)   |
 | 1190 | [Reverse Substrings Between Each Pair of Parentheses](src/main/kotlin/problems/p1190)                      | 0ms (100.00%)    | 40.80MB (100.00%)  |
 | 1200 | [Minimum Absolute Difference](src/main/kotlin/problems/p1200)                                              | 8ms (100.00%)    | 59.88MB (97.01%)   |
+| 1254 | [Number of Closed Islands](src/main/kotlin/problems/p1254)                                                 | 2ms (100.00%)    | 53.06MB (19.05%)   |
 | 1260 | [Shift 2D Grid](src/main/kotlin/problems/p1260)                                                            | 2ms (100.00%)    | 48.63MB (100.00%)  |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)    | 43.08MB (100.00%)  |

@@ -1,4 +1,4 @@
-# Solved problems: 409
+# Solved problems: 410
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -338,6 +338,7 @@
 | 3606 | [Coupon Code Validator](src/main/kotlin/problems/p3606)                                                    | 6ms (100.00%)    | 48.80MB (100.00%)  |
 | 3612 | [Process String with Special Operations I](src/main/kotlin/problems/p3612)                                 | 4ms (97.20%)     | 53.94MB (88.24%)   |
 | 3614 | [Process String with Special Operations II](src/main/kotlin/problems/p3614)                                | 18ms (100.00%)   | 51.14MB (10.00%)   |
+| 3619 | [Count Islands With Total Value Divisible by K](src/main/kotlin/problems/p3619)                            | 14ms (100.00%)   | 172.96MB (50.00%)  |
 | 3620 | [Network Recovery Pathways](src/main/kotlin/problems/p3620)                                                | 42ms (100.00%)   | 125.94MB (81.82%)  |
 | 3622 | [Check Divisibility by Digit Sum and Product](src/main/kotlin/problems/p3622)                              | 0ms (100.00%)    | 39.99MB (100.00%)  |
 | 3623 | [Count Number of Trapezoids I](src/main/kotlin/problems/p3623)                                             | 42ms (100.00%)   | 127.41MB (62.50%)  |

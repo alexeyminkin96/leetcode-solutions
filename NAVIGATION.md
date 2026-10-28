@@ -1,4 +1,4 @@
-# Solved problems: 411
+# Solved problems: 412
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -393,6 +393,7 @@
 | 3871 | [Count Commas in Range II](src/main/kotlin/problems/p3871)                                                 | 0ms (100.00%)    | 41.08MB (66.67%)   |
 | 3875 | [Construct Uniform Parity Array I](src/main/kotlin/problems/p3875)                                         | 1ms (100.00%)    | 43.93MB (100.00%)  |
 | 3876 | [Construct Uniform Parity Array II](src/main/kotlin/problems/p3876)                                        | 4ms (100.00%)    | 71.98MB (100.00%)  |
+| 3882 | [Minimum XOR Path in a Grid](src/main/kotlin/problems/p3882)                                               | 49ms (100.00%)   | 72.58MB (33.33%)   |
 | 3886 | [Sum of Sortable Integers](src/main/kotlin/problems/p3886)                                                 | 13ms (100.00%)   | 89.59MB (-%)       |
 | 3889 | [Mirror Frequency Distance](src/main/kotlin/problems/p3889)                                                | 12ms (96.67%)    | 61.91MB (13.33%)   |
 | 3890 | [Integers With Multiple Sum of Two Cubes](src/main/kotlin/problems/p3890)                                  | 47ms (96.88%)    | 76.99MB (90.63%)   |

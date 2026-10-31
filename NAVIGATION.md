@@ -1,4 +1,4 @@
-# Solved problems: 414
+# Solved problems: 415
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -359,6 +359,7 @@
 | 3658 | [GCD of Odd and Even Sums](src/main/kotlin/problems/p3658)                                                 | 0ms (100.00%)    | 40.20MB (100.00%)  |
 | 3660 | [Jump Game IX](src/main/kotlin/problems/p3660)                                                             | 5ms (100.00%)    | 86.30MB (100.00%)  |
 | 3661 | [Maximum Walls Destroyed by Robots](src/main/kotlin/problems/p3661)                                        | 92ms (100.00%)   | 88.26MB (100.00%)  |
+| 3665 | [Twisted Mirror Path Count](src/main/kotlin/problems/p3665)                                                | 21ms (100.00%)   | 250.78MB (33.33%)  |
 | 3666 | [Minimum Operations to Equalize Binary String](src/main/kotlin/problems/p3666)                             | 6ms (100.00%)    | 47.84MB (100.00%)  |
 | 3689 | [Maximum Total Subarray Value I](src/main/kotlin/problems/p3689)                                           | 3ms (98.79%)     | 61.99MB (98.79%)   |
 | 3691 | [Maximum Total Subarray Value II](src/main/kotlin/problems/p3691)                                          | 154ms (72.44%)   | 77.68MB (63.46%)   |

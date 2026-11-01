@@ -1,4 +1,4 @@
-# Solved problems: 415
+# Solved problems: 416
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -64,6 +64,7 @@
 | 0301 | [Remove Invalid Parentheses](src/main/kotlin/problems/p0301)                                               | 7ms (100.00%)    | 43.29MB (100.00%)  |
 | 0396 | [Rotate Function](src/main/kotlin/problems/p0396)                                                          | 4ms (100.00%)    | 61.07MB (100.00%)  |
 | 0401 | [Binary Watch](src/main/kotlin/problems/p0401)                                                             | 1ms (100.00%)    | 40.73MB (97.56%)   |
+| 0453 | [Minimum Moves to Equal Array Elements](src/main/kotlin/problems/p0453)                                    | 2ms (100.00%)    | 59.71MB (-%)       |
 | 0486 | [Predict the Winner](src/main/kotlin/problems/p0486)                                                       | 0ms (100.00%)    | 40.22MB (100.00%)  |
 | 0628 | [Maximum Product of Three Numbers](src/main/kotlin/problems/p0628)                                         | 1ms (100.00%)    | 50.89MB (55.17%)   |
 | 0657 | [Robot Return to Origin](src/main/kotlin/problems/p0657)                                                   | 4ms (100.00%)    | 44.08MB (100.00%)  |

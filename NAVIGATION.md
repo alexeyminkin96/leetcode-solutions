@@ -1,4 +1,4 @@
-# Solved problems: 417
+# Solved problems: 418
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -378,6 +378,7 @@
 | 3727 | [Maximum Alternating Sum of Squares](src/main/kotlin/problems/p3727)                                       | 16ms (100.00%)   | 80.46MB (58.33%)   |
 | 3731 | [Find Missing Elements](src/main/kotlin/problems/p3731)                                                    | 1ms (100.00%)    | 45.80MB (100.00%)  |
 | 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](src/main/kotlin/problems/p3734)   | 2ms (100.00%)    | 45.47MB (96.90%)   |
+| 3736 | [Minimum Moves to Equal Array Elements III](src/main/kotlin/problems/p3736)                                | 2ms (90.91%)     | 49.13MB (27.27%)   |
 | 3737 | [Count Subarrays With Majority Element I](src/main/kotlin/problems/p3737)                                  | 25ms (68.20%)    | 50.46MB (30.65%)   |
 | 3739 | [Count Subarrays With Majority Element II](src/main/kotlin/problems/p3739)                                 | 4ms (98.06%)     | 68.74MB (87.74%)   |
 | 3740 | [Minimum Distance Between Three Equal Elements I](src/main/kotlin/problems/p3740)                          | 1ms (100.00%)    | 42.38MB (100.00%)  |

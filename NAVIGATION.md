@@ -1,4 +1,4 @@
-# Solved problems: 418
+# Solved problems: 419
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -310,6 +310,7 @@
 | 3498 | [Reverse Degree of a String](src/main/kotlin/problems/p3498)                                               | 1ms (100.00%)    | 42.43MB (75.00%)   |
 | 3499 | [Maximize Active Section with Trade I](src/main/kotlin/problems/p3499)                                     | 32ms (100.00%)   | 50.46MB (21.89%)   |
 | 3501 | [Maximize Active Section with Trade II](src/main/kotlin/problems/p3501)                                    | 141ms (86.89%)   | 132.29MB (44.26%)  |
+| 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](src/main/kotlin/problems/p3505)             | 505ms (50.00%)   | 243.26MB (50.00%)  |
 | 3507 | [Minimum Pair Removal to Sort Array I](src/main/kotlin/problems/p3507)                                     | 2ms (100.00%)    | 43.67MB (85.71%)   |
 | 3510 | [Minimum Pair Removal to Sort Array II](src/main/kotlin/problems/p3510)                                    | 387ms (100.00%)  | 108.96MB (100.00%) |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](src/main/kotlin/problems/p3512)                      | 1ms (100.00%)    | 49.50MB (96.30%)   |

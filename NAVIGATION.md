@@ -1,4 +1,4 @@
-# Solved problems: 419
+# Solved problems: 420
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -128,6 +128,7 @@
 | 1356 | [Sort Integers by The Number of 1 Bits](src/main/kotlin/problems/p1356)                                    | 3ms (100.00%)    | 45.36MB (100.00%)  |
 | 1358 | [Number of Substrings Containing All Three Characters](src/main/kotlin/problems/p1358)                     | 9ms (100.00%)    | 44.86MB (72.22%)   |
 | 1382 | [Balance a Binary Search Tree](src/main/kotlin/problems/p1382)                                             | 2ms (100.00%)    | 49.69MB (84.62%)   |
+| 1385 | [Find the Distance Value Between Two Arrays](src/main/kotlin/problems/p1385)                               | 3ms (100.00%)    | 49.46MB (11.11%)   |
 | 1386 | [Cinema Seat Allocation](src/main/kotlin/problems/p1386)                                                   | 7ms (100.00%)    | 58.89MB (71.43%)   |
 | 1390 | [Four Divisors](src/main/kotlin/problems/p1390)                                                            | 9ms (84.62%)     | 48.56MB (46.15%)   |
 | 1391 | [Check if There is a Valid Path in a Grid](src/main/kotlin/problems/p1391)                                 | 8ms (100.00%)    | 77.31MB (100.00%)  |

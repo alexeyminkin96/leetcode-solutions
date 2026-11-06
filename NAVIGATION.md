@@ -1,4 +1,4 @@
-# Solved problems: 420
+# Solved problems: 421
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -238,6 +238,7 @@
 | 2615 | [Sum of Distances](src/main/kotlin/problems/p2615)                                                         | 17ms (100.00%)   | 78.84MB (100.00%)  |
 | 2657 | [Find the Prefix Common Array of Two Arrays](src/main/kotlin/problems/p2657)                               | 2ms (100.00%)    | 49.56MB (87.50%)   |
 | 2685 | [Count the Number of Complete Components](src/main/kotlin/problems/p2685)                                  | 6ms (100.00%)    | 64.68MB (92.31%)   |
+| 2747 | [Count Zero Request Servers](src/main/kotlin/problems/p2747)                                               | 23ms (100.00%)   | 194.40MB (-%)      |
 | 2751 | [Robot Collisions](src/main/kotlin/problems/p2751)                                                         | 18ms (100.00%)   | 87.62MB (100.00%)  |
 | 2770 | [Maximum Number of Jumps to Reach the Last Index](src/main/kotlin/problems/p2770)                          | 21ms (100.00%)   | 48.83MB (100.00%)  |
 | 2778 | [Sum of Squares of Special Elements](src/main/kotlin/problems/p2778)                                       | 1ms (100.00%)    | 45.38MB (100.00%)  |

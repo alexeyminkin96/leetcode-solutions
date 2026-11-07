@@ -1,4 +1,4 @@
-# Solved problems: 421
+# Solved problems: 422
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -183,6 +183,7 @@
 | 1872 | [Stone Game VIII](src/main/kotlin/problems/p1872)                                                          | 378ms (100.00%)  | 61.81MB (66.67%)   |
 | 1877 | [Minimize Maximum Pair Sum in Array](src/main/kotlin/problems/p1877)                                       | 397ms (100.00%)  | 60.92MB (100.00%)  |
 | 1878 | [Get Biggest Three Rhombus Sums in a Grid](src/main/kotlin/problems/p1878)                                 | 14ms (100.00%)   | 47.98MB (100.00%)  |
+| 1882 | [Process Tasks Using Servers](src/main/kotlin/problems/p1882)                                              | 59ms (100.00%)   | 198.24MB (33.33%)  |
 | 1886 | [Determine Whether Matrix Can Be Obtained By Rotation](src/main/kotlin/problems/p1886)                     | 0ms (100.00%)    | 41.68MB (100.00%)  |
 | 1888 | [Minimum Number of Flips to Make the Binary String Alternating](src/main/kotlin/problems/p1888)            | 5ms (100.00%)    | 45.26MB (100.00%)  |
 | 1895 | [Largest Magic Square](src/main/kotlin/problems/p1895)                                                     | 6ms (87.50%)     | 47.26MB (62.50%)   |

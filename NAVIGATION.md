@@ -1,4 +1,4 @@
-# Solved problems: 422
+# Solved problems: 423
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -113,6 +113,7 @@
 | 1260 | [Shift 2D Grid](src/main/kotlin/problems/p1260)                                                            | 2ms (100.00%)    | 48.63MB (100.00%)  |
 | 1262 | [Greatest Sum Divisible by Three](src/main/kotlin/problems/p1262)                                          | 4ms (100.00%)    | 50.15MB (25.00%)   |
 | 1266 | [Minimum Time Visiting All Points](src/main/kotlin/problems/p1266)                                         | 1ms (100.00%)    | 43.08MB (100.00%)  |
+| 1267 | [Count Servers that Communicate](src/main/kotlin/problems/p1267)                                           | 2ms (100.00%)    | 81.20MB (-%)       |
 | 1288 | [Remove Covered Intervals](src/main/kotlin/problems/p1288)                                                 | 3ms (100.00%)    | 48.07MB (75.00%)   |
 | 1291 | [Sequential Digits](src/main/kotlin/problems/p1291)                                                        | 0ms (100.00%)    | 39.53MB (100.00%)  |
 | 1292 | [Maximum Side Length of a Square with Sum Less than or Equal to Threshold](src/main/kotlin/problems/p1292) | 9ms (100.00%)    | 60.61MB (100.00%)  |

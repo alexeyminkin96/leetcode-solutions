@@ -1,4 +1,4 @@
-# Solved problems: 423
+# Solved problems: 424
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -158,6 +158,7 @@
 | 1582 | [Special Positions in a Binary Matrix](src/main/kotlin/problems/p1582)                                     | 2ms (100.00%)    | 50.85MB (80.00%)   |
 | 1590 | [Make Sum Divisible by P](src/main/kotlin/problems/p1590)                                                  | 30ms (80.00%)    | 68.91MB (-%)       |
 | 1594 | [Maximum Non Negative Product in a Matrix](src/main/kotlin/problems/p1594)                                 | 2ms (100.00%)    | 42.36MB (100.00%)  |
+| 1606 | [Find Servers That Handled Most Number of Requests](src/main/kotlin/problems/p1606)                        | 97ms (100.00%)   | 152.29MB (-%)      |
 | 1614 | [Maximum Nesting Depth of the Parentheses](src/main/kotlin/problems/p1614)                                 | 0ms (100.00%)    | 40.48MB (100.00%)  |
 | 1621 | [Number of Sets of K Non-Overlapping Line Segments](src/main/kotlin/problems/p1621)                        | 0ms (100.00%)    | 52.14MB (100.00%)  |
 | 1653 | [Minimum Deletions to Make String Balanced](src/main/kotlin/problems/p1653)                                | 10ms (100.00%)   | 47.24MB (85.71%)   |

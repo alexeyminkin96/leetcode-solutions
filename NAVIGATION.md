@@ -1,4 +1,4 @@
-# Solved problems: 424
+# Solved problems: 425
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -371,6 +371,7 @@
 | 3666 | [Minimum Operations to Equalize Binary String](src/main/kotlin/problems/p3666)                             | 6ms (100.00%)    | 47.84MB (100.00%)  |
 | 3689 | [Maximum Total Subarray Value I](src/main/kotlin/problems/p3689)                                           | 3ms (98.79%)     | 61.99MB (98.79%)   |
 | 3691 | [Maximum Total Subarray Value II](src/main/kotlin/problems/p3691)                                          | 154ms (72.44%)   | 77.68MB (63.46%)   |
+| 3693 | [Climbing Stairs II](src/main/kotlin/problems/p3693)                                                       | 7ms (100.00%)    | 171.07MB (22.22%)  |
 | 3699 | [Number of ZigZag Arrays I](src/main/kotlin/problems/p3699)                                                | 121ms (97.73%)   | 46.57MB (62.50%)   |
 | 3700 | [Number of ZigZag Arrays II](src/main/kotlin/problems/p3700)                                               | 160ms (54.84%)   | 48.34MB (59.68%)   |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](src/main/kotlin/problems/p3702)                            | 3ms (100.00%)    | 72.24MB (100.00%)  |

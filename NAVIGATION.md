@@ -1,4 +1,4 @@
-# Solved problems: 425
+# Solved problems: 426
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -397,6 +397,7 @@
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](src/main/kotlin/problems/p3756)                       | 15ms (100.00%)   | 133.80MB (100.00%) |
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](src/main/kotlin/problems/p3761)                           | 28ms (100.00%)   | 65.80MB (100.00%)  |
 | 3783 | [Mirror Distance of an Integer](src/main/kotlin/problems/p3783)                                            | 1ms (100.00%)    | 40.73MB (100.00%)  |
+| 3789 | [Minimum Cost to Acquire Required Items](src/main/kotlin/problems/p3789)                                   | 1ms (100.00%)    | 45.75MB (33.33%)   |
 | 3838 | [Weighted Word Mapping](src/main/kotlin/problems/p3838)                                                    | 2ms (100.00%)    | 48.92MB (78.06%)   |
 | 3841 | [Palindromic Path Queries in a Tree](src/main/kotlin/problems/p3841)                                       | 139ms (100.00%)  | 248.85MB (-%)      |
 | 3863 | [Minimum Operations to Sort a String](src/main/kotlin/problems/p3863)                                      | 12ms (100.00%)   | 72.63MB (-%)       |

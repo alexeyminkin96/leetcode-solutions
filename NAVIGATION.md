@@ -1,4 +1,4 @@
-# Solved problems: 427
+# Solved problems: 428
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -304,6 +304,7 @@
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                          | 8ms (100.00%)    | 82.26MB (100.00%)  |
 | 3414 | [Maximum Score of Non-overlapping Intervals](src/main/kotlin/problems/p3414)                               | 684ms (100.00%)  | 102.33MB (100.00%) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](src/main/kotlin/problems/p3418)                                   | 22ms (100.00%)   | 98.38MB (-%)       |
+| 3420 | [Count Non-Decreasing Subarrays After K Operations](src/main/kotlin/problems/p3420)                        | 21ms (100.00%)   | 130.70MB (25.00%)  |
 | 3432 | [Count Partitions with Even Sum Difference](src/main/kotlin/problems/p3432)                                | 1ms (100.00%)    | 41.41MB (100.00%)  |
 | 3433 | [Count Mentions Per User](src/main/kotlin/problems/p3433)                                                  | 11ms (100.00%)   | 48.99MB (100.00%)  |
 | 3453 | [Separate Squares I](src/main/kotlin/problems/p3453)                                                       | 193ms (100.00%)  | 113.33MB (100.00%) |

@@ -1,0 +1,8 @@
+package problems.p3420
+
+/**
+ * **[Count Non-Decreasing Subarrays After K Operations](https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/)**
+ */
+interface Solution {
+    fun countNonDecreasingSubarrays(nums: IntArray, k: Int): Long
+}

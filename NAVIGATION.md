@@ -1,4 +1,4 @@
-# Solved problems: 429
+# Solved problems: 430
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -147,6 +147,7 @@
 | 1513 | [Number of Substrings With Only 1s](src/main/kotlin/problems/p1513)                                        | 4ms (98.06%)     | 44.91MB (70.97%)   |
 | 1520 | [Maximum Number of Non-Overlapping Substrings](src/main/kotlin/problems/p1520)                             | 8ms (100.00%)    | 47.61MB (100.00%)  |
 | 1523 | [Count Odd Numbers in an Interval Range](src/main/kotlin/problems/p1523)                                   | 61ms (100.00%)   | 35.60MB (100.00%)  |
+| 1524 | [Number of Sub-arrays With Odd Sum](src/main/kotlin/problems/p1524)                                        | 5ms (100.00%)    | 84.10MB (-%)       |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](src/main/kotlin/problems/p1526)         | 4ms (94.32%)     | 60.58MB (58.33%)   |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](src/main/kotlin/problems/p1536)                                   | 2ms (100.00%)    | 57.56MB (100.00%)  |
 | 1541 | [Minimum Insertions to Balance a Parentheses String](src/main/kotlin/problems/p1541)                       | 7ms (100.00%)    | 46.82MB (25.00%)   |

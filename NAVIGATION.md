@@ -1,4 +1,4 @@
-# Solved problems: 430
+# Solved problems: 431
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -223,6 +223,7 @@
 | 2196 | [Create Binary Tree From Descriptions](src/main/kotlin/problems/p2196)                                     | 14ms (100.00%)   | 76.73MB (47.67%)   |
 | 2211 | [Count Collisions on a Road](src/main/kotlin/problems/p2211)                                               | 13ms (100.00%)   | 46.60MB (100.00%)  |
 | 2213 | [Longest Substring of One Repeating Character](src/main/kotlin/problems/p2213)                             | 76ms (100.00%)   | 65.99MB (100.00%)  |
+| 2243 | [Calculate Digit Sum of a String](src/main/kotlin/problems/p2243)                                          | 1ms (100.00%)    | 45.90MB (6.25%)    |
 | 2265 | [Count Nodes Equal to Average of Subtree](src/main/kotlin/problems/p2265)                                  | 109ms (100.00%)  | 42.40MB (100.00%)  |
 | 2267 | [Check if There Is a Valid Parentheses String Path](src/main/kotlin/problems/p2267)                        | 16ms (100.00%)   | 47.87MB (100.00%)  |
 | 2333 | [Minimum Sum of Squared Difference](src/main/kotlin/problems/p2333)                                        | 6ms (100.00%)    | 61.74MB (87.50%)   |

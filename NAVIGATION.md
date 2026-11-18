@@ -1,4 +1,4 @@
-# Solved problems: 432
+# Solved problems: 433
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -258,6 +258,7 @@
 | 2906 | [Construct Product Matrix](src/main/kotlin/problems/p2906)                                                 | 8ms (100.00%)    | 103.74MB (100.00%) |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](src/main/kotlin/problems/p2911)                               | 90ms (100.00%)   | 51.87MB (25.00%)   |
 | 2913 | [Subarrays Distinct Element Sum of Squares I](src/main/kotlin/problems/p2913)                              | 7ms (85.71%)     | 44.64MB (100.00%)  |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](src/main/kotlin/problems/p2914)                | 5ms (100.00%)    | 51.55MB (20.00%)   |
 | 2916 | [Subarrays Distinct Element Sum of Squares II](src/main/kotlin/problems/p2916)                             | 119ms (100.00%)  | 144.52MB (-%)      |
 | 2943 | [Maximize Area of Square Hole in Grid](src/main/kotlin/problems/p2943)                                     | 3ms (100.00%)    | 44.28MB (100.00%)  |
 | 2946 | [Matrix Similarity After Cyclic Shifts](src/main/kotlin/problems/p2946)                                    | 1ms (100.00%)    | 48.59MB (100.00%)  |

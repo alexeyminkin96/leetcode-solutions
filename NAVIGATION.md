@@ -1,4 +1,4 @@
-# Solved problems: 433
+# Solved problems: 434
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -238,6 +238,7 @@
 | 2515 | [Shortest Distance to Target String in a Circular Array](src/main/kotlin/problems/p2515)                   | 0ms (100.00%)    | 47.05MB (40.00%)   |
 | 2540 | [Minimum Common Value](src/main/kotlin/problems/p2540)                                                     | 1ms (100.00%)    | 61.42MB (100.00%)  |
 | 2553 | [Separate the Digits in an Array](src/main/kotlin/problems/p2553)                                          | 1ms (100.00%)    | 45.73MB (96.63%)   |
+| 2567 | [Minimum Score by Changing Two Elements](src/main/kotlin/problems/p2567)                                   | 3ms (100.00%)    | 65.00MB (75.00%)   |
 | 2573 | [Find the String with LCP](src/main/kotlin/problems/p2573)                                                 | 12ms (100.00%)   | 154.65MB (100.00%) |
 | 2574 | [Left and Right Sum Differences](src/main/kotlin/problems/p2574)                                           | 2ms (97.81%)     | 46.53MB (94.26%)   |
 | 2615 | [Sum of Distances](src/main/kotlin/problems/p2615)                                                         | 17ms (100.00%)   | 78.84MB (100.00%)  |

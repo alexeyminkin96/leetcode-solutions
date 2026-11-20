@@ -1,4 +1,4 @@
-# Solved problems: 434
+# Solved problems: 435
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -274,6 +274,7 @@
 | 3014 | [Minimum Number of Pushes to Type Word I](src/main/kotlin/problems/p3014)                                  | 0ms (100.00%)    | 41.54MB (100.00%)  |
 | 3016 | [Minimum Number of Pushes to Type Word II](src/main/kotlin/problems/p3016)                                 | 5ms (100.00%)    | 48.08MB (100.00%)  |
 | 3020 | [Find the Maximum Number of Elements in Subset](src/main/kotlin/problems/p3020)                            | 32ms (100.00%)   | 70.44MB (78.45%)   |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](src/main/kotlin/problems/p3041)             | 20ms (100.00%)   | 81.63MB (50.00%)   |
 | 3043 | [Find the Length of the Longest Common Prefix](src/main/kotlin/problems/p3043)                             | 34ms (100.00%)   | 80.49MB (9.09%)    |
 | 3047 | [Find the Largest Area of Square Inside Two Rectangles](src/main/kotlin/problems/p3047)                    | 189ms (100.00%)  | 68.04MB (100.00%)  |
 | 3069 | [Distribute Elements Into Two Arrays I](src/main/kotlin/problems/p3069)                                    | 1ms (100.00%)    | 44.91MB (100.00%)  |

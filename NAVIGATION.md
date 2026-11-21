@@ -1,4 +1,4 @@
-# Solved problems: 435
+# Solved problems: 436
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -302,6 +302,7 @@
 | 3312 | [Sorted GCD Pair Queries](src/main/kotlin/problems/p3312)                                                  | 22ms (100.00%)   | 75.71MB (50.00%)   |
 | 3314 | [Construct the Minimum Bitwise Array I](src/main/kotlin/problems/p3314)                                    | 1ms (100.00%)    | 44.70MB (100.00%)  |
 | 3315 | [Construct the Minimum Bitwise Array II](src/main/kotlin/problems/p3315)                                   | 1ms (100.00%)    | 46.75MB (100.00%)  |
+| 3331 | [Find Subtree Sizes After Changes](src/main/kotlin/problems/p3331)                                         | 42ms (100.00%)   | 168.17MB (33.33%)  |
 | 3336 | [Find the Number of Subsequences With Equal GCD](src/main/kotlin/problems/p3336)                           | 105ms (100.00%)  | 49.36MB (100.00%)  |
 | 3345 | [Smallest Divisible Digit Product I](src/main/kotlin/problems/p3345)                                       | 0ms (100.00%)    | 40.99MB (66.67%)   |
 | 3348 | [Smallest Divisible Digit Product II](src/main/kotlin/problems/p3348)                                      | 18ms (100.00%)   | 50.82MB (100.00%)  |

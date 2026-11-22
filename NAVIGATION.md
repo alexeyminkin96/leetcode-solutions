@@ -1,4 +1,4 @@
-# Solved problems: 436
+# Solved problems: 437
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -213,6 +213,7 @@
 | 2092 | [Find All People With Secret](src/main/kotlin/problems/p2092)                                              | 97ms (100.00%)   | 105.20MB (100.00%) |
 | 2095 | [Delete the Middle Node of a Linked List](src/main/kotlin/problems/p2095)                                  | 5ms (43.46%)     | 67.35MB (87.14%)   |
 | 2110 | [Number of Smooth Descent Periods of a Stock](src/main/kotlin/problems/p2110)                              | 3ms (100.00%)    | 62.11MB (100.00%)  |
+| 2124 | [Check if All A's Appears Before All B's](src/main/kotlin/problems/p2124)                                  | 0ms (100.00%)    | 45.48MB (20.00%)   |
 | 2126 | [Destroying Asteroids](src/main/kotlin/problems/p2126)                                                     | 34ms (100.00%)   | 62.36MB (100.00%)  |
 | 2130 | [Maximum Twin Sum of a Linked List](src/main/kotlin/problems/p2130)                                        | 6ms (85.87%)     | 60.65MB (79.20%)   |
 | 2141 | [Maximum Running Time of N Computers](src/main/kotlin/problems/p2141)                                      | 17ms (100.00%)   | 61.12MB (100.00%)  |

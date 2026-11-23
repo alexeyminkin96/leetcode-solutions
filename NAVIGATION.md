@@ -1,4 +1,4 @@
-# Solved problems: 437
+# Solved problems: 438
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -126,6 +126,7 @@
 | 1344 | [Angle Between Hands of a Clock](src/main/kotlin/problems/p1344)                                           | 0ms (100.00%)    | 39.79MB (89.66%)   |
 | 1345 | [Jump Game IV](src/main/kotlin/problems/p1345)                                                             | 46ms (100.00%)   | 60.39MB (100.00%)  |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](src/main/kotlin/problems/p1351)                                | 0ms (100.00%)    | 48.00MB (96.00%)   |
+| 1352 | [Product of the Last K Numbers](src/main/kotlin/problems/p1352)                                            | 38ms (100.00%)   | 108.85MB (20.00%)  |
 | 1356 | [Sort Integers by The Number of 1 Bits](src/main/kotlin/problems/p1356)                                    | 3ms (100.00%)    | 45.36MB (100.00%)  |
 | 1358 | [Number of Substrings Containing All Three Characters](src/main/kotlin/problems/p1358)                     | 9ms (100.00%)    | 44.86MB (72.22%)   |
 | 1382 | [Balance a Binary Search Tree](src/main/kotlin/problems/p1382)                                             | 2ms (100.00%)    | 49.69MB (84.62%)   |

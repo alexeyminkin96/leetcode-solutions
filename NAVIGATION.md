@@ -1,4 +1,4 @@
-# Solved problems: 438
+# Solved problems: 439
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -312,6 +312,7 @@
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)    | 40.84MB (57.14%)   |
 | 3379 | [Transformed Array](src/main/kotlin/problems/p3379)                                                        | 143ms (100.00%)  | 44.86MB (33.33%)   |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](src/main/kotlin/problems/p3381)                          | 8ms (100.00%)    | 82.26MB (100.00%)  |
+| 3411 | [Maximum Subarray With Equal Products](src/main/kotlin/problems/p3411)                                     | 2ms (100.00%)    | 46.31MB (60.00%)   |
 | 3414 | [Maximum Score of Non-overlapping Intervals](src/main/kotlin/problems/p3414)                               | 684ms (100.00%)  | 102.33MB (100.00%) |
 | 3418 | [Maximum Amount of Money Robot Can Earn](src/main/kotlin/problems/p3418)                                   | 22ms (100.00%)   | 98.38MB (-%)       |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](src/main/kotlin/problems/p3420)                        | 21ms (100.00%)   | 130.70MB (25.00%)  |

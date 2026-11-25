@@ -1,4 +1,4 @@
-# Solved problems: 439
+# Solved problems: 440
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -431,6 +431,7 @@
 | 3899 | [Angles of a Triangle](src/main/kotlin/problems/p3899)                                                     | 3ms (100.00%)    | 48.04MB (100.00%)  |
 | 3903 | [Smallest Stable Index I](src/main/kotlin/problems/p3903)                                                  | 1ms (100.00%)    | 44.76MB (100.00%)  |
 | 3904 | [Smallest Stable Index II](src/main/kotlin/problems/p3904)                                                 | 4ms (100.00%)    | 72.41MB (100.00%)  |
+| 3934 | [Smallest Unique Subarray](src/main/kotlin/problems/p3934)                                                 | 75ms (100.00%)   | 100.23MB (100.00%) |
 | 3942 | [Minimum Operations to Sort a Permutation](src/main/kotlin/problems/p3942)                                 | 3ms (100.00%)    | 165.17MB (-%)      |
 | 3963 | [Create Grid With Exactly One Path](src/main/kotlin/problems/p3963)                                        | 2ms (100.00%)    | 49.00MB (22.22%)   |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](src/main/kotlin/problems/p3970)            | 33ms (100.00%)   | 260.33MB (-%)      |

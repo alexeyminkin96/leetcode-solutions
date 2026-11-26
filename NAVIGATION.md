@@ -1,4 +1,4 @@
-# Solved problems: 440
+# Solved problems: 441
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -308,6 +308,7 @@
 | 3336 | [Find the Number of Subsequences With Equal GCD](src/main/kotlin/problems/p3336)                           | 105ms (100.00%)  | 49.36MB (100.00%)  |
 | 3345 | [Smallest Divisible Digit Product I](src/main/kotlin/problems/p3345)                                       | 0ms (100.00%)    | 40.99MB (66.67%)   |
 | 3348 | [Smallest Divisible Digit Product II](src/main/kotlin/problems/p3348)                                      | 18ms (100.00%)   | 50.82MB (100.00%)  |
+| 3360 | [Stone Removal Game](src/main/kotlin/problems/p3360)                                                       | 0ms (100.00%)    | 44.76MB (14.29%)   |
 | 3364 | [Minimum Positive Sum Subarray](src/main/kotlin/problems/p3364)                                            | 3ms (100.00%)    | 50.63MB (14.29%)   |
 | 3370 | [Smallest Number With All Set Bits](src/main/kotlin/problems/p3370)                                        | 0ms (100.00%)    | 40.84MB (57.14%)   |
 | 3379 | [Transformed Array](src/main/kotlin/problems/p3379)                                                        | 143ms (100.00%)  | 44.86MB (33.33%)   |

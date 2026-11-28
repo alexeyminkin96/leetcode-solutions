@@ -1,4 +1,4 @@
-# Solved problems: 442
+# Solved problems: 443
 
 | №    | Problem                                                                                                    | Best runtime     | Best memory        |
 |------|------------------------------------------------------------------------------------------------------------|------------------|--------------------|
@@ -435,6 +435,7 @@
 | 3934 | [Smallest Unique Subarray](src/main/kotlin/problems/p3934)                                                 | 75ms (100.00%)   | 100.23MB (100.00%) |
 | 3942 | [Minimum Operations to Sort a Permutation](src/main/kotlin/problems/p3942)                                 | 3ms (100.00%)    | 165.17MB (-%)      |
 | 3946 | [Maximum Number of Items From Sale I](src/main/kotlin/problems/p3946)                                      | 22ms (100.00%)   | 53.36MB (66.67%)   |
+| 3947 | [Maximum Number of Items From Sale II](src/main/kotlin/problems/p3947)                                     | 44ms (100.00%)   | 294.75MB (-%)      |
 | 3963 | [Create Grid With Exactly One Path](src/main/kotlin/problems/p3963)                                        | 2ms (100.00%)    | 49.00MB (22.22%)   |
 | 3970 | [Shortest Path With At Most K Consecutive Identical Characters](src/main/kotlin/problems/p3970)            | 33ms (100.00%)   | 260.33MB (-%)      |
 | 4020 | [Elevator Requests I](src/main/kotlin/problems/p4020)                                                      | 1ms (100.00%)    | 43.08MB (100.00%)  |
